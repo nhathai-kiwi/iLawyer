@@ -1,0 +1,1010 @@
+Question Number: 1
+	góp vốn : 1
+	ngân hàng : 1
+	như vậy : 1
+	tài sản : 1
+	công ty : 5
+Question Number: 2
+	đốc công : 1
+	chủ trương : 2
+	diện tích : 2
+	giám đốc : 2
+	thỏa thuận : 2
+	bồi thường : 3
+	hợp đồng : 3
+	cây xăng : 4
+	dự án : 7
+	công ty : 9
+Question Number: 3
+	cám ơn : 1
+	hoạt động : 1
+	kinh doanh : 1
+	nhà riêng : 1
+	nhân viên : 1
+	đăng ký : 2
+	địa chỉ : 2
+	địa điểm : 2
+Question Number: 4
+	hàng tháng : 1
+	luật sư : 1
+	pháp luật : 1
+	trách nhiệm : 1
+	đại diện : 1
+	ủy quyền : 1
+	góp vốn : 2
+	thành viên : 2
+	công ty : 3
+	giám đốc : 3
+Question Number: 5
+	thế nào : 1
+	thủ tục : 1
+	trung tâm : 1
+	trường hợp : 1
+	tương ứng : 1
+	chăm sóc : 2
+	kinh doanh : 2
+	trình độ : 2
+	tư vấn : 2
+	đăng ký : 3
+Question Number: 6
+	chữ cái : 2
+	hoàn toàn : 2
+	tìm hiểu : 2
+	công ty : 3
+	hiện hành : 3
+	đặt tên : 5
+	đăng ký : 7
+	có thể : 9
+	kinh doanh : 13
+	doanh nghiệp : 17
+Question Number: 7
+	thường xuyên : 5
+	thực hiện : 6
+	cá nhân : 7
+	mua bán : 8
+	pháp luật : 9
+	thương mại : 11
+	đăng ký : 14
+	địa điểm : 15
+	kinh doanh : 22
+	hoạt động : 32
+Question Number: 8
+	luật sư : 2
+	pháp luật : 2
+	tư vấn : 2
+	góp vốn : 3
+	hạn chế : 4
+	công ty : 5
+	liên doanh : 5
+	lập công : 5
+	tỷ lệ : 5
+	kinh doanh : 11
+Question Number: 9
+	tài liệu : 1
+	tư vấn : 1
+	đơn vị : 1
+	bàn giao : 2
+	công ty : 2
+	sự việc : 2
+	trách nhiệm : 2
+	biên bản : 3
+	nội dung : 3
+	thi công : 3
+Question Number: 10
+	tương đương : 4
+	địa điểm : 4
+	nghĩa vụ : 5
+	đăng ký : 5
+	đại diện : 5
+	kinh doanh : 6
+	pháp luật : 7
+	thực hiện : 7
+	hoạt động : 10
+	ủy quyền : 10
+Question Number: 11
+	trường hợp : 8
+	hoạt động : 9
+	thanh toán : 9
+	đăng ký : 10
+	quyết định : 12
+	công ty : 14
+	cơ quan : 14
+	kinh doanh : 19
+	giải thể : 32
+	doanh nghiệp : 53
+Question Number: 12
+	công bố : 1
+	nhập khẩu : 1
+	tư vấn : 1
+Question Number: 13
+	trường hợp : 1
+	kết hợp : 2
+	sử dụng : 2
+	tư vấn : 2
+	đại diện : 2
+	công ty : 3
+	hợp đồng : 3
+	ký kết : 3
+	thông tin : 3
+	lao động : 8
+Question Number: 14
+	doanh nghiệp : 1
+	gia tăng : 1
+	hóa đơn : 1
+	hợp đồng : 1
+	như thế : 1
+	thế nào : 1
+	yêu cầu : 1
+	cá nhân : 2
+	thu nhập : 2
+	ô tô : 2
+Question Number: 15
+	cho phép : 1
+	câu hỏi : 1
+	hẹn hò : 1
+	luật sư : 1
+	mai mối : 1
+	nhà nước : 1
+Question Number: 16
+	cơ sở : 3
+	tư vấn : 3
+	ủy quyền : 3
+	luật sư : 4
+	trường hợp : 4
+	hợp đồng : 6
+	tài sản : 6
+	pháp luật : 7
+	đại diện : 11
+	doanh nghiệp : 14
+Question Number: 17
+	kế hoạch : 4
+	kế toán : 4
+	môn bài : 4
+	khai báo : 5
+	công ty : 7
+	kinh doanh : 7
+	thành viên : 7
+	thực hiện : 8
+	đăng ký : 9
+	doanh nghiệp : 11
+Question Number: 18
+	tư vấn : 3
+	đảm bảo : 3
+	doanh nghiệp : 4
+	kỹ thuật : 4
+	sức khỏe : 4
+	thẩm mỹ : 4
+	cơ sở : 5
+	bác sĩ : 7
+	đăng ký : 7
+	kinh doanh : 11
+Question Number: 19
+	thực hiện : 2
+	tư vấn : 2
+	có thể : 4
+	thủ tục : 4
+	thành viên : 5
+	phụ tùng : 6
+	bán buôn : 7
+	công ty : 7
+	kinh doanh : 8
+	ô tô : 12
+Question Number: 20
+	cá nhân : 6
+	lập công : 6
+	sáng lập : 6
+	thành viên : 7
+	doanh nghiệp : 9
+	nội địa : 10
+	công ty : 11
+	đăng ký : 16
+	du lịch : 17
+	kinh doanh : 35
+Question Number: 21
+	kỹ thuật : 4
+	thẩm định : 4
+	tư vấn : 4
+	đăng ký : 4
+	phạm vi : 5
+	y tế : 5
+	chứng chỉ : 6
+	hoạt động : 8
+	hồ sơ : 11
+	cơ sở : 15
+Question Number: 22
+	kế hoạch : 2
+	nội dung : 2
+	tham mưu : 2
+	thông tin : 2
+	thủ tục : 4
+	thực hiện : 4
+	hướng dẫn : 5
+	doanh nghiệp : 9
+	đăng ký : 11
+	chứng nhận : 14
+Question Number: 23
+	giấy phép : 5
+	kinh doanh : 5
+	thực hiện : 6
+	hồ sơ : 10
+	hoạt động : 12
+	thông tin : 14
+	giao dịch : 15
+	thương mại : 21
+	tổ chức : 22
+	đăng ký : 28
+Question Number: 24
+	đóng thuế : 1
+	đầy đủ : 1
+	thành phẩm : 2
+	thủ tục : 2
+	vi phạm : 2
+	gia đình : 3
+	kinh doanh : 3
+	quản lý : 3
+	thị trường : 3
+	hàng hóa : 6
+Question Number: 25
+	toàn bộ : 2
+	tư vấn : 2
+	mua bán : 3
+	ô tô : 3
+	pháp luật : 4
+	thương mại : 4
+	địa điểm : 5
+	đăng ký : 6
+	kinh doanh : 11
+	hoạt động : 12
+Question Number: 26
+	bảo quản : 4
+	hồ sơ : 4
+	yêu cầu : 5
+	tiêu chuẩn : 6
+	vật liệu : 6
+	chứng nhận : 8
+	thành phẩm : 9
+	cơ sở : 10
+	sản phẩm : 12
+	sản xuất : 35
+Question Number: 27
+	câu hỏi : 1
+	luật sư : 1
+	thủ tục : 1
+	kinh doanh : 3
+Question Number: 28
+	vận chuyển : 3
+	giải quyết : 4
+	sản phẩm : 4
+	thông báo : 4
+	trả hàng : 4
+	phán quyết : 6
+	tiếp nhận : 6
+	yêu cầu : 8
+	khiếu nại : 13
+	khách hàng : 15
+Question Number: 29
+	giấy phép : 1
+	nội dung : 1
+	sử dụng : 1
+	thông minh : 1
+	quảng cáo : 3
+Question Number: 30
+	tiến hành : 3
+	tư vấn : 3
+	có thể : 4
+	đăng ký : 4
+	cá nhân : 5
+	giao dịch : 6
+	hoạt động : 6
+	tổ chức : 6
+	kinh doanh : 10
+	thương mại : 13
+Question Number: 31
+	tư vấn : 2
+	đơn vị : 2
+	luật sư : 3
+	quản trị : 3
+	trách nhiệm : 3
+	trường hợp : 3
+	giám đốc : 4
+	quản lý : 4
+	công ty : 7
+	kế toán : 9
+Question Number: 32
+	đảm bảo : 2
+	kinh doanh : 3
+	tham gia : 3
+	thỏa thuận : 3
+	có thể : 4
+	công ty : 4
+	doanh nghiệp : 4
+	hợp đồng : 4
+	thành viên : 4
+	góp vốn : 12
+Question Number: 33
+	đa số : 1
+	cá nhân : 2
+	giao dịch : 2
+	tư vấn : 2
+	vấn đề : 2
+	đại diện : 2
+	có thể : 3
+	thực hiện : 3
+	tài khoản : 4
+	công ty : 8
+Question Number: 34
+	hợp đồng : 3
+	nhân viên : 3
+	pháp luật : 3
+	cá nhân : 5
+	có thể : 5
+	công ty : 5
+	giao dịch : 6
+	thực hiện : 6
+	đại diện : 6
+	ủy quyền : 19
+Question Number: 35
+	công thương : 1
+	hỗ trợ : 1
+	tư vấn : 1
+	luật sư : 2
+Question Number: 36
+	phân chia : 3
+	quyền lợi : 3
+	tham khảo : 3
+	tư vấn : 3
+	huy động : 4
+	thành viên : 4
+	góp vốn : 6
+	công ty : 7
+	có thể : 8
+	kinh doanh : 9
+Question Number: 37
+	mẫu giáo : 6
+	tư thục : 6
+	sử dụng : 7
+	tổ chức : 7
+	quản lý : 8
+	xây dựng : 9
+	diện tích : 10
+	hoạt động : 12
+	mầm non : 16
+	giáo dục : 21
+Question Number: 38
+	ô tô : 2
+	đăng ký : 2
+	có thể : 3
+	phá sản : 3
+	sở hữu : 3
+	tài sản : 3
+	tư vấn : 3
+	trường hợp : 4
+	giám đốc : 7
+	công ty : 17
+Question Number: 39
+	xử lý : 6
+	hội đồng : 9
+	có thể : 10
+	cơ quan : 10
+	hàng hóa : 10
+	vi phạm : 11
+	sử dụng : 12
+	hành vi : 13
+	công ty : 16
+	hóa đơn : 28
+Question Number: 40
+	có thể : 9
+	thủ tục : 9
+	hoạt động : 12
+	kinh doanh : 12
+	văn phòng : 16
+	đại diện : 18
+	doanh nghiệp : 20
+	đăng ký : 25
+	sáp nhập : 36
+	công ty : 55
+Question Number: 41
+	góp vốn : 7
+	gia đình : 8
+	luật sư : 9
+	trường hợp : 11
+	thỏa thuận : 12
+	thực hiện : 13
+	nghĩa vụ : 14
+	thành viên : 24
+	tài sản : 24
+	hợp đồng : 30
+Question Number: 42
+	giám đốc : 1
+	pháp luật : 1
+	quyết định : 1
+	đăng ký : 1
+	đại diện : 1
+Question Number: 43
+	nội dung : 2
+	thực hiện : 2
+	trường hợp : 2
+	tư vấn : 2
+	địa điểm : 2
+	luật sư : 3
+	thành phố : 3
+	trung ương : 3
+	doanh nghiệp : 6
+	sản xuất : 6
+Question Number: 44
+	chi phí : 1
+	hóa đơn : 1
+	lãnh thổ : 1
+	nội dung : 1
+	tư vấn : 1
+	văn phòng : 1
+	xảy ra : 1
+	hoa hồng : 2
+	hợp đồng : 2
+	trường hợp : 3
+Question Number: 45
+	chăm sóc : 1
+	giấy phép : 1
+	thủ tục : 1
+	tư vấn : 1
+	luật sư : 3
+Question Number: 46
+	dân cư : 1
+	hạn chế : 1
+	hợp đồng : 1
+	pháp luật : 1
+	sư phạm : 1
+	thường xuyên : 1
+	thủ tục : 1
+	tốt nghiệp : 1
+	vi phạm : 1
+	âm nhạc : 1
+Question Number: 47
+	trực tiếp : 3
+	hành vi : 4
+	tư vấn : 4
+	hòa giải : 5
+	sử dụng : 5
+	trường hợp : 5
+	có thể : 6
+	công ty : 8
+	vi phạm : 12
+	lao động : 23
+Question Number: 48
+	bao nhiêu : 1
+	công ty : 2
+Question Number: 49
+	ban đầu : 1
+	căn cứ : 1
+	luật sư : 1
+	như vậy : 1
+	thiết kế : 1
+	tiền của : 1
+	tư vấn : 2
+Question Number: 50
+	chứng nhận : 2
+	doanh nghiệp : 2
+	thành viên : 2
+	thủ tục : 2
+	tư vấn : 2
+	vấn đề : 2
+	kinh doanh : 3
+	góp vốn : 4
+	sở hữu : 5
+	công ty : 11
+Question Number: 51
+	hoàn toàn : 1
+	liên quan : 1
+	như thế : 1
+	sản phẩm : 1
+	thì phải : 1
+	thế nào : 1
+	tư vấn : 1
+	tất cả : 1
+	luật sư : 2
+	tổ chức : 2
+Question Number: 52
+	thế nào : 2
+	thủ tục : 2
+	yêu cầu : 2
+	doanh nghiệp : 3
+	hợp đồng : 3
+	thực hiện : 3
+	tư vấn : 3
+	đăng ký : 3
+	công ty : 6
+	chứng nhận : 7
+Question Number: 53
+	trách nhiệm : 1
+	trình tự : 1
+	vật liệu : 1
+	đòi tiền : 1
+	đơn vị : 1
+	đề nghị : 1
+	đốc công : 1
+	đồng chí : 1
+	xây dựng : 2
+	công ty : 4
+Question Number: 54
+	suy nghĩ : 1
+	sử dụng : 1
+	tìm hiểu : 1
+	vấn đề : 1
+	đơn vị : 1
+	có thể : 2
+	công ty : 2
+	luật sư : 2
+	thiết kế : 2
+	sản xuất : 3
+Question Number: 55
+	nghiên cứu : 1
+	sản xuất : 1
+	thông tin : 1
+	thời gian : 1
+	tra cứu : 1
+	trả lời : 1
+	có thể : 2
+	sở hữu : 3
+	trí tuệ : 3
+	sản phẩm : 6
+Question Number: 56
+	mua bán : 3
+	thực hiện : 3
+	trường hợp : 3
+	hàng hóa : 4
+	pháp luật : 4
+	thương mại : 4
+	đăng ký : 5
+	địa điểm : 5
+	hoạt động : 11
+	kinh doanh : 11
+Question Number: 57
+	có thể : 1
+	công ty : 1
+	lệ phí : 1
+	sử dụng : 1
+	tiếp tục : 1
+	tư vấn : 1
+	tốn kém : 1
+	thực hiện : 2
+	ô tô : 2
+	đăng ký : 2
+Question Number: 58
+	có thể : 7
+	hữu hạn : 7
+	thỏa thuận : 7
+	trách nhiệm : 8
+	dân sự : 10
+	giao dịch : 10
+	thành viên : 11
+	chứng nhận : 12
+	cổ phần : 13
+	công ty : 57
+Question Number: 59
+	tư vấn : 1
+	đại diện : 1
+	đề cử : 1
+	đồng ý : 1
+	giám đốc : 2
+	như thế : 2
+	trách nhiệm : 2
+	công ty : 3
+	hoạt động : 3
+	lao động : 5
+Question Number: 60
+	có thể : 1
+	công nhận : 1
+	công ty : 1
+	luật sư : 1
+	vấn đề : 1
+	đăng ký : 1
+	tư vấn : 2
+	sản phẩm : 4
+Question Number: 61
+	trình tự : 4
+	trường hợp : 4
+	đồng ý : 4
+	pháp luật : 5
+	tiến hành : 6
+	tổ chức : 6
+	đăng ký : 12
+	tài sản : 17
+	tham gia : 22
+	đấu giá : 39
+Question Number: 62
+	công ty : 1
+	nhập khẩu : 1
+	thời gian : 1
+	thủ tục : 1
+Question Number: 63
+	tham gia : 2
+	thành viên : 2
+	tiến hành : 2
+	trường hợp : 2
+	tư vấn : 2
+	vấn đề : 2
+	cá nhân : 3
+	gia đình : 3
+	đăng ký : 8
+	kinh doanh : 15
+Question Number: 64
+	có thể : 4
+	doanh nghiệp : 4
+	liên quan : 4
+	xây dựng : 4
+	báo cáo : 6
+	kê khai : 6
+	đề nghị : 8
+	chứng chỉ : 10
+	tài chính : 10
+	năng lực : 11
+Question Number: 65
+	kinh doanh : 1
+	thủ tục : 1
+	đăng ký : 1
+	sản phẩm : 2
+Question Number: 66
+	có thể : 3
+	góp vốn : 3
+	thủ tục : 3
+	cá nhân : 4
+	doanh nghiệp : 5
+	sở hữu : 5
+	thành viên : 5
+	trường hợp : 5
+	đăng ký : 5
+	công ty : 18
+Question Number: 67
+	yêu cầu : 1
+	ý tưởng : 1
+	ấm chén : 1
+	giấy phép : 2
+	luật sư : 2
+	sản xuất : 2
+	chứng nhận : 3
+	đăng ký : 3
+	cửa hàng : 4
+	kinh doanh : 4
+Question Number: 68
+	doanh nghiệp : 5
+	góp vốn : 5
+	trường hợp : 5
+	đồng ý : 6
+	pháp luật : 8
+	tài sản : 10
+	sở hữu : 13
+	thừa kế : 13
+	thành viên : 25
+	công ty : 44
+Question Number: 69
+	trách nhiệm : 1
+	trường hợp : 1
+	trả lời : 1
+	tài sản : 1
+	đăng ký : 1
+	đầy đủ : 1
+	địa điểm : 1
+	cá nhân : 2
+	có thể : 2
+	kinh doanh : 6
+Question Number: 70
+	sản phẩm : 1
+	sự nghiệp : 1
+	thống nhất : 1
+	thời gian : 1
+	trực tiếp : 1
+	vấn đề : 1
+	áp dụng : 1
+	sáp nhập : 2
+	độc lập : 2
+	đơn vị : 4
+Question Number: 71
+	sản phẩm : 1
+	sự nghiệp : 1
+	thống nhất : 1
+	thời gian : 1
+	trực tiếp : 1
+	vấn đề : 1
+	áp dụng : 1
+	sáp nhập : 2
+	độc lập : 2
+	đơn vị : 4
+Question Number: 72
+	cây xăng : 1
+	diện tích : 1
+	gia đình : 1
+	giám đốc : 1
+	thành viên : 1
+	đốc công : 1
+	hợp đồng : 2
+	dự án : 3
+	công ty : 4
+Question Number: 73
+	công ty : 1
+	thông tin : 1
+Question Number: 74
+	kinh doanh : 1
+	thủ tục : 1
+	đăng ký : 1
+	sản phẩm : 2
+Question Number: 75
+	chứng nhận : 1
+	doanh nghiệp : 1
+	giấy phép : 1
+	lưu hành : 1
+	sản phẩm : 1
+	thị trường : 1
+	thủ tục : 1
+	tinh bột : 1
+	bao bì : 2
+	cụ thể : 2
+Question Number: 76
+	cho phép : 1
+	công ty : 1
+	mặt hàng : 1
+	thủ tục : 1
+	nhập khẩu : 2
+	tư vấn : 2
+Question Number: 77
+	trách nhiệm : 2
+	tốt nghiệp : 2
+	y tế : 2
+	đăng ký : 2
+	cơ sở : 3
+	hiệu lực : 3
+	hướng dẫn : 3
+	xác nhận : 3
+	thời gian : 6
+	chứng chỉ : 10
+Question Number: 78
+	thông tin : 9
+	nghĩa vụ : 10
+	doanh nghiệp : 11
+	trường hợp : 11
+	tương ứng : 14
+	đăng ký : 18
+	cam kết : 20
+	góp vốn : 21
+	công ty : 57
+	thành viên : 61
+Question Number: 79
+	trường hợp : 2
+	đầy đủ : 2
+	cá nhân : 3
+	có thể : 3
+	gia đình : 3
+	năng lực : 3
+	thủ tục : 3
+	đăng ký : 3
+	doanh nghiệp : 4
+	kinh doanh : 13
+Question Number: 80
+	ủy quyền : 1
+	tài chính : 2
+	văn phòng : 2
+	đề nghị : 2
+	thẩm quyền : 3
+	tương đương : 3
+	hoạt động : 4
+	kinh doanh : 4
+	đăng ký : 4
+	đại diện : 8
+Question Number: 81
+	đăng ký : 2
+	địa chỉ : 2
+	công nghệ : 3
+	hợp đồng : 3
+	sở hữu : 3
+	hoạt động : 4
+	kinh doanh : 4
+	tần số : 4
+	kỹ thuật : 6
+	thương mại : 12
+Question Number: 82
+	ý kiến : 2
+	nhân dân : 3
+	tư vấn : 3
+	xử lý : 3
+	đào tạo : 3
+	đăng ký : 3
+	độc lập : 3
+	cơ sở : 4
+	giáo dục : 4
+	công ty : 9
+Question Number: 83
+	hành vi : 3
+	trường hợp : 3
+	giấy phép : 4
+	kinh doanh : 4
+	thay đổi : 4
+	thông báo : 4
+	thông tin : 4
+	tình tiết : 6
+	hồ sơ : 9
+	đăng ký : 10
+Question Number: 84
+	giới thiệu : 1
+	kiến trúc : 1
+	nhất trí : 1
+	nội dung : 1
+	pháp luật : 2
+	phạm pháp : 2
+	thi công : 2
+	việc làm : 2
+	thiết kế : 3
+	vi phạm : 3
+Question Number: 85
+	trả lời : 1
+	tác động : 1
+	đánh giá : 1
+	đăng ký : 1
+	chứng nhận : 2
+	giấy phép : 2
+	mô hình : 2
+	phù hợp : 2
+	kinh doanh : 3
+	công ty : 5
+Question Number: 86
+	doanh nghiệp : 3
+	dân sự : 3
+	hợp đồng : 3
+	chấp hành : 5
+	thỏa thuận : 6
+	tổ chức : 6
+	đấu giá : 6
+	tiến hành : 7
+	tài sản : 12
+	thi hành : 13
+Question Number: 87
+	một vài : 1
+	pháp luật : 1
+	thắc mắc : 1
+	thủ tục : 1
+	tư vấn : 1
+	vấn đề : 1
+	yêu cầu : 1
+	đặc biệt : 1
+	giấy phép : 3
+	kinh doanh : 3
+Question Number: 88
+	tư vấn : 2
+	yêu cầu : 2
+	đăng ký : 2
+	sản xuất : 3
+	thực hiện : 3
+	địa chỉ : 3
+	cơ quan : 4
+	kinh doanh : 4
+	trực tiếp : 4
+	quảng cáo : 9
+Question Number: 89
+	kế toán : 2
+	luật sư : 2
+	sản xuất : 2
+	thành viên : 2
+	tư liệu : 2
+	tổ chức : 2
+	tự do : 2
+	có thể : 3
+	góp vốn : 5
+	tài sản : 5
+Question Number: 90
+	tổ chức : 3
+	bổ sung : 4
+	nội dung : 4
+	sửa đổi : 4
+	thông báo : 4
+	thực hiện : 4
+	công ty : 5
+	xác nhận : 5
+	đăng ký : 8
+	chương trình : 11
+Question Number: 91
+	công nhận : 1
+	dự án : 1
+	hiện tại : 1
+	lái xe : 1
+	như thế : 1
+	sinh viên : 1
+	thế nào : 1
+	thủ tục : 1
+	xe gắn máy : 1
+Question Number: 92
+	thành viên : 2
+	đại diện : 2
+	luật sư : 4
+	sở hữu : 4
+	tư vấn : 4
+	hành vi : 5
+	kinh doanh : 5
+	sử dụng : 6
+	nhãn hiệu : 7
+	thương mại : 10
+Question Number: 93
+	lập công : 3
+	sở hữu : 3
+	trường hợp : 4
+	nghĩa vụ : 5
+	tham gia : 5
+	hội đồng : 6
+	phổ thông : 7
+	sáng lập : 9
+	cổ phần : 20
+	công ty : 27
+Question Number: 94
+	tư vấn : 2
+	xác định : 2
+	nghĩa vụ : 3
+	pháp luật : 3
+	thanh toán : 3
+	đăng ký : 3
+	thực hiện : 4
+	địa chỉ : 6
+	công ty : 7
+	cổ phần : 16
+Question Number: 95
+	thực hiện : 3
+	liên quan : 4
+	trường hợp : 4
+	xuất bản : 4
+	xâm phạm : 4
+	bản sao : 5
+	vi phạm : 5
+	sở hữu : 12
+	tác giả : 19
+	tác phẩm : 22
+Question Number: 96
+	tiến hành : 1
+	tiền mặt : 1
+	xác định : 1
+	đại diện : 1
+	di sản : 2
+	kê khai : 2
+	kế toán : 2
+	thủ tục : 2
+	cổ phần : 3
+	thừa kế : 5
+Question Number: 97
+	xác nhận : 1
+	độc nhất : 1
+	chứng nhận : 2
+	có thể : 2
+	doanh nghiệp : 2
+	thủ tục : 2
+	giải quyết : 3
+	hồ sơ : 5
+	kinh doanh : 5
+	đăng ký : 5
+Question Number: 98
+	hạn chế : 2
+	hợp đồng : 2
+	sản xuất : 2
+	trưng bày : 2
+	đăng ký : 2
+	công nghiệp : 3
+	cửa hàng : 3
+	kinh doanh : 3
+	sản phẩm : 3
+	công ty : 10
+Question Number: 99
+	đăng ký : 1
+	độc lập : 1
+	có thể : 2
+	góp vốn : 2
+	lập công : 2
+	pháp luật : 2
+	trách nhiệm : 2
+	qui định : 3
+	tài sản : 3
+	công ty : 5
+Question Number: 100
+	sau này : 1
+	thì phải : 1
+	thời gian : 1
+	trường hợp : 1
+	văn phòng : 1
+	bao nhiêu : 2
+	luật sư : 2
+	đóng thuế : 2
+	kinh doanh : 4
+	đăng ký : 4

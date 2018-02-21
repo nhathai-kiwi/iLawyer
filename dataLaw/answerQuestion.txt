@@ -1,0 +1,18 @@
+Default question:
+  Kính gửi luật sư Luật sư cho em hỏi hiện tại em mới kinh doanh nhỏ lẻ chưa có giấy phép kinh doanh em muốn hỏi một số câu hỏi như sau 1 Em muốn làm con dấu vuông thể hiện tên cơ sở kinh doanh MST địa chỉ có được không 2 Em muốn đăng ký MST hộ kinh doanh thì cần những mẫu nào hay những văn bằng nào và nộp ở đâu 3 Khi đăng ký MST thì mình có cần xin giấy phép kinh doanh trước không và xin ở đâu Em xin chân thành cảm ơn 
+
+Distance: 63.8215221762 Question Number: 166
+ Câu hỏi đề nghị tư vấn: Xin chào luật sư! Cho em hỏi về vấn đề giấy phép kinh doanh nhà hàng ạ. Nhà em và anh họ của em có kinh doanh chung 1 nhà hàng. Nhưng đăng kí giấy phép kinh doanh(gpkd) và an toàn thực phẩm(attp) + với tất cả các giấy tờ khác có liên quan đến nhà hàng đều đứng tên là anh họ của em.
+
+Distance: 56.65661225 Question Number: 550
+  Kính gửi luật sư Hiện tại tôi đang chuẩn bị thuê bãi đất trống để kinh doanh bãi giữ xe ô tô qua đêm. Nhờ Luật sư tư vấn việc kinh doanh này có cần xin giấy phép kinh doanh hay không? Nếu cần thì xin giấy phép ở cơ quan nào, các thủ tục cần thiết gồm những gì? Cảm ơn Luật sư!
+
+Distance: 56.5332881339 Question Number: 461
+ Thưa luật sư! Tôi xin hỏi vấn đề sau: Gia đình tôi là hộ kinh doanh nhưng tôi chỉ đang ký 3 mặt hàng, bây giờ tôi muốn mở thêm 1 mặt hàng nữa. Vậy tôi có phải làm lại giấy phép kinh doanh không hay có thông tư nào cho phép mở thêm mà không cần làm lại giấy phép kinh doanh không ạ. Tôi xin cảm ơn!
+
+Distance: 53.5490865672 Question Number: 854
+ Thưa Luật sư! Trong trường hợp tôi kinh doanh mặt hàng bánh kẹo, đường sữa mà có giấy chứng nhận đăng ký kinh doanh hộ cá thể trong đó có ghi nghành nghề kinh doanh gồm: "tạp hoá", nội dung trong đơn xin đăng ký kinh doanh là bánh kẹo đường sữa nhưng cơ quan cấp lại ghi: "hàng tạp hoá" năm 2015.  Đến tháng 1 /2016 tôi có kinh doanh thêm "xe đạp điện và đồ điện dân dụng" mà không bổ sung nội dung ngành nghề mặt hàng vào đăng ký kinh doanh. Bây giờ nếu cơ quan chức năng kiểm tra liệu tôi có bị xử 
+
+Distance: 1.24504763356e-22 Question Number: 1086
+ Kính gửi luật sư! Luật sư cho em hỏi, hiện tại em mới kinh doanh nhỏ lẻ, chưa có giấy phép kinh doanh em muốn hỏi một số câu hỏi như sau. 1. Em muốn làm con dấu vuông thể hiện tên cơ sở kinh doanh, MST, địa chỉ có được không. 2. Em muốn đăng ký MST hộ kinh doanh thì cần những mẫu nào hay những văn bằng nào và nộp ở đâu 3. Khi đăng ký MST thì mình có cần xin giấy phép kinh doanh trước không và xin ở đâu. Em xin chân thành cảm ơn.
+

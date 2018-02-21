@@ -1,0 +1,1100 @@
+Question Number: 1
+	móc : 2
+	một : 2
+	mới : 2
+	thiết : 2
+	sư : 3
+	đó : 3
+	công : 5
+	công ty : 5
+	ty : 5
+	tôi : 5
+Question Number: 2
+	tôi : 5
+	dự án : 7
+	án : 7
+	anh : 8
+	có : 8
+	dự : 8
+	công : 9
+	công ty : 9
+	ty : 10
+	đất : 11
+Question Number: 3
+	làm : 2
+	nơi : 2
+	đăng : 2
+	đăng ký : 2
+	địa chỉ : 2
+	địa điểm : 2
+	để : 3
+	ở : 3
+	em : 4
+	địa : 4
+Question Number: 4
+	giám đốc : 3
+	không : 3
+	là : 3
+	người : 3
+	phó : 3
+	phải : 3
+	ty : 3
+	công : 4
+	ông : 4
+	cho : 5
+Question Number: 5
+	da : 3
+	ký : 3
+	lập : 3
+	mặt : 3
+	thành : 3
+	thì : 3
+	đăng : 3
+	đăng ký : 3
+	doanh : 4
+	bạn : 5
+Question Number: 6
+	là : 10
+	của : 12
+	thể : 12
+	kinh doanh : 13
+	tiếng : 13
+	kinh : 15
+	có : 16
+	doanh nghiệp : 17
+	tên : 22
+	doanh : 34
+Question Number: 7
+	định : 20
+	kinh doanh : 22
+	kinh : 24
+	doanh : 25
+	các : 28
+	không : 29
+	có : 31
+	hoạt động : 32
+	động : 33
+	bán : 44
+Question Number: 8
+	được : 6
+	không : 7
+	ngoài : 7
+	tư : 7
+	của : 8
+	dịch : 10
+	vụ : 10
+	kinh : 11
+	kinh doanh : 11
+	doanh : 18
+Question Number: 9
+	cho : 4
+	có : 4
+	của : 4
+	đã : 4
+	bạn : 5
+	công : 5
+	và : 6
+	đầu : 6
+	chủ : 7
+	tư : 7
+Question Number: 10
+	người : 16
+	quyền : 18
+	đầu : 18
+	đứng : 18
+	thương : 23
+	nước : 25
+	ngoài : 26
+	nhân : 28
+	nhánh : 33
+	của : 37
+Question Number: 11
+	kinh : 22
+	và : 23
+	định : 25
+	có : 26
+	giải thể : 32
+	của : 37
+	giải : 38
+	thể : 39
+	doanh nghiệp : 53
+	doanh : 99
+Question Number: 12
+	thông : 1
+	tra : 1
+	tư : 1
+	tư vấn : 1
+	vấn : 1
+	vậy : 1
+	ạ : 1
+	cần : 2
+	em : 2
+	không : 2
+Question Number: 13
+	thông tin : 3
+	tin : 3
+	hợp : 4
+	ký : 4
+	ty : 4
+	đồng : 4
+	người : 5
+	lao : 8
+	lao động : 8
+	động : 9
+Question Number: 14
+	khoản : 2
+	nhân : 2
+	phải : 2
+	thu : 2
+	thu nhập : 2
+	thuê : 2
+	thuế : 2
+	tô : 2
+	ô : 2
+	ô tô : 2
+Question Number: 15
+	nhà nước : 1
+	như : 1
+	nước : 1
+	phép : 1
+	sau : 1
+	sư : 1
+	ta : 1
+	tôi : 1
+	vụ : 1
+	đáp : 1
+Question Number: 16
+	người : 11
+	theo : 11
+	thuê : 11
+	đại : 11
+	đại diện : 11
+	bạn : 13
+	doanh nghiệp : 14
+	là : 15
+	của : 16
+	doanh : 16
+Question Number: 17
+	pháp : 13
+	dấu : 14
+	thuế : 14
+	ký : 16
+	thành : 17
+	bạn : 19
+	các : 20
+	có : 20
+	doanh : 20
+	và : 35
+Question Number: 18
+	kiện : 10
+	tư : 10
+	xoa : 10
+	bóp : 11
+	bạn : 11
+	kinh : 11
+	kinh doanh : 11
+	phải : 11
+	có : 13
+	doanh : 18
+Question Number: 19
+	kinh doanh : 8
+	công : 10
+	kinh : 10
+	doanh : 11
+	bạn : 12
+	thành : 12
+	tô : 12
+	ô : 12
+	ô tô : 12
+	ty : 13
+Question Number: 20
+	du lịch : 17
+	vụ : 17
+	ký : 18
+	thành : 19
+	lịch : 20
+	định : 22
+	kinh doanh : 35
+	hành : 36
+	kinh : 36
+	doanh : 48
+Question Number: 21
+	tư : 12
+	tại : 12
+	định : 12
+	có : 14
+	phòng : 14
+	cơ : 15
+	cơ sở : 15
+	chuyên : 16
+	sở : 16
+	khám : 28
+Question Number: 22
+	ký : 11
+	đăng ký : 11
+	của : 12
+	doanh : 12
+	đăng : 12
+	chứng : 14
+	chứng nhận : 14
+	nhận : 15
+	đầu : 19
+	tư : 21
+Question Number: 23
+	thương mại : 21
+	tổ : 22
+	tổ chức : 22
+	chức : 23
+	nhân : 23
+	đăng ký : 28
+	ký : 29
+	đăng : 30
+	dịch : 33
+	thương : 43
+Question Number: 24
+	đình : 3
+	có : 4
+	gia : 4
+	giữ : 4
+	lý : 4
+	cho : 5
+	hàng hóa : 6
+	hóa : 7
+	tôi : 7
+	hàng : 10
+Question Number: 25
+	là : 10
+	định : 10
+	các : 11
+	không : 11
+	kinh : 11
+	kinh doanh : 11
+	hoạt động : 12
+	doanh : 13
+	bán : 14
+	động : 16
+Question Number: 26
+	của : 14
+	phải : 14
+	chất : 15
+	có : 16
+	liệu : 16
+	và : 19
+	sản xuất : 35
+	xuất : 35
+	phẩm : 40
+	sản : 50
+Question Number: 27
+	không : 2
+	thuê : 2
+	tôi : 2
+	đơn : 2
+	doanh : 3
+	kinh : 3
+	kinh doanh : 3
+	may : 3
+	đăng : 3
+	phai : 4
+Question Number: 28
+	khách hàng : 15
+	không : 17
+	phía : 17
+	khách : 18
+	nhận : 18
+	cho : 19
+	của : 19
+	hàng : 26
+	tôi : 36
+	họ : 40
+Question Number: 29
+	ơn : 1
+	bên : 2
+	các : 2
+	cần : 2
+	như : 2
+	phép : 2
+	trên : 2
+	cáo : 3
+	có : 3
+	quảng cáo : 3
+Question Number: 30
+	thuế : 7
+	cá : 8
+	thể : 8
+	dịch : 10
+	kinh doanh : 10
+	doanh : 11
+	kinh : 11
+	nhân : 12
+	thương mại : 13
+	thương : 18
+Question Number: 31
+	quản : 7
+	ty : 7
+	đang : 7
+	công : 8
+	trong : 8
+	của : 9
+	kế toán : 9
+	kế : 10
+	người : 10
+	toán : 12
+Question Number: 32
+	bạn : 9
+	công : 9
+	tư : 9
+	hợp : 10
+	lợi : 10
+	và : 10
+	góp vốn : 12
+	của : 13
+	vốn : 14
+	góp : 16
+Question Number: 33
+	khoản : 4
+	người : 4
+	tài : 4
+	tài khoản : 4
+	vấn : 4
+	có : 5
+	được : 5
+	công ty : 8
+	ty : 8
+	công : 9
+Question Number: 34
+	người : 7
+	thực : 7
+	công : 8
+	diện : 8
+	có : 9
+	ty : 9
+	pháp : 12
+	nhân : 15
+	ủy quyền : 19
+	quyền : 20
+Question Number: 35
+	thương : 1
+	tư : 1
+	tư vấn : 1
+	và : 1
+	vấn : 1
+	đăng : 1
+	ạ : 1
+	luật : 2
+	luật sư : 2
+	sư : 2
+Question Number: 36
+	kinh doanh : 9
+	thể : 9
+	doanh : 10
+	kinh : 10
+	góp : 11
+	hợp : 12
+	ty : 12
+	có : 14
+	của : 14
+	vốn : 14
+Question Number: 37
+	cho : 21
+	giáo dục : 21
+	định : 21
+	dục : 24
+	giáo : 30
+	có : 32
+	và : 37
+	trường : 40
+	nhà : 51
+	trẻ : 53
+Question Number: 38
+	trả : 6
+	giám đốc : 7
+	thì : 7
+	chiếc : 8
+	của : 8
+	này : 10
+	ông : 11
+	công ty : 17
+	công : 18
+	ty : 18
+Question Number: 39
+	định : 19
+	đồng : 19
+	của : 20
+	và : 20
+	hành : 22
+	ty : 22
+	có : 25
+	hóa đơn : 28
+	đơn : 35
+	hóa : 41
+Question Number: 40
+	có : 26
+	chi : 27
+	nhánh : 27
+	doanh : 35
+	của : 36
+	sáp nhập : 36
+	sáp : 44
+	công ty : 55
+	công : 56
+	ty : 59
+Question Number: 41
+	tài : 24
+	tài sản : 24
+	bạn : 28
+	có : 29
+	sản : 29
+	hợp đồng : 30
+	thành : 33
+	đồng : 42
+	của : 46
+	hợp : 103
+Question Number: 42
+	đại : 1
+	đại diện : 1
+	đầu : 1
+	định : 1
+	chức : 2
+	có : 2
+	danh : 2
+	là : 2
+	tôi : 2
+	ty : 5
+Question Number: 43
+	hiện : 5
+	thì : 5
+	với : 5
+	bạn : 6
+	doanh nghiệp : 6
+	sản : 6
+	sản xuất : 6
+	xuất : 6
+	doanh : 7
+	xưởng : 7
+Question Number: 44
+	lại : 3
+	này : 3
+	sẽ : 3
+	trường : 3
+	trường hợp : 3
+	ông : 3
+	đồng : 3
+	có : 4
+	hợp : 5
+	ty : 5
+Question Number: 45
+	tại : 1
+	tục : 1
+	viện : 1
+	vấn : 1
+	vụ : 1
+	ơn : 1
+	người : 2
+	luật : 3
+	luật sư : 3
+	sư : 3
+Question Number: 46
+	gì : 2
+	học : 2
+	nhạc : 2
+	phạm : 2
+	ở : 2
+	có : 3
+	dạy : 3
+	lớp : 3
+	em : 4
+	không : 5
+Question Number: 47
+	với : 15
+	đồng : 18
+	trả : 19
+	đến : 20
+	bạn : 22
+	lao động : 23
+	lương : 28
+	lao : 29
+	người : 29
+	động : 30
+Question Number: 48
+	co : 5
+	không : 5
+	thanh : 6
+	tiên : 6
+	tư : 6
+	vay : 6
+	đo : 6
+	ty : 8
+	khoan : 9
+	em : 12
+Question Number: 49
+	vấn : 2
+	xin : 2
+	đầu : 2
+	đến : 2
+	em : 3
+	kiểm : 3
+	sai : 3
+	tư : 3
+	toán : 4
+	của : 5
+Question Number: 50
+	có : 6
+	của : 6
+	hữu : 6
+	nước : 6
+	tư : 6
+	góp : 9
+	vốn : 10
+	công : 11
+	công ty : 11
+	ty : 11
+Question Number: 51
+	thăm : 2
+	trực : 2
+	tuyến : 2
+	tổ : 2
+	tổ chức : 2
+	được : 2
+	có : 3
+	ạ : 3
+	không : 4
+	luật : 5
+Question Number: 52
+	cần : 7
+	tôi : 7
+	chứng : 8
+	công : 8
+	góp : 8
+	vốn : 8
+	có : 9
+	nhận : 9
+	ty : 9
+	của : 10
+Question Number: 53
+	xây dựng : 2
+	đang : 2
+	đồng : 2
+	cung : 3
+	cấp : 3
+	một : 3
+	để : 3
+	công ty : 4
+	ty : 5
+	công : 6
+Question Number: 54
+	thử : 2
+	các : 3
+	sản : 3
+	sản xuất : 3
+	ty : 3
+	xuất : 3
+	có : 4
+	thầu : 5
+	tôi : 5
+	được : 6
+Question Number: 55
+	được : 3
+	của : 4
+	hữu : 4
+	các : 5
+	tôi : 5
+	có : 6
+	không : 6
+	phẩm : 6
+	sản phẩm : 6
+	sản : 7
+Question Number: 56
+	mua : 9
+	có : 10
+	doanh : 11
+	hoạt động : 11
+	kinh doanh : 11
+	động : 11
+	không : 12
+	kinh : 12
+	các : 13
+	bán : 19
+Question Number: 57
+	ô tô : 2
+	đăng : 2
+	đăng ký : 2
+	đổi : 2
+	chuyển : 3
+	các : 3
+	tên : 3
+	chúng : 4
+	tôi : 4
+	ty : 5
+Question Number: 58
+	cổ : 26
+	định : 26
+	bạn : 27
+	của : 33
+	phần : 33
+	góp : 43
+	vốn : 51
+	công ty : 57
+	ty : 58
+	công : 59
+Question Number: 59
+	lao động : 5
+	là : 5
+	làm : 5
+	lao : 6
+	và : 6
+	của : 7
+	động : 8
+	vốn : 10
+	người : 11
+	ty : 13
+Question Number: 60
+	tư : 2
+	tư vấn : 2
+	tại : 2
+	từ : 2
+	có : 3
+	vấn : 3
+	được : 3
+	phẩm : 4
+	sản : 4
+	sản phẩm : 4
+Question Number: 61
+	chỉ : 21
+	gia : 22
+	tham : 22
+	tham gia : 22
+	một : 24
+	có : 31
+	người : 35
+	đấu giá : 39
+	đấu : 42
+	giá : 52
+Question Number: 62
+	thời gian : 1
+	thủ tục : 1
+	ty : 1
+	tại : 1
+	tục : 1
+	và : 1
+	về : 1
+	xuất : 1
+	ơn : 1
+	sư : 2
+Question Number: 63
+	nhân : 8
+	đăng : 8
+	đăng ký : 8
+	các : 9
+	có : 9
+	thành : 9
+	kinh : 15
+	kinh doanh : 15
+	doanh : 17
+	hộ : 17
+Question Number: 64
+	của : 10
+	tài chính : 10
+	đề : 10
+	định : 10
+	chỉ : 11
+	chứng : 11
+	lực : 11
+	năng lực : 11
+	tài : 11
+	có : 12
+Question Number: 65
+	ơn : 1
+	cần : 2
+	gói : 2
+	muốn : 2
+	phẩm : 2
+	sản : 2
+	sản phẩm : 2
+	đóng : 2
+	bán : 3
+	tôi : 3
+Question Number: 66
+	là : 7
+	ta : 7
+	có : 8
+	hợp : 8
+	thành : 8
+	của : 10
+	vốn : 10
+	công ty : 18
+	ty : 18
+	công : 19
+Question Number: 67
+	đăng ký : 3
+	cửa : 4
+	cửa hàng : 4
+	kinh : 4
+	kinh doanh : 4
+	có : 5
+	doanh : 5
+	hàng : 5
+	trà : 5
+	tôi : 7
+Question Number: 68
+	là : 20
+	vốn : 22
+	chị : 25
+	thành viên : 25
+	thành : 35
+	công ty : 44
+	ty : 44
+	công : 45
+	của : 51
+	bạn : 58
+Question Number: 69
+	sư : 3
+	thì : 3
+	thể : 3
+	người : 4
+	tại : 4
+	có : 5
+	kinh : 6
+	kinh doanh : 6
+	một : 6
+	doanh : 7
+Question Number: 70
+	việc : 2
+	độc : 2
+	độc lập : 2
+	chế : 3
+	như : 3
+	thành : 3
+	được : 3
+	vị : 4
+	đơn : 4
+	đơn vị : 4
+Question Number: 71
+	tôi : 2
+	việc : 2
+	độc : 2
+	độc lập : 2
+	chế : 3
+	như : 3
+	được : 3
+	vị : 4
+	đơn : 4
+	đơn vị : 4
+Question Number: 72
+	của : 3
+	dự : 3
+	dự án : 3
+	án : 3
+	công : 4
+	công ty : 4
+	hợp : 4
+	ty : 4
+	có : 5
+	tôi : 5
+Question Number: 73
+	đi : 2
+	ơ : 2
+	cua : 3
+	la : 3
+	đem : 3
+	bia : 4
+	chung : 4
+	ra : 4
+	phân : 5
+	tôi : 8
+Question Number: 74
+	ơn : 1
+	cần : 2
+	gói : 2
+	muốn : 2
+	phẩm : 2
+	sản : 2
+	sản phẩm : 2
+	đóng : 2
+	bán : 3
+	tôi : 3
+Question Number: 75
+	cụ thể : 2
+	của : 2
+	liệu : 2
+	làm : 2
+	mình : 2
+	riêng : 2
+	thể : 2
+	để : 2
+	có : 3
+	tôi : 3
+Question Number: 76
+	nhập khẩu : 2
+	sư : 2
+	tư : 2
+	tư vấn : 2
+	từ : 2
+	và : 2
+	vấn : 2
+	về : 2
+	xin : 2
+	em : 3
+Question Number: 77
+	chỉ : 10
+	chứng chỉ : 10
+	chứng : 11
+	nghề : 11
+	bác : 12
+	hành : 13
+	có : 14
+	của : 14
+	khám : 16
+	tháng : 16
+Question Number: 78
+	có : 36
+	công ty : 57
+	phần : 57
+	của : 59
+	ty : 60
+	thành viên : 61
+	công : 67
+	thành : 80
+	góp : 105
+	vốn : 108
+Question Number: 79
+	tư : 8
+	thành : 9
+	tại : 9
+	định : 9
+	có : 10
+	người : 10
+	hộ : 12
+	kinh doanh : 13
+	kinh : 14
+	doanh : 17
+Question Number: 80
+	diện : 8
+	lập : 8
+	thành : 8
+	đại diện : 8
+	đại : 9
+	của : 12
+	ngoài : 12
+	thương : 12
+	nhân : 13
+	nước : 15
+Question Number: 81
+	thuật : 7
+	cho : 8
+	cấp : 9
+	và : 9
+	được : 9
+	là : 10
+	có : 11
+	thương mại : 12
+	thương : 13
+	quyền : 22
+Question Number: 82
+	kiện : 7
+	phải : 7
+	công ty : 9
+	của : 10
+	giữ : 10
+	công : 11
+	ty : 11
+	trông : 12
+	các : 13
+	trẻ : 16
+Question Number: 83
+	đồng : 7
+	thông : 8
+	định : 8
+	hồ : 9
+	hồ sơ : 9
+	sơ : 9
+	ký : 10
+	đăng ký : 10
+	đăng : 13
+	thuế : 15
+Question Number: 84
+	làm : 3
+	pháp : 3
+	phạm : 3
+	thiết : 3
+	thiết kế : 3
+	vi phạm : 3
+	đó : 3
+	hiệu : 4
+	trình : 4
+	công : 6
+Question Number: 85
+	thực : 3
+	tôi : 3
+	định : 3
+	lập : 4
+	vốn : 4
+	công ty : 5
+	doanh : 5
+	ty : 5
+	công : 6
+	bạn : 7
+Question Number: 86
+	sự : 11
+	sản : 12
+	tài sản : 12
+	thi : 13
+	thi hành : 13
+	tài : 13
+	án : 13
+	định : 14
+	giá : 19
+	hành : 25
+Question Number: 87
+	và : 2
+	vấn : 2
+	có : 3
+	doanh : 3
+	giấy : 3
+	giấy phép : 3
+	kinh : 3
+	kinh doanh : 3
+	phép : 3
+	tôi : 4
+Question Number: 88
+	tên : 4
+	được : 4
+	có : 5
+	của : 5
+	kinh : 5
+	sản : 5
+	cơ : 6
+	người : 6
+	cáo : 9
+	quảng cáo : 9
+Question Number: 89
+	góp vốn : 5
+	là : 5
+	tài : 5
+	tài sản : 5
+	vốn : 5
+	thể : 6
+	định : 6
+	giá : 7
+	góp : 7
+	sản : 8
+Question Number: 90
+	đổi : 5
+	công : 7
+	chạy : 8
+	ký : 8
+	ty : 8
+	đăng ký : 8
+	đăng : 9
+	chương : 11
+	chương trình : 11
+	trình : 12
+Question Number: 91
+	đang : 2
+	em : 3
+	khách : 3
+	là : 3
+	mình : 3
+	ngoài : 3
+	nước : 3
+	và : 3
+	ạ : 3
+	cho : 4
+Question Number: 92
+	dụng : 10
+	lý : 10
+	thương mại : 10
+	có : 11
+	hiệu : 11
+	hàng : 11
+	là : 11
+	thương : 11
+	và : 12
+	của : 17
+Question Number: 93
+	lập : 15
+	cổ phần : 20
+	và : 20
+	phần : 22
+	của : 26
+	công ty : 27
+	ty : 28
+	công : 31
+	đông : 31
+	cổ : 52
+Question Number: 94
+	định : 11
+	công : 12
+	ty : 13
+	được : 13
+	cổ phần : 16
+	phần : 16
+	và : 16
+	của : 18
+	trả : 23
+	cổ : 49
+Question Number: 95
+	chủ : 14
+	sở : 14
+	được : 14
+	không : 16
+	tác giả : 19
+	giả : 20
+	của : 22
+	phẩm : 22
+	tác phẩm : 22
+	quyền : 27
+Question Number: 96
+	phần : 4
+	tiền : 4
+	của : 5
+	thừa : 5
+	thừa kế : 5
+	để : 5
+	người : 6
+	đông : 6
+	kế : 7
+	cổ : 9
+Question Number: 97
+	kinh doanh : 5
+	ký : 5
+	là : 5
+	nhận : 5
+	sơ : 5
+	đăng : 5
+	đăng ký : 5
+	có : 6
+	doanh : 7
+	bạn : 11
+Question Number: 98
+	cửa : 4
+	hàng : 4
+	không : 4
+	phẩm : 4
+	thì : 4
+	sản : 5
+	tôi : 7
+	công ty : 10
+	ty : 12
+	công : 13
+Question Number: 99
+	thì : 4
+	để : 4
+	có : 5
+	công ty : 5
+	góp : 5
+	ty : 5
+	công : 6
+	bạn : 7
+	vốn : 7
+	tôi : 10
+Question Number: 100
+	bán : 4
+	doanh : 4
+	kinh : 4
+	kinh doanh : 4
+	ký : 4
+	phải : 4
+	đăng : 4
+	đăng ký : 4
+	thuế : 6
+	em : 7

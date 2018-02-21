@@ -1,0 +1,2015 @@
+<!DOCTYPE html>
+<html lang="vi-VN">
+ <head>
+  <title>
+   Luật sư tư vấn ngành nghề kinh doanh có điều kiện tại Hà Nội
+  </title>
+  <meta content="z6jf9UwCIMMRMCBhFT-NP40_003IXNlRBFDdRBu7jjc" name="google-site-verification"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="1800" http-equiv="REFRESH"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <meta content="1 days" name="revisit-after"/>
+  <meta content="vi,en" http-equiv="content-language"/>
+  <meta content="1.0.0.0" name="generator"/>
+  <meta content="https://www.facebook.com/LuatMinhGia" name="author">
+   <meta content="423480718" property="twitter:account_id"/>
+   <meta content="100003610950490" property="fb:admins"/>
+   <meta content="Tư vấn về ngành nghề đăng ký kinh doanh, ngành nghề kinh doanh có điều kiện, ngành nghề kinh doanh yêu cầu vốn pháp định và các quy định khác liên quan như sau:" name="description"/>
+   <link href="https://luatminhgia.com.vn/amp/hoi-dap-doanh-nghiep/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien.aspx" rel="amphtml"/>
+   <link href="https://luatminhgia.com.vn/rss" rel="alternate" title="Minh Gia Law Firm » Feed" type="application/rss+xml"/>
+   <link href="https://plus.google.com/108855840474419005037" rel="publisher"/>
+   <meta content="Luật sư tư vấn ngành nghề kinh doanh có điều kiện tại Hà Nội" itemprop="name"/>
+   <meta content="Tư vấn về ngành nghề đăng ký kinh doanh, ngành nghề kinh doanh có điều kiện, ngành nghề kinh doanh yêu cầu vốn pháp định và các quy định khác liên quan như sau:" itemprop="description"/>
+   <meta content="https://luatminhgia.com.vn/LMG/articles/0/39/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien-39.png" itemprop="image"/>
+   <meta content="Summary" name="twitter:card"/>
+   <meta content="@luatminhgia" name="twitter:site"/>
+   <meta content="Luật sư tư vấn ngành nghề kinh doanh có điều kiện tại Hà Nội" name="twitter:title"/>
+   <meta content="Tư vấn về ngành nghề đăng ký kinh doanh, ngành nghề kinh doanh có điều kiện, ngành nghề kinh doanh yêu cầu vốn pháp định và các quy định khác liên quan như sau:" name="twitter:description"/>
+   <meta name="twitter:creator"/>
+   <meta content="https://luatminhgia.com.vn/LMG/articles/0/39/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien-39.png" name="twitter:image"/>
+   <meta content="Luật sư tư vấn ngành nghề kinh doanh có điều kiện tại Hà Nội" property="og:title"/>
+   <meta content="article" property="og:type"/>
+   <meta content="https://luatminhgia.com.vn/hoi-dap-doanh-nghiep/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien.aspx" property="og:url"/>
+   <meta content="https://luatminhgia.com.vn/LMG/articles/0/39/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien-39.png" property="og:image"/>
+   <meta content="Tư vấn về ngành nghề đăng ký kinh doanh, ngành nghề kinh doanh có điều kiện, ngành nghề kinh doanh yêu cầu vốn pháp định và các quy định khác liên quan như sau:" property="og:description"/>
+   <meta content="Công ty Luật TNHH Minh Gia" property="og:site_name"/>
+   <link href="https://luatminhgia.com.vn/hoi-dap-doanh-nghiep/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien.aspx" rel="canonical"/>
+   <link href="/Content/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+   <link href="/Content/bootstrap/themes.css" rel="stylesheet"/>
+   <link href="/Content/styles.css" rel="stylesheet"/>
+   <!--[if lt IE 9]><link href="/Content/ie7.css" rel="stylesheet"/>
+        <script src="/Scripts/html5shiv.js"></script><![endif]-->
+   <script src="/Scripts/jquery.min.js">
+   </script>
+   <script src="/Scripts/jquery.carouFredSel-6.2.1.js">
+   </script>
+   <script src="/Scripts/swfupload/swfupload.js">
+   </script>
+   <script src="/Scripts/jquery.swfupload.js">
+   </script>
+  </meta>
+ </head>
+ <body>
+  <div class="wrapper">
+   <div class="main">
+    <header class="header">
+     <div class="logo">
+      <h2>
+       <a href="/">
+        Tư vấn pháp luật - dịch vụ luật sư - Luật Minh Gia
+       </a>
+      </h2>
+      <div id="banner">
+      </div>
+     </div>
+     <div class="boss">
+      <div class="vnv">
+       <ul>
+        <li>
+         <a href="/">
+          Trang chủ
+         </a>
+        </li>
+        <li>
+         <a href="/lien-he.aspx">
+          Liên hệ
+         </a>
+        </li>
+        <li>
+         <a class="end" href="/sitemap.xml">
+          Sitemap
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="lang">
+       <a href="/">
+        <img alt="Tư vấn luật Minh Gia" src="/images/VN.png"/>
+       </a>
+       <a href="/en">
+        <img alt="MinhGia Lawfirm" src="/images/EN.png"/>
+       </a>
+      </div>
+     </div>
+    </header>
+    <div class="menu clearfix">
+     <ul class="navi">
+      <li>
+       <a href="/">
+        <span>
+         Trang chủ
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/gioi-thieu.aspx">
+        <span>
+         Giới thiệu
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/ve-chung-toi.aspx">
+          Về chúng tôi
+         </a>
+        </li>
+        <li>
+         <a href="/tin-luat-minh-gia.aspx">
+          Tin Luật Minh Gia
+         </a>
+        </li>
+        <li>
+         <a href="/doi-tac-khach-hang.aspx">
+          Đối tác - Khách hàng
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/dan-su.aspx">
+        <span>
+         Dân sự
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-dan-su.aspx">
+          Luật sư Dân sự
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-dan-su.aspx">
+          Hỏi đáp Dân sự
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-dan-su.aspx">
+          Kiến thức Dân sự
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/hinh-su.aspx">
+        <span>
+         Hình sự
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-hinh-su.aspx">
+          Luật sư Hình sự
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-hinh-su.aspx">
+          Hỏi đáp Hình sự
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-hinh-su.aspx">
+          Kiến thức Hình sự
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/dat-dai.aspx">
+        <span>
+         Đất đai
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-dat-dai.aspx">
+          Luật sư Đất đai
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-dat-dai.aspx">
+          Hỏi đáp Đất đai
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-dat-dai.aspx">
+          Kiến thức Đất đai
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/hon-nhan.aspx">
+        <span>
+         Hôn nhân
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-hon-nhan.aspx">
+          Luật sư Hôn nhân
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-hon-nhan.aspx">
+          Hỏi đáp Hôn nhân
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-hon-nhan.aspx">
+          Kiến thức Hôn nhân
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="active">
+       <a href="/doanh-nghiep.aspx">
+        <span>
+         Doanh nghiệp
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-doanh-nghiep.aspx">
+          Luật sư Doanh nghiệp
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-doanh-nghiep.aspx">
+          Hỏi đáp Doanh nghiệp
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-doanh-nghiep.aspx">
+          Kiến thức Doanh nghiệp
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/lao-dong.aspx">
+        <span>
+         Lao động
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat-su-lao-dong.aspx">
+          Luật sư Lao động
+         </a>
+        </li>
+        <li>
+         <a href="/hoi-dap-lao-dong.aspx">
+          Hỏi đáp Lao động
+         </a>
+        </li>
+        <li>
+         <a href="/kien-thuc-lao-dong.aspx">
+          Kiến thức Lao động
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/bieu-mau.aspx">
+        <span>
+         Biểu mẫu
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/bieu-mau-dan-su.aspx">
+          Biểu mẫu Dân sự
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-hinh-su.aspx">
+          Biểu mẫu Hình sự
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-dat-dai.aspx">
+          Biểu mẫu Đất đai
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-hon-nhan.aspx">
+          Biểu mẫu Hôn nhân
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-lao-dong.aspx">
+          Biểu mẫu Lao động
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-doanh-nghiep.aspx">
+          Biểu mẫu Doanh nghiệp
+         </a>
+        </li>
+        <li>
+         <a href="/bieu-mau-thue.aspx">
+          Biểu mẫu - Thủ tục Thuế
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/van-ban-luat.aspx">
+        <span>
+         Văn bản luật
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/luat.aspx">
+          Luật
+         </a>
+        </li>
+        <li>
+         <a href="/nghi-dinh.aspx">
+          Nghị định
+         </a>
+        </li>
+        <li>
+         <a href="/thong-tu.aspx">
+          Thông tư
+         </a>
+        </li>
+        <li>
+         <a href="/nghi-quyet.aspx">
+          Nghị quyết
+         </a>
+        </li>
+        <li>
+         <a href="/quyet-dinh.aspx">
+          Quyết định
+         </a>
+        </li>
+        <li>
+         <a href="/van-ban-tieng-anh.aspx">
+          Văn bản Tiếng Anh
+         </a>
+        </li>
+        <li>
+         <a href="/van-ban-chuyen-nganh.aspx">
+          Văn bản chuyên ngành
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/lien-he.aspx">
+        <span>
+         Liên hệ
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="wapperContent">
+     <div class="center">
+      <div class="boxx">
+       <div class="intro">
+        <aside class="left" itemscope="" itemtype="http://schema.org/Article">
+         <h2 class="navi-link">
+          <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+           <a href="/" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" title="Trang chủ">
+            <span itemprop="title">
+             Trang chủ
+            </span>
+           </a>
+          </span>
+          »
+          <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+           <a href="/doanh-nghiep.aspx" itemprop="url" title="Doanh nghiệp">
+            <span itemprop="title">
+             Doanh nghiệp
+            </span>
+           </a>
+          </span>
+          »
+          <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+           <a href="/hoi-dap-doanh-nghiep.aspx" itemprop="url" title="Hỏi đáp Doanh nghiệp">
+            <span itemprop="title">
+             Hỏi đáp Doanh nghiệp
+            </span>
+           </a>
+          </span>
+         </h2>
+         <div class="news_view content clearfix">
+          <div class="title">
+           <h1 itemprop="title" itemscope="">
+            Luật sư tư vấn về ngành nghề kinh doanh có điều kiện
+           </h1>
+          </div>
+          <div class="view-metainfo">
+           <span content="Thu, 26 Feb 2015 17:45:58 GMT" itemprop="dateModified">
+            Cập nhật
+            <span class="timeintext" title="2015-02-26T17:45:58">
+             26/02/2015 05:45
+            </span>
+           </span>
+          </div>
+          <div style="font-weight: bold; padding-bottom: 10px;">
+           Hỏi: Tôi đang dự kiến thành lập doanh nghiệp để đầu tư kinh doanh nhưng không biết pháp luật có quy định như thế nào về ngành nghề kinh doanh và các hạn chế, điều kiện liên quan đến đăng ký ngành nghề? Kính mong công ty Luật tư vấn cụ thể. Chân thành cảm ơn (Hoàng Hải Hà - Phú Xuyên – Hà Nội, Email: ....ha79@gmail.com)
+          </div>
+          <div style="floa:left;margin-left:-10px;">
+           <script type="text/javascript">
+            google_ad_client = "ca-pub-5654082264670297";
+google_ad_slot = "2428135962";
+google_ad_width = 728;
+google_ad_height = 90;
+           </script>
+           <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+           </script>
+          </div>
+          <div class="article-mainRelate">
+           <h3>
+            Bài viết cùng chủ đề
+           </h3>
+           <ul>
+            <li>
+             <a href="/hoi-dap-doanh-nghiep/hoi-ve-bo-sung-ma-nganh-nghe-dang-ky-kinh-doanh.aspx" title="Hỏi về Bổ sung mã ngành nghề đăng ký kinh doanh">
+              Hỏi về Bổ sung mã ngành nghề đăng ký kinh doanh
+             </a>
+            </li>
+            <li>
+             <a href="/kien-thuc-doanh-nghiep/nganh-nghe-nao-kinh-doanh-phai-co-chung-chi-hanh-nghe-.aspx" title="Ngành nghề nào kinh doanh phải có chứng chỉ hành nghề?">
+              Ngành nghề nào kinh doanh phải có chứng chỉ hành nghề?
+             </a>
+            </li>
+            <li>
+             <a href="/kien-thuc-doanh-nghiep/danh-muc-nganh-nghe-cam-kinh-doanh-theo-quy-dinh-the-nao-.aspx" title="Danh mục ngành nghề cấm kinh doanh theo quy định thế nào?">
+              Danh mục ngành nghề cấm kinh doanh theo quy định thế nào?
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div>
+           <p>
+           </p>
+           <p style="text-align:justify">
+            <strong>
+             Trả lời:
+            </strong>
+            Cảm ơn bạn đã gửi đề nghị tư vấn đến
+            <a href="http://luatminhgia.com.vn/">
+             Công ty Luật Minh Gia
+            </a>
+            , trường hợp của bạn chúng tôi tư vấn như sau:
+            <br/>
+            <br/>
+            Theo quy định tại Khoản 1, Điều 5 Nghị định 139-2007/NĐ-CP ngày 05 tháng 9 năm 2007 của Chính phủ thì “Ngành, nghề kinh doanh có điều kiện và điều kiện kinh doanh áp dụng theo các quy định của các luật, pháp lệnh, nghị định chuyên ngành hoặc quyết định có liên quan của Thủ tướng Chính phủ”, và được quy định theo các văn bản pháp luật chuyên ngành như sau:
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <strong>
+             Danh mục Ngành nghề kinh doanh yêu cầu vốn pháp định:
+            </strong>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            1.  Tổ chức tín dụng (Nghị định 141/2006/NĐ-CP ngày 22/11/2006)
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            +   Ngân hàng thương mại cổ phần: 1000 tỷ đồng
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            +   Chi nhánh ngân hàng nước ngoài: 15 triệu USD
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            2.  Quỹ tín dụng nhân dân (Nghị định 141/2006/NĐ-CP ngày 22/11/2006)
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            +   Quỹ tín dụng nhân dân trung ương: 1000 tỷ đồng
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            +   Quỹ tín dụng nhân dân cơ sở: 0.1 tỷ đồng
+            <br/>
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            3.  Tổ chức tín dụng phi ngân hàng (Nghị định 141/2006/NĐ-CP ngày 22/11/2006)
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            +   Công ty tài chính: 300 tỷ đồng
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            +   Công ty cho thuê tài chính: 100 tỷ đồng
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            4.  Kinh doanh bất động sản: 6 tỷ đồng (Điều 3 NĐ 153/2007/NĐ-CP ngày 15/10/2007)
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             5.  Dịch vụ đòi nợ: 2 tỷ đồng (Điều 13 NĐ 104/2007/NĐ-CP ngày 14/6/2007)
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             6.  Dịch vụ bảo vệ: 2 tỷ đồng (không được kinh doanh các ngành, nghề và dịch vụ khác ngoài Dịch vụ bảo vệ) (NĐ 52/2008/NĐ-CP ngày 22/4/2008)
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             7.  Dịch vụ đưa người lao động đi làm việc ở nước ngoài: 5 tỷ đồng (Điều 3 NĐ 126/2007/NĐ-CP ngày 1/8/2007)
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             8.  Sản xuất phim: Doanh nghiệp phải có GCN đủ điều kiện kinh doanh do Cục Điện ảnh cấp trước khi ĐKKD (Điều 14 Luật điện ảnh)
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             9.  Kinh doanh cảng hàng không: (Khoản 1 Điều 22 NĐ 83/2007/NĐ-CP ngày 25/5/2007)
+            </span>
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh tại cảng hàng không quốc tế: 100 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh tại cảng hàng không nội địa: 30 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             10. Cung cấp dịch vụ hàng không mà không phải là doanh nghiệp cảng hàng không: (Khoản 2 Điều 22 NĐ 83/2007/NĐ-CP ngày 25/5/2007)
+            </span>
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh tại cảng hàng không quốc tế: 30 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh tại cảng hàng không nội địa: 10 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             11. Kinh doanh vận chuyển hàng không: (Khoản 1 Điều 8 NĐ 76/2007/NĐ-CP ngày 9/5/2007)
+            </span>
+            <br/>
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Vận chuyển hàng không quốc tế:
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác từ 1 đến 10 tàu bay: 500 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác từ 11 đến 30 tàu bay: 800 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác trên 30 tàu bay: 1000 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Vận chuyển hàng không nội địa:
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác từ 1 đến 10 tàu bay: 200 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác từ 11 đến 30 tàu bay: 400 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             -    Khai thác trên 30 tàu bay: 500 tỷ đồng
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             12 Kinh doanh hàng không chung: 50 tỷ đồng (Khoản 2 Điều 8 NĐ 76/2007/NĐ-CP ngày 9/5/2007)
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             <strong>
+              Danh mục ngành nghề kinh doanh yêu cầu có chứng chỉ hành nghề
+             </strong>
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ pháp lý;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ khám, chữa bệnh và kinh doanh dược phẩm;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ thú y và kinh doanh thuốc thú y;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ thiết kế quy họach xây dựng, khảo sát xây dựng, thiết kế xây dựng công trình, giám sát thi công xây dựng;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ kiểm toán;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Sản xuất, gia công, sang chai, đóng gói, mua bán thuốc bảo vệ thực vật
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ xông hơi khử trùng;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ thiết kế phương tiện vận tải;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Mua bán di vật, cổ vật, bảo vật quốc gia;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ kế toán;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Dịch vụ môi giới bất động sản;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Dịch vụ định giá bất động sản;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Dịch vụ sàn giao dịch bất động sản.
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             <strong>
+              Danh mục Ngành, nghề cấm kinh doanh (Khoản 1, Điều 4 Nghị định 139-2007/NĐ-CP ngày 05 tháng 9 năm 2007 của Chính phủ) được quy định cụ thể:
+             </strong>
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh vũ khí quân dụng, trang thiết bị, kỹ thuật, khí tài, phương tiện chuyên dùng quân sự, công an; quân trang (bao gồm cả phù hiệu, cấp hiệu, quân hiệu của quân đội, công an), quân dụng cho lực lượng vũ trang; linh kiện, bộ phận, phụ tùng, vật tư và trang thiết bị đặc chủng, công nghệ chuyên dùng chế tạo chúng;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh chất ma túy các loại;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh hóa chất bảng 1 (theo Công ước quốc tế);
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các sản phẩm văn hóa phản động, đồi trụy, mê tín dị đoan hoặc có hại tới giáo dục thẩm mỹ, nhân cách;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các loại pháo;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các loại đồ chơi, trò chơi nguy hiểm, đồ chơi, trò chơi có hại tới giáo dục nhân cách và sức khoẻ của trẻ em hoặc tới an ninh, trật tự an toàn xã hội;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các loại thực vật, động vật hoang dã, gồm cả vật sống và các bộ phận của chúng đã được chế biến, thuộc Danh mục điều ước quốc tế mà Việt Nam là thành viên quy định và các loại thực vật, động vật quý hiếm thuộc danh mục cấm khai thác, sử dụng;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh mại dâm, tổ chức mại dâm, buôn bán phụ nữ, trẻ em;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ tổ chức đánh bạc, gá bạc dưới mọi hình thức;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ điều tra bí mật xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, công dân;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ môi giới kết hôn có yếu tố nước ngoài;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh dịch vụ môi giới nhận cha, mẹ, con nuôi, nuôi con nuôi có yếu tố nước ngoài;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các loại phế liệu nhập khẩu gây ô nhiễm môi trường;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Kinh doanh các loại sản phẩm, hàng hoá và thiết bị cấm lưu hành, cấm sử dụng hoặc chưa được phép lưu hành và/hoặc sử dụng tại Việt Nam;
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             +   Các ngành, nghề cấm kinh doanh khác được quy định tại các luật, pháp lệnh và nghị định chuyên ngành.
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p style="text-align:justify">
+            <span style="font-family:arial,helvetica,sans-serif">
+             Mong bạn nghiên cứu, tham khảo và áp dụng vào trường hợp của mình một cách hiệu quả nhất,chúc bạn thành công.
+            </span>
+           </p>
+           <p style="text-align:justify">
+           </p>
+           <p>
+            <p style="text-align: justify;font-weight: normal;">
+             Trên đây là nội dung tư vấn của Luật Minh Gia về vấn đề bạn yêu cầu tư vấn:
+             <span style="font-style: italic;">
+              Luật sư tư vấn về ngành nghề kinh doanh có điều kiện
+             </span>
+             . Nếu còn vướng mắc, chưa rõ hoặc cần hỗ trợ pháp lý khác bạn vui lòng liên hệ qua Email hoặc gọi điện đến bộ phận
+             <a href="https://luatminhgia.com.vn/luat-su-dan-su/tong-dai-tu-van-phap-luat-truc-tuyen-24-7-goi-19006169.aspx">
+              luật sư tư vấn trực tuyến
+             </a>
+             -
+             <strong>
+              <span style="color:#0000FF">
+               Số điện thoại liên hệ
+              </span>
+              <a href="tel:19006169">
+               <span style="color:#0000FF">
+                1900.6169
+               </span>
+              </a>
+             </strong>
+             để được giải đáp, hỗ trợ kịp thời.
+            </p>
+            <p style="text-align: justify;">
+            </p>
+            <p style="text-align: left;">
+             <strong>
+              Trân trọng
+             </strong>
+            </p>
+            <p>
+             P. Luật sư Doanh nghiệp - Công ty Luật Minh Gia
+            </p>
+           </p>
+          </div>
+          <hr/>
+          <div class="htmlCategory">
+           <p style="text-align:justify">
+            <strong>
+             <span style="color:rgb(0, 0, 255)">
+              Mọi vướng mắc cần tư vấn, bạn vui lòng liên hệ:
+             </span>
+            </strong>
+           </p>
+           <p style="text-align:justify">
+            &gt;&gt;
+            <a href="https://luatminhgia.com.vn/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169.aspx">
+             Tổng đài tư vấn Doanh nghiệp
+            </a>
+            <strong>
+             <a href="tel:19006169">
+              <span style="color:rgb(255, 0, 0)">
+               <span style="font-size:20px">
+                1900.6169
+               </span>
+              </span>
+             </a>
+            </strong>
+           </p>
+           <p style="text-align:justify">
+            &gt;&gt;
+            <a href="https://luatminhgia.com.vn/luat-su-dan-su/tu-van-phap-luat-mien-phi-qua-email.aspx">
+             Tư vấn luật qua email
+            </a>
+            <a href="mailto:luatsu@luatminhgia.vn">
+             <span style="color:rgb(0, 100, 0)">
+              luatsu@luatminhgia.vn
+             </span>
+            </a>
+           </p>
+           <p style="text-align:justify">
+            &gt;&gt;
+            <a href="https://luatminhgia.com.vn/luat-su-dan-su/dich-vu-luat-su-tu-van-phap-luat-truc-tiep.aspx">
+             Dịch vụ luật sư tư vấn trực tiếp tại văn phòng
+            </a>
+           </p>
+          </div>
+          <hr/>
+          <div class="view-addthis-warp">
+           <div class="addthis_native_toolbox pull-right">
+           </div>
+          </div>
+          <div class="tag-baiviet">
+           <span>
+            Tag
+           </span>
+           <p>
+            <a href="/tags/nganh-nghe-kinh-doanh">
+             ngành nghề kinh doanh
+            </a>
+            <a href="/tags/tu-van-doanh-nghiep">
+             tư vấn doanh nghiệp
+            </a>
+            <a href="/tags/thanh-lap-doanh-nghiep">
+             thành lập doanh nghiệp
+            </a>
+            <a href="/tags/luat-su">
+             luật sư
+            </a>
+           </p>
+          </div>
+         </div>
+         <div style="margin:5px 0">
+          <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+          </script>
+          <ins class="adsbygoogle" data-ad-client="ca-pub-5654082264670297" data-ad-slot="3904869169" style="display:inline-block;width:728px;height:90px">
+          </ins>
+          <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+         </div>
+         <div class="page-return">
+          <a href="javascript:history.back(1)">
+           [ Quay lại ]
+          </a>
+          <a href="#" id="btnTop">
+           [ Lên đầu trang ]
+          </a>
+         </div>
+         <div style="float:left">
+          <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+          </script>
+          <ins class="adsbygoogle" data-ad-client="ca-pub-5654082264670297" data-ad-slot="8604363168" style="display:inline-block;width:690px;height:200px">
+          </ins>
+          <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+         </div>
+         <div class="news_other">
+          <div style="font-weight: bold;color:#000cff;font-size:20px;text-decoration: underline;">
+           Chủ đề liên quan
+          </div>
+          <ul>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-de-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san.aspx">
+              Điều kiện để đăng ký bổ sung ngành nghề kinh doanh bất động sản
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-de-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san.aspx">
+              <img alt="Điều kiện để đăng ký bổ sung ngành nghề kinh doanh bất động sản" src="https://luatminhgia.com.vn/LMG/articles/8/42120/dieu-kien-de-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san-42120.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về trường hợp đăng ký bổ sung ngành nghề kinh doanh bất động sản. Nội dung tư vấn như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien.aspx">
+              Luật sư tư vấn về ngành nghề kinh doanh có điều kiện
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien.aspx">
+              <img alt="Luật sư tư vấn về ngành nghề kinh doanh có điều kiện" src="https://luatminhgia.com.vn/LMG/articles/0/39/luat-su-tu-van-ve-nganh-nghe-kinh-doanh-co-dieu-kien-39.png?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Hỏi: Tôi đang dự kiến thành lập doanh nghiệp để đầu tư kinh doanh nhưng không biết pháp luật có quy định như thế nào về ngành nghề kinh doanh và các hạn chế, điều kiện liên quan đến đăng ký ngành nghề? Kính mong công ty Luật tư vấn cụ thể. Chân thành cảm ơn (Hoàng Hải Hà - Phú Xuyên – Hà Nội, Email: ....ha79@gmail.com)
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-dan-su/thu-tuc-xin-cap-giay-phep-du-dieu-kien-san-xuat-giong-cay-trong.aspx">
+              Thủ tục xin cấp giấy phép đủ điều kiện sản xuất giống cây trồng
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-dan-su/thu-tuc-xin-cap-giay-phep-du-dieu-kien-san-xuat-giong-cay-trong.aspx">
+              <img alt="Thủ tục xin cấp giấy phép đủ điều kiện sản xuất giống cây trồng" src="https://luatminhgia.com.vn/LMG/articles/8/44136/thu-tuc-xin-cap-giay-phep-du-dieu-kien-san-xuat-giong-cay-trong-44136.png?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về thủ tục xin cấp giấy phép đủ điều kiện kinh doanh ngành nghề có điều kiện: sản xuất, kinh doanh giống cây trồng lâm nghiệp. Nội dung tư vấn như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-va-thu-tuc-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san-.aspx">
+              Điều kiện và thủ tục đăng ký bổ sung ngành nghề kinh doanh bất động sản?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-va-thu-tuc-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san-.aspx">
+              <img alt="Điều kiện và thủ tục đăng ký bổ sung ngành nghề kinh doanh bất động sản?" src="https://luatminhgia.com.vn/LMG/articles/8/43386/dieu-kien-va-thu-tuc-dang-ky-bo-sung-nganh-nghe-kinh-doanh-bat-dong-san--43386.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về điều kiện và thủ tục đăng ký bổ sung ngành nghề kinh doanh bất động sản. Nội dung tư vấn như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/hoi-ve-dieu-kien-bo-sung-nganh-nghe-kinh-doanh-nhap-khau-xe-cu-.aspx">
+              Hỏi về điều kiện bổ sung ngành nghề kinh doanh nhập khẩu xe cũ ?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/hoi-ve-dieu-kien-bo-sung-nganh-nghe-kinh-doanh-nhap-khau-xe-cu-.aspx">
+              <img alt="Hỏi về điều kiện bổ sung ngành nghề kinh doanh nhập khẩu xe cũ ?" src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Thưa luật sư! Tôi xin hỏi luật sư vấn đề như sau: Công ty tôi, đang hoạt động trong ngành nghề mua bán ô tô trong nước. Hiện nay, công ty tôi có nhu cầu mở thêm ngành nghề nhập khẩu ô tô tải cũ :
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/tu-van-quy-dinh-moi-ve-ti-le-so-huu-cua-nha-dau-tu-nuoc-ngoai-theo-luat-dau-tu.aspx">
+              Tư vấn quy định mới về tỉ lệ sở hữu của nhà đầu tư nước ngoài theo luật đầu tư
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/tu-van-quy-dinh-moi-ve-ti-le-so-huu-cua-nha-dau-tu-nuoc-ngoai-theo-luat-dau-tu.aspx">
+              <img alt="Tư vấn quy định mới về tỉ lệ sở hữu của nhà đầu tư nước ngoài theo luật đầu tư " src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Kính chào công ty Luật Minh Gia. Anh(chị) cho em hỏi ạ. Công ty em kinh doanh đa ngành nghề, nhưng có 1 ngành bị vướng kinh doanh có điều kiện (Kinh doanh Bất động sản).
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/xac-dinh-dieu-kien-tu-van-hoat-dong-quan-ly.aspx">
+              Xác định điều kiện tư vấn hoạt động quản lý
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/xac-dinh-dieu-kien-tu-van-hoat-dong-quan-ly.aspx">
+              <img alt="Xác định điều kiện tư vấn hoạt động quản lý " src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Thưa luật sư, tôi có câu hỏi mong các luật sư giải đáp giúp tôi Công ty là doanh nghiệp có vốn đầu tư nước ngoài 100% vốn của Nhật. Trong đăng ký kinh doanh ngành nghề chúng tôi đăng ký có ngành nghề Tư vấn quản lý.
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/tu-van-thu-tuc-dang-ki-kinh-doanh-nganh-nghe-co-dieu-kien.aspx">
+              Tư vấn thủ tục đăng kí kinh doanh ngành nghề có điều kiện
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/tu-van-thu-tuc-dang-ki-kinh-doanh-nganh-nghe-co-dieu-kien.aspx">
+              <img alt="Tư vấn thủ tục đăng kí kinh doanh ngành nghề có điều kiện " src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Thưa Luật sư! Hiện công ty của tôi theo giấy phép đăng ký kinh doanh là chuyên về thiết lập phần mềm và tư vấn hỗ trợ phần mềm. Nhưng công ty chúng tôi hiện nay muốn kinh doanh bãi trông giữ xe ô tô, nên mong luật sư giải đáp giúp tôi 3 vấn đề sau :
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/kien-thuc-doanh-nghiep/nganh-nghe-nao-kinh-doanh-phai-co-chung-chi-hanh-nghe-.aspx">
+              Ngành nghề nào kinh doanh phải có chứng chỉ hành nghề?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/kien-thuc-doanh-nghiep/nganh-nghe-nao-kinh-doanh-phai-co-chung-chi-hanh-nghe-.aspx">
+              <img alt="Ngành nghề nào kinh doanh phải có chứng chỉ hành nghề?" src="https://luatminhgia.com.vn/LMG/articles/0/737/nganh,-nghe-kinh-doanh-phai-co-chung-chi-hanh-nghe-737.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Ngành nghề kinh doanh phải có chứng chỉ hành nghề được hướng dẫn về quy định và điều kiện đăng ký ngành nghề kinh doanh có điều kiện tại Nghị định số 102/2010/NĐ-CP ngày 01 tháng 10 năm 2010, nội dung cụ thể như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/tu-van-dieu-kien-kinh-doanh-nganh-nghe-xam-hinh-nghe-thuat.aspx">
+              Tư vấn điều kiện kinh doanh ngành nghề xăm hình nghệ thuật
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/tu-van-dieu-kien-kinh-doanh-nganh-nghe-xam-hinh-nghe-thuat.aspx">
+              <img alt="Tư vấn điều kiện kinh doanh ngành nghề xăm hình nghệ thuật " src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Chào luật sư, Công Ty Luật Minh Gia, hiện nay tôi đang có một vấn đè liên quan đến thành lập hộ kinh doanh cá thể mong được luật sư tư vấn.
+             </p>
+            </div>
+           </li>
+          </ul>
+         </div>
+         <div align="center">
+          <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+          </script>
+          <ins class="adsbygoogle" data-ad-client="ca-pub-5654082264670297" data-ad-slot="5381602362" style="display:inline-block;width:336px;height:280px">
+          </ins>
+          <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+         </div>
+         <div class="news_other">
+          <div style="font-weight: bold;color:#000cff;font-size:20px;text-decoration: underline;">
+           Các bài viết liên quan
+          </div>
+          <ul>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/mua-hang-khong-co-kha-nang-tra-co-pham-toi-khong-.aspx">
+              Mua hàng không có khả năng trả có phạm tội không?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/mua-hang-khong-co-kha-nang-tra-co-pham-toi-khong-.aspx">
+              <img alt="Mua hàng không có khả năng trả có phạm tội không?" src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Nội dung đề nghị tư vấn: Chào Luật sư Minh Gia, em muốn hỏi trường hợp như sau: Mẹ e có làm ăn với ông Q trong suốt thời gian dài, nhưng do buôn bán không được nên đã thiếu ông Q 20 cây bột ( 20 triệu) lúc đầu vẫn cho thiếu vì vẫn còn làm ăn nhưng khi mẹ e mua ít lại thì ông Q không chịu bán và đòi mẹ em trả hơn phân nữa số tiền đã nợ.
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/ke-khai-thue-gia-tri-gia-tang-cho-du-an-dau-tu-moi-duoc-thuc-hien-the-nao-.aspx">
+              Kê khai thuế giá trị gia tăng cho dự án đầu tư mới được thực hiện thế nào?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/ke-khai-thue-gia-tri-gia-tang-cho-du-an-dau-tu-moi-duoc-thuc-hien-the-nao-.aspx">
+              <img alt="Kê khai thuế giá trị gia tăng cho dự án đầu tư mới được thực hiện thế nào?" src="https://luatminhgia.com.vn/LMG/articles/8/44292/ke-khai-thue-gia-tri-gia-tang-cho-du-an-dau-tu-moi-duoc-thuc-hien-the-nao--44292.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư giải đáp thắc mắc của khách hàng về cách kê khai thuế giá trị gia tăng cho dự án đầu tư mới. Nội dung tư vấn cụ thể như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/cham-dut-hoat-dong-cua-ho-kinh-doanh-ca-the-can-nhung-thu-tuc-gi.aspx">
+              Chấm dứt hoạt động của hộ kinh doanh cá thể cần những thủ tục gì
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/cham-dut-hoat-dong-cua-ho-kinh-doanh-ca-the-can-nhung-thu-tuc-gi.aspx">
+              <img alt="Chấm dứt hoạt động của hộ kinh doanh cá thể cần những thủ tục gì" src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về hồ sơ, thủ tục chấm dứt  hoạt động của hộ kinh doanh cá thể. Nội dung tư vấn như sau
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/thay-doi-giam-doc-trung-tam-ngoai-ngu-tin-hoc.aspx">
+              Thay đổi giám đốc trung tâm Ngoại ngữ - Tin học
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/thay-doi-giam-doc-trung-tam-ngoai-ngu-tin-hoc.aspx">
+              <img alt="Thay đổi giám đốc trung tâm Ngoại ngữ - Tin học" src="https://luatminhgia.com.vn/LMG/articles/8/44249/thay-doi-giam-doc-trung-tam-ngoai-ngu-tin-hoc-44249.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - em đang làm nhân viên của một công ty TNHH dịch thuật. Trong quá trình làm việc tại đây, phía công ty có thành lập một trung tâm Ngoại ngữ- tin học. Do Giám đốc công ty không đủ điều kiện để đứng tên làm giám đốc nên đã nhờ em đứng tên giùm làm giám đốc khi trung  tâm được thành lập do em có bằng ngoại ngữ.
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/nguoi-dai-dien-theo-phap-luat-cua-cong-ty-co-the-uy-quyen-cho-nguoi-khac-ky-hop-dong-.aspx">
+              Người đại diện theo pháp luật của công ty có thể ủy quyền cho người khác ký hợp đồng ?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/nguoi-dai-dien-theo-phap-luat-cua-cong-ty-co-the-uy-quyen-cho-nguoi-khac-ky-hop-dong-.aspx">
+              <img alt="Người đại diện theo pháp luật của công ty có thể ủy quyền cho người khác ký hợp đồng ?" src="/images/noimage.jpg"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về nghĩa vụ thanh toán tiền trong hợp đồng, người được quyền ký kết hợp đồng  trong công ty. Nội dung tư vấn như sau
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/xu-phat-hanh-chinh-voi-hanh-vi-van-chuyen-hang-hoa-khong-co-hoa-don.aspx">
+              Xử phạt hành chính với hành vi vận chuyển  hàng hóa không có hóa đơn
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/xu-phat-hanh-chinh-voi-hanh-vi-van-chuyen-hang-hoa-khong-co-hoa-don.aspx">
+              <img alt="Xử phạt hành chính với hành vi vận chuyển  hàng hóa không có hóa đơn" src="https://luatminhgia.com.vn/LMG/articles/8/44217/xu-phat-hanh-chinh-voi-hanh-vi-van-chuyen-hang-hoa-khong-co-hoa-don-44217.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Vận chuyển hàng hóa thuê mà không xuất trình được hóa đơn có bị xử phạt hành chính không? Cụ thể như sau:
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/hoi-tu-van-thu-tuc-nhap-khau-dung-cu-thi-nghiem-.aspx">
+              Hỏi tư vấn thủ tục nhập khẩu dụng cụ thí nghiệm.
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/hoi-tu-van-thu-tuc-nhap-khau-dung-cu-thi-nghiem-.aspx">
+              <img alt="Hỏi tư vấn thủ tục nhập khẩu dụng cụ thí nghiệm." src="https://luatminhgia.com.vn/LMG/articles/8/44210/hoi-tu-van-thu-tuc-nhap-khau-dung-cu-thi-nghiem--44210.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư tư vấn về vấn đề nhập khẩu dụng cụ thí nghiệm thì cần những giấy tờ gì và cần có những lưu ý gì khi nhập khẩu hàng cho công ty dược phẩm.
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-va-thu-tuc-dang-ky-ho-kinh-doanh-ca-the.aspx">
+              Điều kiện và thủ tục đăng ký hộ kinh doanh cá thể
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-va-thu-tuc-dang-ky-ho-kinh-doanh-ca-the.aspx">
+              <img alt="Điều kiện và thủ tục đăng ký hộ kinh doanh cá thể" src="https://luatminhgia.com.vn/LMG/articles/8/44199/dieu-kien-va-thu-tuc-dang-ky-ho-kinh-doanh-ca-the-44199.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - muốn mở một xưởng lắp ráp và kinh doanh xe đạp điện và xe máy điện. Các thủ tục giấy tờ cần có để có thể mở xưởng được không? Vì tôi mở xưởng với quy mô nhỏ dưới 10 người thì tôi nên thành lập theo hình thức hộ kinh doanh có được không?
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/vay-von-ngan-hang-voi-cong-ty-tnhh-2-thanh-vien.aspx">
+              Vay vốn ngân hàng với công ty TNHH 2 thành viên
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/vay-von-ngan-hang-voi-cong-ty-tnhh-2-thanh-vien.aspx">
+              <img alt="Vay vốn ngân hàng với công ty TNHH 2 thành viên" src="https://luatminhgia.com.vn/LMG/articles/8/44168/vay-von-ngan-hang-voi-cong-ty-tnhh-2-thanh-vien-44168.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Quyền hạn của HĐTV đối với việc vay vốn &gt; 50% giá trị tài sản của DN trong báo cáo tài chính gần nhất được công bố. Vậy báo cáo tài chính tại thời điểm công bố gần nhất được hiểu là ntn? Vì trong trường hợp của công ty tôi, cuối năm 2016 tổng tài sản hơn 7 tỷ. Đến tháng 11/2017, tổng tài sản 25 tỷ. Trong tháng 11 tôi có đi vay ngân hàng 5 tỷ. Nếu áp theo tổng TS tại cuối 2016 thì vượt 50%, nhưng theo thời điểm 11/2017 thì số tiền vay chưa vượt 50% tổng TS. Vậy nếu tôi phát hành (in, ký đóng dâu)
+             </p>
+            </div>
+           </li>
+           <li>
+            <h3>
+             <a href="/hoi-dap-doanh-nghiep/khoan-nhan-boi-thuong-bang-hang-hoa-co-phai-lap-hoa-don-hay-khong-.aspx">
+              Khoản nhận bồi thường bằng hàng hóa có phải lập hóa đơn hay không?
+             </a>
+            </h3>
+            <div class="imgtinlienquan">
+             <a href="/hoi-dap-doanh-nghiep/khoan-nhan-boi-thuong-bang-hang-hoa-co-phai-lap-hoa-don-hay-khong-.aspx">
+              <img alt="Khoản nhận bồi thường bằng hàng hóa có phải lập hóa đơn hay không?" src="https://luatminhgia.com.vn/LMG/articles/8/44160/khoan-nhan-boi-thuong-bang-hang-hoa-co-phai-lap-hoa-don-hay-khong--44160.jpg?w=250"/>
+             </a>
+            </div>
+            <div class="bodytinlienquan">
+             <p>
+              (Luật Minh Gia) - Luật sư giải đáp thắc mắc về trường hợp bên đơn vị nhận khoản bồi thường bằng hàng hóa, dịch vụ có phải phải lập hóa đơn hay không? Nội dung tư vấn cụ thể như sau:
+             </p>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </aside>
+        <div class="righthome">
+         <div class="search clearfix">
+          <div class="floatLeft" id="search_block">
+           <h3 class="header_block">
+            Tìm kiếm
+           </h3>
+           <div id="search_text">
+            <form action="/search" id="frmSearch" method="get">
+             <input class="text" name="q" placeholder="Từ khóa tìm kiếm" size="30" type="text"/>
+             <input class="search_button pull-left" id="search_btn" name="search" type="submit" value="Search"/>
+            </form>
+           </div>
+           <p>
+            <span>
+             VD:
+            </span>
+            <a href="/search?q=tư%20vấn%20pháp%20luật">
+             tư vấn pháp luật
+            </a>
+            ,
+            <a href="/search?q=luật tranh tụng">
+             luật tranh tụng
+            </a>
+            ,
+            <a href="/search?q=luật sở hữu trí tuệ">
+             luật sở hữu trí tuệ
+            </a>
+            ...
+           </p>
+          </div>
+         </div>
+         <div id="supports">
+          <a href="https://luatminhgia.com.vn/luat-su-dan-su/luat-su-tu-van-luat-truc-tuyen-qua-tong-dai-dien-thoai-19006169.aspx">
+           <img alt="Ho tro truc tuyen voi luatminhgia1" src="/Content/hotline.jpg" width="304"/>
+          </a>
+         </div>
+         <div class="nergS2">
+          <h3>
+           Dịch vụ pháp lý Doanh nghiệp
+          </h3>
+          <ul>
+           <li>
+            <a href="/luat-su-doanh-nghiep/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi.aspx" title="Dịch vụ tư vấn thành lập công ty tại Hà Nội">
+             <img alt="Dịch vụ tư vấn thành lập công ty tại Hà Nội" src="https://luatminhgia.com.vn/LMG/articles/0/2190/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi-2190.jpeg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/luat-su-doanh-nghiep/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi.aspx" style="font-size:15px">
+              Dịch vụ tư vấn thành lập công ty tại Hà Nội
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169.aspx" title="Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169">
+             <img alt="Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169" src="https://luatminhgia.com.vn/LMG/articles/0/783/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169-783.png?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169.aspx" style="font-size:15px">
+              Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-to-tung-giai-quyet-tranh-chap-doanh-nghiep.aspx" title="Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp">
+             <img alt="Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp" src="https://luatminhgia.com.vn/LMG/articles/0/2797/luat-su-tham-gia-to-tung,-giai-quyet-tranh-chap-doanh-nghiep-2797.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-to-tung-giai-quyet-tranh-chap-doanh-nghiep.aspx" style="font-size:15px">
+              Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-tu-van-thay-doi-noi-dung-dang-ky-kinh-doanh.aspx" title="Dịch vụ luật sư tư vấn thay đổi nội dung đăng ký kinh doanh">
+             <img alt="Dịch vụ luật sư tư vấn thay đổi nội dung đăng ký kinh doanh" src="https://luatminhgia.com.vn/LMG/articles/0/1181/dich-vu-luat-su-tu-van-thay-doi-noi-dung-dang-ky-kinh-doanh-1181.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-tu-van-thay-doi-noi-dung-dang-ky-kinh-doanh.aspx" style="font-size:15px">
+              Dịch vụ luật sư tư vấn thay đổi nội dung đăng ký kinh doanh
+             </a>
+            </h4>
+           </li>
+          </ul>
+         </div>
+         <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+         </script>
+         <ins class="adsbygoogle" data-ad-client="ca-pub-5654082264670297" data-ad-slot="8335068769" style="display:inline-block;width:300px;height:600px">
+         </ins>
+         <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+         </script>
+         <div class="nergS2">
+          <h3>
+           Hỏi đáp Doanh nghiệp được quan tâm
+          </h3>
+          <ul>
+           <li>
+            <a href="/hoi-dap-doanh-nghiep/thu-tuc-chuyen-nhuong-co-phan.aspx" title="Thủ tục chuyển nhượng cổ phần">
+             <img alt="Thủ tục chuyển nhượng cổ phần" src="https://luatminhgia.com.vn/LMG/articles/7/39728/thu-tuc-chuyen-nhuong-co-phan-39728.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/hoi-dap-doanh-nghiep/thu-tuc-chuyen-nhuong-co-phan.aspx" style="font-size:15px">
+              Thủ tục chuyển nhượng cổ phần
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/hoi-dap-doanh-nghiep/dieu-kien-bo-nhiem-ke-toan-truong-tai-cong-ty-co-von-nha-nuoc.aspx" title="Điều kiện bổ nhiệm kế toán trưởng tại công ty có vốn nhà nước">
+             <img alt="Điều kiện bổ nhiệm kế toán trưởng tại công ty có vốn nhà nước" src="https://luatminhgia.com.vn/LMG/articles/6/34577/dieu-kien-bo-nhiem-ke-toan-truong-tai-cong-ty-co-von-nha-nuoc-34577.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-bo-nhiem-ke-toan-truong-tai-cong-ty-co-von-nha-nuoc.aspx" style="font-size:15px">
+              Điều kiện bổ nhiệm kế toán trưởng tại công ty có vốn nhà nước
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/hoi-dap-doanh-nghiep/hoan-thue-du-an-dau-tu-nhu-the-nao-.aspx" title="Hoàn thuế dự án đầu tư như thế nào?">
+             <img alt="Hoàn thuế dự án đầu tư như thế nào?" src="https://luatminhgia.com.vn/LMG/articles/6/34535/hoan-thue-du-an-dau-tu-nhu-the-nao--34535.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/hoi-dap-doanh-nghiep/hoan-thue-du-an-dau-tu-nhu-the-nao-.aspx" style="font-size:15px">
+              Hoàn thuế dự án đầu tư như thế nào?
+             </a>
+            </h4>
+           </li>
+           <li>
+            <a href="/hoi-dap-doanh-nghiep/luat-su-tu-van-phap-ly-cho-nguoi-khoi-nghiep-.aspx" title="Luật sư tư vấn pháp lý cho người khởi nghiệp. ">
+             <img alt="Luật sư tư vấn pháp lý cho người khởi nghiệp. " src="https://luatminhgia.com.vn/LMG/articles/6/34452/luat-su-tu-van-phap-ly-cho-nguoi-khoi-nghiep--34452.jpg?w=107">
+             </img>
+            </a>
+            <h4>
+             <a href="/hoi-dap-doanh-nghiep/luat-su-tu-van-phap-ly-cho-nguoi-khoi-nghiep-.aspx" style="font-size:15px">
+              Luật sư tư vấn pháp lý cho người khởi nghiệp.
+             </a>
+            </h4>
+           </li>
+          </ul>
+         </div>
+         <div class="nerg newsfix">
+          <h3>
+           Bài đọc nhiều nhất
+          </h3>
+          <ul>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/dieu-kien-va-thu-tuc-chuyen-nhuong-von-trong-cong-ty-co-phan.aspx" style="font-weight: normal;font-size:15px" title="Điều kiện và thủ tục chuyển nhượng vốn trong công ty cổ phần">
+              Điều kiện và thủ tục chuyển nhượng vốn trong công ty cổ phần
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/tu-van-ve-viec-ke-khai-va-hoan-thue-gtgt-du-an-dau-tu.aspx" style="font-weight: normal;font-size:15px" title="Tư vấn về việc kê khai và hoàn thuế GTGT dự án đầu tư">
+              Tư vấn về việc kê khai và hoàn thuế GTGT dự án đầu tư
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/doanh-nghiep-moi-thanh-lap-co-duoc-uu-dai-thue-thu-nhap-doanh-nghiep-.aspx" style="font-weight: normal;font-size:15px" title="Doanh nghiệp mới thành lập có được ưu đãi thuế Thu nhập doanh nghiệp?">
+              Doanh nghiệp mới thành lập có được ưu đãi thuế Thu nhập doanh nghiệp?
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/thu-tuc-rut-von-cua-co-dong-khoi-cong-ty-co-phan-nhu-the-nao-.aspx" style="font-weight: normal;font-size:15px" title="Thủ tục rút vốn của cổ đông khỏi công ty cổ phần như thế nào?">
+              Thủ tục rút vốn của cổ đông khỏi công ty cổ phần như thế nào?
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/mo-shop-thoi-trang-co-can-phai-dang-ky-kinh-doanh-khong-.aspx" style="font-weight: normal;font-size:15px" title="Mở shop thời trang có cần phải đăng ký kinh doanh không?">
+              Mở shop thời trang có cần phải đăng ký kinh doanh không?
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/chuyen-nhuong-von-trong-cong-ty-tnhh-co-phai-dong-thue-.aspx" style="font-weight: normal;font-size:15px" title="Chuyển nhượng vốn trong công ty TNHH có phải đóng thuế?">
+              Chuyển nhượng vốn trong công ty TNHH có phải đóng thuế?
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/thu-tuc-gop-von-vao-cong-ty-co-phan.aspx" style="font-weight: normal;font-size:15px" title="Thủ tục góp vốn vào công ty cổ phần">
+              Thủ tục góp vốn vào công ty cổ phần
+             </a>
+            </div>
+           </li>
+           <li>
+            <div>
+             <a href="/hoi-dap-doanh-nghiep/thu-tuc-thanh-lap-ho-kinh-doanh-ca-the-va-nhung-dieu-can-luu-y-.aspx" style="font-weight: normal;font-size:15px" title="Thủ tục thành lập hộ kinh doanh cá thể và những điều cần lưu ý?">
+              Thủ tục thành lập hộ kinh doanh cá thể và những điều cần lưu ý?
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+         <div id="PhuHopPhai" style="margin:5px 0;">
+         </div>
+         <div class="social-float-parent">
+          <div align="center" id="social-float">
+           <a href="https://luatminhgia.com.vn/luat-su-dan-su/tong-dai-luat-su-tu-van-truc-tuyen-1900-6169.aspx">
+            <img src="/images/anhduoicotluatminhgia.jpg" style="width:300px;height:600px;"/>
+           </a>
+          </div>
+         </div>
+         <script>
+          $(window).scroll(function () {
+if ($('#social-float').offset().top + $('#social-float').height()
+>= $('.boxbt').offset().top - 607)
+$('#social-float').css('bottom',470 - (document.body.offsetHeight-(window.innerHeight + window.scrollY)));
+if ($(document).scrollTop() + window.innerHeight < $('.boxbt').offset().top)
+{ $('#social-float').css('position', 'fixed'); // restore when you scroll up
+$('#social-float').css('bottom', '10px');}
+if ($('#social-float').offset().top + $('#social-float').height()
+<= $('#PhuHopPhai').offset().top + $('#PhuHopPhai').height() + 607)
+$('#social-float').css('position', 'static');
+});
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f2762d733ded547" type="text/javascript">
+     </script>
+     <div aria-hidden="true" class="modal fade hide" id="makeQuestion" role="dialog" tabindex="-1">
+      <div class="modal-dialog">
+       <div class="modal-content">
+        <div class="modal-header">
+         <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+           ×
+          </span>
+         </button>
+         <h4 class="modal-title">
+          TỔNG ĐÀI TƯ VẤN PHÁP LUẬT 1900 6160
+         </h4>
+        </div>
+        <div class="modal-body">
+         <div class="row-fluid">
+          <form class="form-horizontal" id="formAsk" novalidate="" role="form">
+           <h4 style="font-size: 14px; margin: 5px 0;">
+            Vui lòng nhập tiếng Việt có dấu và cung cấp địa chỉ Email để luật sư liên hệ trả lời
+           </h4>
+           <div class="form-group">
+            <label class="control-label span2" for="cname">
+             Tên của bạn
+            </label>
+            <div class="span9">
+             <input class="input-xlarge" data-rule-required="true" id="cname" name="cname" placeholder="Nhập tên của bạn" type="text"/>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label span2" for="cphone">
+             Điện thoại
+            </label>
+            <div class="span9">
+             <input class="input-xlarge" id="cphone" name="cphone" placeholder="Nhập điện thoại của bạn" type="text"/>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label span2" for="cemail">
+             Email
+            </label>
+            <div class="span9">
+             <input class="input-xlarge span8" data-rule-email="true" data-rule-required="true" id="cemail" name="cemail" placeholder="Nhập email của bạn" type="text"/>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label span2" for="ctitle">
+             Tiêu đề
+            </label>
+            <div class="span8">
+             <input class="input-xlarge span8" data-rule-required="true" id="ctitle" name="qname" placeholder="Nhập tiêu đề sơ lược" type="text"/>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label span2" for="cphone">
+             Lĩnh vực
+            </label>
+            <div class="span9">
+             <select class="slLinhvuc" data-rule-required="true" name="slLinhvuc">
+              <option value="">
+               [ Lựa chọn lĩnh vực ]
+              </option>
+              <option value="13">
+               BHXH
+              </option>
+              <option value="1">
+               Dân sự
+              </option>
+              <option value="6">
+               Doanh nghiệp
+              </option>
+              <option value="4">
+               Đất đai
+              </option>
+              <option value="10">
+               Đấu thầu
+              </option>
+              <option value="11">
+               Giao thông
+              </option>
+              <option value="12">
+               Hành chính
+              </option>
+              <option value="2">
+               Hình sự
+              </option>
+              <option value="3">
+               Hôn nhân
+              </option>
+              <option value="5">
+               Lao động
+              </option>
+              <option value="9">
+               Nghĩa vụ quân sự
+              </option>
+              <option value="14">
+               SHTT
+              </option>
+              <option value="8">
+               Thuế
+              </option>
+             </select>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label" for="ccontent">
+             Nội dung
+            </label>
+            <div class="span9">
+             <textarea class="input-xlarge span12" data-rule-required="true" id="ccontent" name="ccontent" placeholder="Nhập nội dung của bạn, nội dung phải là tiếng việt có dấu" rows="6"></textarea>
+            </div>
+           </div>
+           <div class="form-group">
+            <label class="control-label" for="ccontent">
+             Gửi kèm
+            </label>
+            <div class="span9">
+             <div class="swfupload-control">
+              <input class="button" type="button"/>
+              <ul class="attachfiles">
+              </ul>
+             </div>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+        <div class="modal-footer">
+         <button class="btn btn-primary" id="btnAsknow" type="submit">
+          Gửi
+         </button>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="boxbt">
+     <aside class="promo clearfix">
+      <div class="promo-left fl">
+      </div>
+      <div class="promo-mid fl">
+       <div class="promo-slider fl">
+        <ul id="promoitems">
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169.aspx">
+           <img alt="Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169" src="https://luatminhgia.com.vn/LMG/articles/0/783/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169-783.png?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-phap-luat-doanh-nghiep-19006169.aspx" title="Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169">
+           Tổng đài luật sư tư vấn pháp luật Doanh nghiệp 19006169
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/dich-vu-luat-su-thanh-lap-cong-ty-lien-doanh.aspx">
+           <img alt="Dịch vụ luật sư thành lập công ty liên doanh" src="https://luatminhgia.com.vn/LMG/articles/0/2770/dich-vu-luat-su-thanh-lap-cong-ty-lien-doanh-2770.jpg?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-thanh-lap-cong-ty-lien-doanh.aspx" title="Dịch vụ luật sư thành lập công ty liên doanh">
+           Dịch vụ luật sư thành lập công ty liên doanh
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/luat-su-tu-van-dieu-chinh-giay-chung-nhan-dau-tu.aspx">
+           <img alt="Luật sư tư vấn điều chỉnh giấy chứng nhận đầu tư" src="https://luatminhgia.com.vn/LMG/articles/0/1302/luat-su-tu-van-dieu-chinh-giay-chung-nhan-dau-tu-1302.png?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/luat-su-tu-van-dieu-chinh-giay-chung-nhan-dau-tu.aspx" title="Luật sư tư vấn điều chỉnh giấy chứng nhận đầu tư">
+           Luật sư tư vấn điều chỉnh giấy chứng nhận đầu tư
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi.aspx">
+           <img alt="Dịch vụ tư vấn thành lập công ty tại Hà Nội" src="https://luatminhgia.com.vn/LMG/articles/0/2190/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi-2190.jpeg?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/dich-vu-tu-van-thanh-lap-cong-ty-tai-ha-noi.aspx" title="Dịch vụ tư vấn thành lập công ty tại Hà Nội">
+           Dịch vụ tư vấn thành lập công ty tại Hà Nội
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/dich-vu-luat-su-to-tung-giai-quyet-tranh-chap-doanh-nghiep.aspx">
+           <img alt="Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp" src="https://luatminhgia.com.vn/LMG/articles/0/2797/luat-su-tham-gia-to-tung,-giai-quyet-tranh-chap-doanh-nghiep-2797.jpg?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-to-tung-giai-quyet-tranh-chap-doanh-nghiep.aspx" title="Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp">
+           Dịch vụ luật sư tố tụng giải quyết tranh chấp Doanh nghiệp
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/tu-van-thu-tuc-dang-ky-nhan-hieu.aspx">
+           <img alt="Tư vấn thủ tục đăng ký nhãn hiệu" src="https://luatminhgia.com.vn/LMG/articles/0/2180/tu-van-thu-tuc-dang-ky-nhan-hieu-2180.jpeg?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/tu-van-thu-tuc-dang-ky-nhan-hieu.aspx" title="Tư vấn thủ tục đăng ký nhãn hiệu">
+           Tư vấn thủ tục đăng ký nhãn hiệu
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/kien-thuc-doanh-nghiep/tu-van-dang-ky-ban-quyen-phan-mem-may-tinh.aspx">
+           <img alt="Tư vấn đăng ký bản quyền phần mềm máy tính" src="https://luatminhgia.com.vn/LMG/articles/0/1443/tu-van-dang-ky-ban-quyen-phan-mem-may-tinh-1443.jpeg?w=116"/>
+          </a>
+          <a href="/kien-thuc-doanh-nghiep/tu-van-dang-ky-ban-quyen-phan-mem-may-tinh.aspx" title="Tư vấn đăng ký bản quyền phần mềm máy tính">
+           Tư vấn đăng ký bản quyền phần mềm máy tính
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-luat-dau-tu-nuoc-ngoai-truc-tuyen-19006169.aspx">
+           <img alt="Tổng đài luật sư tư vấn luật Đầu tư nước ngoài trực tuyến 19006169" src="https://luatminhgia.com.vn/LMG/articles/0/789/tong-dai-luat-su-tu-van-luat-dau-tu-nuoc-ngoai-truc-tuyen-19006169-789.png?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/tong-dai-luat-su-tu-van-luat-dau-tu-nuoc-ngoai-truc-tuyen-19006169.aspx" title="Tổng đài luật sư tư vấn luật Đầu tư nước ngoài trực tuyến 19006169">
+           Tổng đài luật sư tư vấn luật Đầu tư nước ngoài trực tuyến 19006169
+          </a>
+         </li>
+         <li class="item">
+          <a class="imgn" href="/luat-su-doanh-nghiep/dich-vu-luat-su-rieng-cho-doanh-nghiep.aspx">
+           <img alt="Dịch vụ luật sư riêng cho doanh nghiệp" src="https://luatminhgia.com.vn/LMG/articles/0/2729/dich-vu-luat-su-rieng-cho-doanh-nghiep-2729.jpg?w=116"/>
+          </a>
+          <a href="/luat-su-doanh-nghiep/dich-vu-luat-su-rieng-cho-doanh-nghiep.aspx" title="Dịch vụ luật sư riêng cho doanh nghiệp">
+           Dịch vụ luật sư riêng cho doanh nghiệp
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="promo-right fl">
+      </div>
+      <div class="promo-page fl">
+       <div id="slideprev">
+       </div>
+       <div class="slideseper">
+       </div>
+       <div id="slidenext">
+       </div>
+      </div>
+      <div class="promo-title fl">
+      </div>
+     </aside>
+     <script type="text/javascript">
+      $('#promoitems').carouFredSel({
+items: 5,
+auto: true,
+prev: "#slideprev",
+next: "#slidenext",
+scroll: {
+items:3,
+//  easing: "elastic",
+duration: 1000,
+pauseOnHover: true
+}
+});
+     </script>
+     <div class="clearfix nvfob">
+      <ul>
+       <li>
+        <a href="/" title="Trang chủ">
+         Trang chủ
+        </a>
+       </li>
+       <li>
+        <a href="/gioi-thieu.aspx" title="Giới thiệu">
+         Giới thiệu
+        </a>
+       </li>
+       <li>
+        <a href="/dan-su.aspx" title="Dân sự">
+         Dân sự
+        </a>
+       </li>
+       <li>
+        <a href="/hinh-su.aspx" title="Hình sự">
+         Hình sự
+        </a>
+       </li>
+       <li>
+        <a href="/dat-dai.aspx" title="Đất đai">
+         Đất đai
+        </a>
+       </li>
+       <li>
+        <a href="/hon-nhan.aspx" title="Hôn nhân">
+         Hôn nhân
+        </a>
+       </li>
+       <li>
+        <a href="/doanh-nghiep.aspx" title="Doanh nghiệp">
+         Doanh nghiệp
+        </a>
+       </li>
+       <li>
+        <a href="/lao-dong.aspx" title="Lao động">
+         Lao động
+        </a>
+       </li>
+       <li>
+        <a href="/bieu-mau.aspx" title="Biểu mẫu">
+         Biểu mẫu
+        </a>
+       </li>
+       <li>
+        <a href="/van-ban-luat.aspx" title="Văn bản luật">
+         Văn bản luật
+        </a>
+       </li>
+       <li>
+        <a href="/lien-he.aspx" title="Liên hệ">
+         Liên hệ
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <footer class="footer">
+     <div class="footer-inner clearfix">
+      <p style="text-align:center">
+       <span style="font-size:16px">
+        <strong>
+         <a href="https://luatminhgia.com.vn">
+          CÔNG TY LUẬT MINH GIA (MINHGIA LAWFIRM)
+         </a>
+        </strong>
+       </span>
+      </p>
+      <p style="text-align:center">
+       Đăng ký hoạt động số 01020716/ĐKHD-STP, do Sở Tư pháp thành phố Hà Nội cấp ngày 13/09/2011
+      </p>
+      <p style="text-align:center">
+       Địa chỉ KD: Số 1A7 Ngõ 33
+       <strong>
+       </strong>
+       phố Chùa Láng, Q. Đống Đa, TP Hà Nội - ĐT: (04) 6683 1212 -
+       <strong>
+        Hotline:
+        <a href="tel:19006169">
+         <span style="font-size:18px">
+          1900.6169
+         </span>
+        </a>
+       </strong>
+       - Email:
+       <a href="mailto:lienhe@luatminhgia.vn">
+        lienhe@luatminhgia.vn
+       </a>
+      </p>
+      <p style="text-align:center">
+       © Copyright 2011 luatminhgia.vn, All rights reserved - Bản quyền thuộc về Công ty Luật Minh Gia - Không được phát hành lại nội dung khi chưa được Luật Minh Gia chấp thuận.
+      </p>
+      <p style="text-align:center">
+       <strong>
+        <a href="https://luatminhgia.com.vn/ve-chung-toi/gioi-thieu-ve-website-va-quyen-mien-tru-trach-nhiem.aspx">
+         Chính sách &amp; Quy định chung
+        </a>
+       </strong>
+       |
+       <strong>
+        <a href="https://luatminhgia.com.vn/tin-luat-minh-gia/quy-dinh-va-chinh-sach-bao-mat-thong-tin.aspx">
+         Chính sách bảo mật thông tin
+        </a>
+       </strong>
+      </p>
+      <p style="text-align:center">
+       <span style="font-size:16px">
+        <strong>
+         <a href="https://luatminhgia.com.vn/luat-su-dan-su/tong-dai-luat-su-tu-van-truc-tuyen-1900-6169.aspx">
+          LUẬT SƯ TƯ VẤN PHÁP LUẬT TRỰC TUYẾN QUA ĐIỆN THOẠI, GỌI:
+         </a>
+        </strong>
+       </span>
+       <a href="tel:19006169">
+        <span style="font-size:24px">
+         <strong>
+          1900.6169
+         </strong>
+        </span>
+       </a>
+      </p>
+      <div class="text-right">
+       <a class="dmca-badge" href="http://www.dmca.com/Protection/Status.aspx?ID=7241fa87-84dc-4185-bfeb-321a443f5886" rel="nofollow" target="_blank" title="DMCA.com Protection Status">
+        <img alt="DMCA.com Protection Status" src="//images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=7241fa87-84dc-4185-bfeb-321a443f5886">
+        </img>
+       </a>
+      </div>
+      <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js">
+      </script>
+     </div>
+     <div class="btnScrollTop">
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script>
+   (function(i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-59508517-1', 'auto'); ga('send', 'pageview');
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var google_conversion_id = 958057178;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+  </script>
+  <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/958057178/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+   </div>
+  </noscript>
+  <script src="/Scripts/bootstrap/bootstrap.min.js">
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300&amp;lang=vi" rel="stylesheet"/>
+  <script src="/Scripts/bootstrap/plugins/validation/jquery.validate.min.js">
+  </script>
+  <script src="/Scripts/jquery.timeago.js">
+  </script>
+  <script src="/Scripts/mglaw.js">
+  </script>
+ </body>
+</html>
