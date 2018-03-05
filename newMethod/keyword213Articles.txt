@@ -1,0 +1,4442 @@
+Điều: 1
+	công ty 4
+	và 2
+	tổ chức 2
+	về 2
+	doanh nghiệp 2
+	quy định 2
+	việc 1
+	cổ phần 1
+	thành lập 1
+	bao gồm 1
+	quản lý 1
+	nhóm 1
+	tư nhân 1
+	liên quan 1
+	luật 1
+	này 1
+	có 1
+	của 1
+	hữu hạn 1
+	hoạt động 1
+Điều: 2
+	tổ chức 3
+	liên quan 2
+	có 2
+	doanh nghiệp 2
+	và 1
+	việc 1
+	thành lập 1
+	quản lý 1
+	cá nhân 1
+	của 1
+	lại 1
+	các 1
+	hoạt động 1
+	giải thể 1
+	cơ quan 1
+Điều: 3
+	luật 4
+	và 2
+	tổ chức 2
+	của 2
+	có 2
+	chuyên ngành 2
+	doanh nghiệp 2
+	quy định 2
+	liên quan 1
+	việc 1
+	quản lý 1
+	thành lập 1
+	về 1
+	giải thể 1
+	lại 1
+	các 1
+	hoạt động 1
+	trường hợp 1
+	thì 1
+Điều: 4
+	công ty 35
+	doanh nghiệp 34
+	là 30
+	của 26
+	hoặc 26
+	góp 19
+	có 16
+	vốn 15
+	thành viên 15
+	và 14
+	người 13
+	cổ phần 13
+	thành lập 11
+	tổ chức 11
+	về 10
+	một 10
+	theo 9
+	phần 9
+	cá nhân 9
+	sở hữu 8
+Điều: 5
+	doanh nghiệp 13
+	và 9
+	của 8
+	nhà nước 4
+	hoặc 4
+	các 4
+	không 4
+	trưng dụng 3
+	lợi ích 3
+	bảo đảm 3
+	tài sản 3
+	chủ sở hữu 3
+	hợp pháp 3
+	trường hợp 3
+	bồi thường 3
+	trưng mua 3
+	bị 2
+	phân biệt 2
+	thì 2
+	loại hình 2
+Điều: 6
+	tổ chức 8
+	chính trị 6
+	doanh nghiệp 4
+	trong 3
+	xã hội 3
+	và 2
+	cản trở 2
+	khó khăn 2
+	cho 2
+	không 2
+	hoạt động 2
+	gây 2
+	lao động 1
+	người 1
+	thành lập 1
+	quy định 1
+	tham gia 1
+	việc 1
+	các 1
+	theo 1
+Điều: 7
+	kinh doanh 8
+	và 7
+	của 6
+	theo 5
+	chủ động 4
+	quy định 4
+	sử dụng 3
+	lựa chọn 3
+	pháp luật 3
+	hình thức 3
+	ngành 3
+	nghề 3
+	tố cáo 2
+	khiếu nại 2
+	luật 2
+	không 2
+	doanh nghiệp 2
+	yêu cầu 2
+	quyền 2
+	lao động 1
+Điều: 8
+	và 14
+	của 13
+	quy định 9
+	về 8
+	lao động 7
+	theo 7
+	pháp luật 7
+	kinh doanh 6
+	người 5
+	các 5
+	nghĩa vụ 5
+	doanh nghiệp 5
+	bảo đảm 4
+	khác 4
+	thông tin 4
+	báo cáo 4
+	thực hiện 4
+	trong 3
+	kê khai 3
+	chính xác 3
+Điều: 9
+	và 9
+	dịch vụ 5
+	cung ứng 5
+	quy định 5
+	các 4
+	có 4
+	sản phẩm 4
+	giá 3
+	phí 3
+	theo 3
+	của 3
+	nhà nước 2
+	số lượng 2
+	hoặc 2
+	chất lượng 2
+	bảo đảm 2
+	khách hàng 2
+	cơ quan 2
+	thẩm quyền 2
+	nghĩa vụ 2
+Điều: 10
+	doanh nghiệp 18
+	và 13
+	xã hội 12
+	của 10
+	các 9
+	quy định 6
+	hoạt động 6
+	có 5
+	chi phí 4
+	theo 4
+	môi trường 4
+	này 4
+	mục tiêu 4
+	phải 3
+	c 3
+	quyền 3
+	khác 3
+	hỗ trợ 3
+	b 3
+	sử dụng 3
+Điều: 11
+	của 8
+	công ty 4
+	lưu giữ 4
+	tài liệu 4
+	doanh nghiệp 4
+	quy định 3
+	sổ 3
+	các 3
+	báo cáo 2
+	kế toán 2
+	khác 2
+	giấy 2
+	quyền sở hữu 2
+	thành viên 2
+	cổ đông 2
+	chứng nhận 2
+	kết luận 2
+	theo 2
+	hoặc 2
+	phải 2
+Điều: 12
+	doanh nghiệp 3
+	hoặc 3
+	thông tin 2
+	báo cáo 2
+	thay đổi 2
+	thành viên 2
+	của 2
+	có 2
+	ngày 2
+	cá nhân 1
+	công ty 1
+	người 1
+	hội đồng quản trị 1
+	tên 1
+	chứng thực 1
+	khác 1
+	kể 1
+	giám đốc 1
+	sau 1
+	trong 1
+Điều: 13
+	người 30
+	theo 25
+	của 23
+	pháp luật 22
+	công ty 15
+	doanh nghiệp 15
+	và 14
+	có 11
+	quyền 10
+	nghĩa vụ 9
+	uỷ quyền 9
+	cho 8
+	thực hiện 7
+	khác 7
+	bị 6
+	hoặc 6
+	thành viên 6
+	việt nam 5
+	các 5
+	làm 5
+Điều: 14
+	của 10
+	doanh nghiệp 10
+	người 5
+	và 3
+	lợi ích 3
+	theo 3
+	có 3
+	trách nhiệm 3
+	pháp luật 3
+	khác 2
+	sử dụng 2
+	cho 2
+	cá nhân 2
+	tại 2
+	các 2
+	nghĩa vụ 2
+	không 2
+	hoặc 2
+	cẩn trọng 1
+	về 1
+Điều: 15
+	uỷ quyền 20
+	người 19
+	theo 17
+	công ty 12
+	của 11
+	thành viên 10
+	cổ đông 9
+	có 9
+	và 8
+	chủ sở hữu 7
+	cổ phần 7
+	là 7
+	phải 6
+	góp 5
+	phần 5
+	vốn 5
+	tổ chức 5
+	cho 4
+	các 4
+	không 4
+Điều: 16
+	thành viên 11
+	cổ đông 11
+	uỷ quyền 10
+	chủ sở hữu 8
+	của 8
+	theo 7
+	người 6
+	nghĩa vụ 5
+	trách nhiệm 5
+	các 4
+	thực hiện 4
+	quyền 4
+	và 3
+	hội đồng 3
+	tại 3
+	thứ 2
+	trước 2
+	ba 2
+	này 2
+	có 2
+Điều: 17
+	kinh doanh 9
+	doanh nghiệp 9
+	không 6
+	của 5
+	các 4
+	và 3
+	nội dung 3
+	luật 3
+	quy định 3
+	hoạt động 3
+	hoặc 3
+	bị 2
+	người 2
+	thành lập 2
+	giấy 2
+	góp 2
+	chứng nhận 2
+	theo 2
+	này 2
+	vốn điều lệ 2
+Điều: 18
+	cơ quan 11
+	của 11
+	vốn 10
+	góp 10
+	doanh nghiệp 10
+	theo 9
+	nhà nước 8
+	quy định 8
+	người 7
+	tại 7
+	quản lý 6
+	mua 6
+	kinh doanh 6
+	vào 6
+	có 6
+	thành lập 5
+	này 5
+	phần 5
+	và 5
+	cho 5
+Điều: 19
+	doanh nghiệp 8
+	hợp đồng 6
+	thành lập 5
+	và 3
+	người 3
+	trường hợp 3
+	khoản 2
+	ký kết 2
+	tại 2
+	các 2
+	này 2
+	quy định 2
+	trách nhiệm 2
+	chịu 2
+	thực hiện 2
+	thì 2
+	trước 2
+	trừ 1
+	việc 1
+	phục vụ 1
+Điều: 20
+	doanh nghiệp 4
+	của 2
+	tư nhân 2
+	cá nhân 1
+	giấy 1
+	hộ chiếu 1
+	chứng thực 1
+	nhân dân 1
+	công dân 1
+	bản sao 1
+	khác 1
+	hồ sơ 1
+	hợp pháp 1
+	giấy chứng minh 1
+	thẻ 1
+	hoặc 1
+	căn cước 1
+	chủ 1
+Điều: 21
+	của 3
+	công ty 2
+	giấy 2
+	thành viên 2
+	bản sao 2
+	doanh nghiệp 2
+	chứng thực 1
+	công dân 1
+	nhà đầu tư 1
+	thẻ 1
+	hợp pháp 1
+	cá nhân 1
+	chứng nhận 1
+	các 1
+	khác 1
+	theo 1
+	luật 1
+	danh sách 1
+	nước ngoài 1
+	giấy chứng minh 1
+Điều: 22
+	của 6
+	doanh nghiệp 4
+	giấy 4
+	thành viên 4
+	hoặc 4
+	tổ chức 3
+	cá nhân 3
+	chứng nhận 3
+	khác 3
+	là 3
+	công ty 2
+	chứng thực 2
+	công dân 2
+	tương đương 2
+	hợp pháp 2
+	căn cước 2
+	theo 2
+	bản sao 2
+	tài liệu 2
+	giấy chứng minh 2
+Điều: 23
+	cổ đông 7
+	của 6
+	là 6
+	nước ngoài 5
+	và 4
+	nhà đầu tư 4
+	doanh nghiệp 4
+	giấy 4
+	hoặc 4
+	tổ chức 3
+	cá nhân 3
+	chứng nhận 3
+	sáng lập 3
+	khác 3
+	công ty 2
+	chứng thực 2
+	công dân 2
+	hợp pháp 2
+	các 2
+	căn cước 2
+Điều: 24
+	cổ phần 6
+	của 6
+	doanh nghiệp 6
+	số 4
+	và 3
+	công ty 3
+	tên 3
+	loại 3
+	công dân 2
+	họ 2
+	hoặc 2
+	quốc tịch 2
+	hợp pháp 2
+	thẻ 2
+	cá nhân 2
+	căn cước 2
+	tư nhân 2
+	chủ 2
+	thường trú 2
+	giấy chứng minh 2
+Điều: 25
+	công ty 32
+	và 17
+	của 15
+	cổ phần 14
+	thành viên 13
+	người 11
+	theo 9
+	hữu hạn 9
+	trách nhiệm 9
+	pháp luật 7
+	danh 7
+	hợp 7
+	là 6
+	chủ sở hữu 5
+	tên 5
+	các 5
+	hoặc 5
+	cổ đông 5
+	có 5
+	loại 4
+Điều: 26
+	công ty 17
+	cổ đông 11
+	của 11
+	là 11
+	và 9
+	cổ phần 9
+	góp 6
+	thành viên 6
+	hữu hạn 6
+	trách nhiệm 6
+	sáng lập 6
+	vốn 6
+	nhà đầu tư 5
+	loại 5
+	nước ngoài 5
+	tài sản 5
+	hợp 5
+	danh 5
+	tổ chức 4
+	danh sách 4
+Điều: 27
+	doanh nghiệp 10
+	hồ sơ 5
+	và 3
+	người 3
+	giấy 3
+	cơ quan 3
+	chứng nhận 3
+	cấp 3
+	thành lập 2
+	trình tự 2
+	cho 2
+	các 2
+	kinh doanh 2
+	thủ tục 2
+	trong 2
+	quy định 2
+	phải 2
+	thông báo 2
+	ngày 2
+	theo 1
+Điều: 28
+	doanh nghiệp 9
+	bị 5
+	và 4
+	lệ phí 4
+	chứng nhận 4
+	giấy 3
+	theo 3
+	quy định 3
+	phí 2
+	pháp luật 2
+	các 2
+	kinh doanh 2
+	của 2
+	về 2
+	có 2
+	cấp 2
+	nộp 1
+	mất 1
+	tên 1
+	huỷ hoại 1
+Điều: 29
+	doanh nghiệp 8
+	của 7
+	công ty 4
+	tên 4
+	và 3
+	thành viên 3
+	cá nhân 3
+	chứng thực 2
+	công dân 2
+	thường trú 2
+	khác 2
+	quốc tịch 2
+	số 2
+	trụ sở 2
+	hợp pháp 2
+	thẻ 2
+	căn cước 2
+	giấy chứng minh 2
+	chính 2
+	họ 2
+Điều: 30
+	doanh nghiệp 8
+	mã số 4
+	và 3
+	cho 2
+	nghĩa vụ 2
+	về 2
+	khác 2
+	cấp 2
+	thông tin 1
+	sử dụng 1
+	mỗi 1
+	duy nhất 1
+	thành lập 1
+	bởi 1
+	thực hiện 1
+	giấy 1
+	số 1
+	dùng 1
+	chứng nhận 1
+	một 1
+Điều: 31
+	có 10
+	doanh nghiệp 10
+	thay đổi 8
+	ngày 8
+	giấy 7
+	chứng nhận 7
+	nội dung 6
+	phải 6
+	theo 5
+	kể 4
+	hoặc 4
+	cơ quan 4
+	kinh doanh 4
+	từ 4
+	trong 4
+	của 4
+	quyết định 4
+	thời hạn 4
+	thông báo 4
+	làm việc 3
+Điều: 32
+	thay đổi 15
+	thông báo 14
+	có 13
+	doanh nghiệp 13
+	của 12
+	cổ phần 12
+	nội dung 11
+	trong 10
+	cổ đông 10
+	ngày 10
+	công ty 8
+	là 8
+	theo 7
+	và 7
+	kinh doanh 6
+	tên 6
+	nước ngoài 6
+	phải 6
+	kể 5
+	cơ quan 5
+Điều: 33
+	doanh nghiệp 8
+	và 4
+	thông tin 4
+	nội dung 4
+	công khai 4
+	khoản 3
+	các 3
+	về 3
+	quy định 3
+	phải 3
+	thông báo 3
+	công bố 2
+	thay đổi 2
+	theo 2
+	cổng 2
+	sau 2
+	giấy 2
+	cổ đông 2
+	chứng nhận 2
+	trên 2
+Điều: 34
+	doanh nghiệp 9
+	cơ quan 8
+	thông tin 5
+	nội dung 4
+	và 3
+	thay đổi 3
+	cung cấp 3
+	kinh doanh 3
+	có 3
+	quy định 3
+	cấp 3
+	gửi 2
+	cho 2
+	theo 2
+	này 2
+	huyện 2
+	phải 2
+	ngày 2
+	bảo hiểm xã hội 1
+	làm việc 1
+Điều: 35
+	quyền 8
+	tài sản 4
+	góp 4
+	các 4
+	vốn 4
+	sử dụng 3
+	sở hữu trí tuệ 3
+	giá trị 2
+	quyền tác giả 2
+	việt nam 2
+	có thể 2
+	khác 2
+	là 2
+	và 1
+	công nghiệp 1
+	tổ chức 1
+	hợp pháp 1
+	bao gồm 1
+	cây trồng 1
+	công nghệ 1
+Điều: 36
+	tài sản 15
+	vốn 15
+	góp 14
+	của 10
+	công ty 9
+	quyền sở hữu 8
+	phải 8
+	và 7
+	hoặc 6
+	chuyển 6
+	người 5
+	bằng 4
+	không 4
+	việc 3
+	theo 3
+	giá trị 3
+	giao nhận 3
+	cho 3
+	sử dụng 3
+	cổ phần 3
+Điều: 37
+	góp 19
+	vốn 17
+	tài sản 12
+	giá trị 10
+	thành viên 8
+	và 7
+	công ty 6
+	thực tế 6
+	tổ chức 5
+	thẩm định 5
+	chuyên nghiệp 5
+	giá 5
+	do 5
+	phải 5
+	tại 4
+	liên đới 4
+	cổ đông 4
+	các 4
+	hơn 4
+	thời điểm 4
+Điều: 38
+	doanh nghiệp 12
+	công ty 9
+	viết 6
+	tên 6
+	hoặc 5
+	và 4
+	của 4
+	các 4
+	là 4
+	cổ phần 2
+	việt 2
+	tên riêng 2
+	tiếng 2
+	tư nhân 2
+	này 2
+	loại hình 2
+	hữu hạn 2
+	trách nhiệm 2
+	hợp 2
+	phải 2
+Điều: 39
+	tên 6
+	tổ chức 6
+	của 6
+	xã hội 4
+	chính trị 3
+	hoặc 3
+	doanh nghiệp 3
+	sử dụng 2
+	nghề nghiệp 2
+	cơ quan 2
+	trừ 1
+	và 1
+	nhà nước 1
+	truyền thống 1
+	vi phạm 1
+	sự 1
+	tên riêng 1
+	văn hoá 1
+	trong 1
+	những 1
+Điều: 40
+	tên 11
+	tiếng 11
+	doanh nghiệp 10
+	nước ngoài 8
+	của 6
+	viết 5
+	bằng 5
+	hoặc 4
+	việt 3
+	dịch 3
+	tắt 3
+	sang 3
+	và 2
+	từ 2
+	chữ 2
+	giữ 1
+	in 1
+	khi 1
+	la-tinh 1
+	tên riêng 1
+Điều: 41
+	văn phòng 9
+	chi nhánh 9
+	tên 7
+	và 4
+	các 4
+	kinh doanh 4
+	viết 3
+	phải 3
+	chữ cái 2
+	việt 2
+	tiếng 2
+	doanh nghiệp 2
+	hoặc 2
+	cụm từ 2
+	in 1
+	gắn 1
+	trong 1
+	kèm 1
+	giao dịch 1
+	trụ sở 1
+Điều: 42
+	của 20
+	doanh nghiệp 19
+	tên 13
+	tên riêng 10
+	với 8
+	tiếng 6
+	các 5
+	miền 5
+	việt 4
+	bởi 4
+	loại 4
+	khác 4
+	cùng 4
+	chỉ 4
+	hoặc 4
+	trùng 4
+	và 3
+	viết 3
+	ngay 3
+	sau 3
+Điều: 43
+	số 3
+	của 3
+	doanh nghiệp 3
+	tỉnh 2
+	trụ sở 2
+	thành phố 2
+	có 2
+	phố 2
+	chính 2
+	và 1
+	ngách 1
+	trực thuộc 1
+	nhà 1
+	việt nam 1
+	fax 1
+	thôn 1
+	hẻm 1
+	thư điện tử 1
+	liên lạc 1
+	trên 1
+Điều: 44
+	doanh nghiệp 7
+	con dấu 6
+	sử dụng 4
+	của 4
+	có 3
+	về 3
+	quy định 3
+	và 2
+	thông tin 2
+	việc 2
+	nội dung 2
+	các 2
+	theo 2
+	công ty 1
+	tên 1
+	khi 1
+	nghĩa vụ 1
+	thể hiện 1
+	cổng 1
+	sau 1
+Điều: 45
+	doanh nghiệp 7
+	của 7
+	kinh doanh 5
+	chi nhánh 3
+	là 3
+	và 2
+	phụ thuộc 2
+	lợi ích 2
+	văn phòng 2
+	nhiệm vụ 2
+	theo 2
+	ngành 2
+	có 2
+	chức năng 2
+	uỷ quyền 2
+	nghề 2
+	cụ thể 1
+	bảo vệ 1
+	phải 1
+	nơi 1
+Điều: 46
+	chi nhánh 17
+	văn phòng 17
+	doanh nghiệp 9
+	hoạt động 8
+	cơ quan 7
+	của 6
+	có 6
+	ngày 6
+	cấp 6
+	giấy 5
+	trong 5
+	chứng nhận 5
+	gửi 4
+	kinh doanh 4
+	hồ sơ 4
+	và 4
+	cho 4
+	lập 3
+	kể 3
+	thời hạn 3
+Điều: 47
+	thành viên 8
+	trách nhiệm 5
+	công ty 4
+	hai 4
+	trở 4
+	của 4
+	lên 4
+	doanh nghiệp 4
+	hữu hạn 4
+	và 2
+	góp 2
+	khoản 2
+	luật 2
+	tại 2
+	các 2
+	trong 2
+	này 2
+	không 2
+	quy định 2
+	là 2
+Điều: 48
+	góp 39
+	vốn 32
+	thành viên 21
+	phần 20
+	công ty 15
+	của 13
+	cam kết 10
+	chưa 9
+	các 9
+	giấy 7
+	số 7
+	chứng nhận 7
+	hoặc 6
+	theo 5
+	với 5
+	và 5
+	có 5
+	doanh nghiệp 5
+	phải 5
+	ngày 5
+Điều: 49
+	thành viên 10
+	của 8
+	góp 6
+	vốn 6
+	sổ 4
+	là 4
+	công ty 3
+	số 3
+	trụ sở 3
+	cá nhân 3
+	doanh nghiệp 3
+	tên 3
+	hoặc 3
+	từng 3
+	chính 3
+	tổ chức 2
+	sau 2
+	giấy 2
+	loại 2
+	giá trị 2
+Điều: 50
+	công ty 13
+	của 13
+	thành viên 13
+	và 11
+	quy định 11
+	theo 7
+	hội đồng 7
+	này 7
+	khác 7
+	hoặc 7
+	các 6
+	phần 5
+	vốn 5
+	góp 5
+	họp 5
+	tại 5
+	luật 4
+	với 4
+	quyền 4
+	một 4
+Điều: 51
+	công ty 7
+	của 7
+	và 5
+	khoản 4
+	khác 4
+	góp 3
+	luật 3
+	các 3
+	nghĩa vụ 3
+	này 3
+	quy định 3
+	vốn 3
+	trừ 2
+	số 2
+	thành viên 2
+	ra 2
+	tại 2
+	nợ 2
+	không 2
+	trách nhiệm 2
+Điều: 52
+	thành viên 10
+	công ty 9
+	góp 7
+	phần 7
+	lại 7
+	vốn 7
+	mua 6
+	của 6
+	quy định 5
+	tại 5
+	yêu cầu 4
+	khoản 4
+	khác 4
+	theo 4
+	không 4
+	ngày 4
+	và 3
+	giá 3
+	trong 3
+	các 3
+Điều: 53
+	thành viên 11
+	công ty 7
+	phần 7
+	chuyển nhượng 6
+	của 6
+	các 6
+	vốn 6
+	khoản 5
+	góp 5
+	và 4
+	còn 4
+	cho 4
+	trong 4
+	với 4
+	quy định 4
+	ngày 4
+	người 3
+	một 3
+	mua 3
+	hoặc 3
+Điều: 54
+	thành viên 21
+	của 15
+	người 12
+	phần 9
+	trường hợp 9
+	là 9
+	công ty 8
+	theo 8
+	vốn 8
+	góp 8
+	thì 7
+	thừa kế 7
+	hoặc 6
+	cho 5
+	có 5
+	quy định 5
+	trong 4
+	bị 4
+	quyền 4
+	tặng 4
+Điều: 55
+	công ty 5
+	thành viên 5
+	kiểm soát 4
+	ban 4
+	có 3
+	thành lập 2
+	trở 2
+	lên 2
+	hữu hạn 2
+	trách nhiệm 2
+	hội đồng 2
+	cơ cấu 1
+	làm việc 1
+	tổ chức 1
+	chế độ 1
+	do 1
+	và 1
+	yêu cầu 1
+	tổng giám đốc 1
+	giám đốc 1
+Điều: 56
+	công ty 18
+	quyết định 12
+	và 11
+	thành viên 10
+	hoặc 9
+	của 7
+	hội đồng 7
+	khác 6
+	quy định 6
+	tại 4
+	bị 3
+	giá trị 3
+	năm 3
+	quyền 3
+	phát triển 3
+	nhất 2
+	kế toán trưởng 2
+	chủ tịch 2
+	tài sản 2
+	hơn 2
+Điều: 57
+	thành viên 24
+	hội đồng 16
+	các 10
+	chủ tịch 9
+	của 8
+	và 7
+	nghĩa vụ 5
+	quyền 5
+	hoặc 5
+	thực hiện 4
+	một 4
+	không 4
+	công ty 3
+	số 3
+	họp 3
+	theo 3
+	bầu 3
+	tổ chức 2
+	việc 2
+	nguyên tắc 2
+Điều: 58
+	thành viên 47
+	họp 27
+	hội đồng 24
+	công ty 13
+	của 13
+	và 13
+	triệu tập 12
+	yêu cầu 12
+	ngày 12
+	hoặc 11
+	theo 10
+	quy định 10
+	phải 10
+	có 9
+	kiến nghị 8
+	trường hợp 8
+	nội dung 8
+	chủ tịch 7
+	chương trình 7
+	tên 6
+Điều: 59
+	họp 21
+	thành viên 9
+	cuộc 8
+	thứ 7
+	hội đồng 7
+	không 7
+	quy định 7
+	lần 7
+	tiến hành 7
+	ngày 6
+	trường hợp 5
+	trong 4
+	số thành viên 4
+	hai 4
+	này 4
+	triệu tập 4
+	dự 4
+	thời hạn 4
+	tại 4
+	và 3
+Điều: 60
+	công ty 11
+	thành viên 10
+	họp 9
+	tại 9
+	của 8
+	biểu quyết 7
+	hội đồng 7
+	hoặc 7
+	thông qua 7
+	cuộc 7
+	quy định 7
+	khác 6
+	trường hợp 5
+	bằng 5
+	các 5
+	tham dự 4
+	và 4
+	b 4
+	nghị quyết 4
+	tán thành 3
+Điều: 61
+	họp 11
+	và 10
+	thành viên 8
+	biên bản 7
+	của 6
+	góp 4
+	người 4
+	hội đồng 4
+	cuộc 4
+	vốn 4
+	ghi 4
+	các 3
+	vấn đề 3
+	không 3
+	họ 3
+	tên 3
+	phải 3
+	biểu quyết 3
+	thảo luận 2
+	giấy 2
+Điều: 62
+	thành viên 22
+	lấy 16
+	phiếu 16
+	và 13
+	hội đồng 11
+	của 10
+	không 9
+	có 9
+	các 7
+	gửi 6
+	chủ tịch 6
+	về 6
+	tên 6
+	hợp lệ 6
+	nội dung 6
+	kiểm 6
+	công ty 5
+	vấn đề 5
+	quyết định 5
+	vốn 5
+Điều: 63
+	có 6
+	hiệu lực 5
+	nghị quyết 5
+	thành viên 4
+	thi hành 3
+	hoặc 3
+	của 3
+	trọng tài 2
+	thông qua 2
+	toà án 2
+	hội đồng 2
+	từ 2
+	trường hợp 2
+	ngày 2
+	công ty 1
+	khi 1
+	yêu cầu 1
+	kể 1
+	huỷ bỏ 1
+	cho 1
+Điều: 64
+	công ty 11
+	của 9
+	hội đồng 6
+	thành viên 6
+	các 6
+	và 4
+	tổng giám đốc 4
+	giám đốc 4
+	kinh doanh 4
+	hoặc 4
+	tổ chức 3
+	trừ 3
+	nghĩa vụ 3
+	phương án 3
+	hằng 3
+	thực hiện 3
+	quyền 3
+	lao động 2
+	chức danh 2
+	trong 2
+Điều: 65
+	công ty 6
+	và 5
+	có 4
+	không 4
+	của 4
+	khoản 3
+	ruột 3
+	quy định 3
+	mẹ 3
+	em 3
+	tại 3
+	anh 2
+	tổng giám đốc 2
+	chị 2
+	giám đốc 2
+	nhà nước 2
+	rể 2
+	dâu 2
+	nuôi 2
+	này 2
+Điều: 66
+	và 7
+	của 4
+	tổng giám đốc 3
+	giám đốc 3
+	chủ tịch 3
+	tiền lương 3
+	thành viên 3
+	khác 3
+	người quản lý 3
+	hội đồng 3
+	công ty 2
+	thù lao 2
+	hoặc 2
+	kinh doanh 2
+	theo 2
+	thưởng 2
+	pháp luật 2
+	báo cáo 1
+	thể hiện 1
+	tính 1
+Điều: 67
+	hợp đồng 11
+	giao dịch 11
+	người 10
+	thành viên 10
+	có 9
+	công ty 8
+	của 8
+	khoản 7
+	liên quan 6
+	quy định 6
+	các 5
+	theo 5
+	này 5
+	phải 5
+	và 4
+	ký kết 4
+	hội đồng 4
+	cho 4
+	chấp thuận 4
+	không 4
+Điều: 68
+	của 17
+	thành viên 15
+	vốn 14
+	vốn điều lệ 13
+	góp 12
+	theo 9
+	tăng 9
+	các 8
+	công ty 7
+	trong 7
+	và 7
+	giảm 6
+	thông báo 5
+	cho 5
+	trường hợp 5
+	ngày 5
+	thêm 4
+	này 4
+	họ 4
+	phần 4
+Điều: 69
+	và 3
+	chia 3
+	các 3
+	nghĩa vụ 3
+	lợi nhuận 3
+	khi 2
+	khác 2
+	công ty 1
+	khoản 1
+	lãi 1
+	sau 1
+	bảo đảm 1
+	tài sản 1
+	cho 1
+	thành viên 1
+	tài chính 1
+	kinh doanh 1
+	theo 1
+	nợ 1
+	của 1
+Điều: 70
+	hoàn trả 4
+	hoặc 4
+	vốn 3
+	chia 3
+	tài sản 3
+	thành viên 3
+	cho 3
+	khác 3
+	lợi nhuận 3
+	với 3
+	của 3
+	các 3
+	phần 3
+	công ty 2
+	khoản 2
+	góp 2
+	nhận 2
+	giảm 2
+	số 2
+	tiền 2
+Điều: 71
+	của 17
+	công ty 14
+	và 14
+	hoặc 10
+	có 9
+	người 7
+	theo 6
+	họ 6
+	khoản 6
+	phần 5
+	sở hữu 5
+	liên quan 5
+	doanh nghiệp 5
+	lợi ích 4
+	này 4
+	vốn 4
+	góp 4
+	khác 4
+	không 4
+	cổ phần 4
+Điều: 72
+	khởi kiện 7
+	của 7
+	công ty 6
+	thành viên 5
+	thực hiện 5
+	và 4
+	hoặc 4
+	không 4
+	quy định 4
+	pháp luật 4
+	trường hợp 4
+	theo 3
+	vi phạm 2
+	trong 2
+	chi phí 2
+	hội đồng 2
+	khác 2
+	nhân danh 2
+	nghĩa vụ 2
+	người quản lý 2
+Điều: 73
+	công ty 8
+	một 6
+	trách nhiệm 5
+	thành viên 4
+	hữu hạn 4
+	chủ sở hữu 2
+	là 2
+	của 2
+	doanh nghiệp 2
+	và 1
+	tổ chức 1
+	nghĩa vụ 1
+	cổ phần 1
+	kể 1
+	tư cách pháp nhân 1
+	sau 1
+	khoản 1
+	trong 1
+	tài sản 1
+	số 1
+Điều: 74
+	góp 10
+	công ty 7
+	vốn điều lệ 6
+	trong 5
+	chủ sở hữu 5
+	phải 4
+	của 4
+	không 4
+	ngày 4
+	tài sản 3
+	cam kết 3
+	doanh nghiệp 3
+	trách nhiệm 3
+	thời hạn 3
+	vốn 3
+	và 2
+	thành lập 2
+	nghĩa vụ 2
+	kể 2
+	giá trị 2
+Điều: 75
+	công ty 33
+	quyết định 15
+	của 14
+	và 11
+	khác 11
+	hoặc 10
+	giá trị 8
+	tổ chức 7
+	các 6
+	sau 6
+	quy định 6
+	tài sản 5
+	quyền 5
+	có 5
+	hơn 4
+	vốn điều lệ 4
+	một 4
+	toàn bộ 4
+	giải thể 4
+	khi 4
+Điều: 76
+	công ty 15
+	và 12
+	chủ sở hữu 7
+	của 7
+	khác 6
+	các 5
+	tài sản 4
+	cá nhân 4
+	nghĩa vụ 4
+	hoặc 4
+	cho 3
+	vốn điều lệ 3
+	phải 3
+	rút 3
+	tổ chức 2
+	góp 2
+	tách biệt 2
+	khoản 2
+	một 2
+	toàn bộ 2
+Điều: 77
+	công ty 17
+	chủ sở hữu 13
+	hoặc 11
+	của 8
+	theo 7
+	bị 7
+	trường hợp 7
+	người 6
+	thừa kế 6
+	thành viên 6
+	là 6
+	ngày 6
+	cá nhân 5
+	quyền 5
+	và 5
+	tổ chức 5
+	doanh nghiệp 5
+	trong 4
+	thực hiện 4
+	chuyển nhượng 4
+Điều: 78
+	công ty 8
+	và 5
+	thành viên 5
+	tổ chức 4
+	chủ tịch 4
+	hoặc 4
+	của 4
+	tổng giám đốc 3
+	giám đốc 3
+	hội đồng 3
+	một 3
+	theo 3
+	quy định 3
+	kiểm soát viên 3
+	quản lý 2
+	thì 2
+	do 2
+	không 2
+	hữu hạn 2
+	trách nhiệm 2
+Điều: 79
+	thành viên 19
+	công ty 15
+	của 15
+	hội đồng 14
+	và 11
+	có 11
+	quy định 11
+	theo 8
+	họp 7
+	chủ sở hữu 6
+	khác 6
+	nghĩa vụ 6
+	quyền 6
+	tại 6
+	các 5
+	hoặc 5
+	luật 4
+	này 4
+	thực hiện 4
+	do 3
+Điều: 80
+	công ty 15
+	và 9
+	chủ sở hữu 7
+	của 7
+	nghĩa vụ 6
+	quyền 6
+	chủ tịch 5
+	thực hiện 5
+	có 4
+	các 3
+	quy định 3
+	pháp luật 3
+	trừ 2
+	nhân danh 2
+	theo 2
+	luật 2
+	này 2
+	về 2
+	liên quan 2
+	làm việc 1
+Điều: 81
+	công ty 19
+	hoặc 16
+	chủ tịch 11
+	của 11
+	thành viên 10
+	hội đồng 9
+	và 7
+	giám đốc 7
+	tổng giám đốc 7
+	có 6
+	kinh doanh 5
+	khác 4
+	các 4
+	quy định 4
+	trong 3
+	trừ 3
+	hằng 3
+	phương án 3
+	thuộc 3
+	quyền 3
+Điều: 82
+	công ty 19
+	và 14
+	của 13
+	kiểm soát viên 9
+	các 9
+	chủ sở hữu 8
+	hoặc 8
+	có 8
+	thành viên 6
+	về 5
+	kinh doanh 5
+	quyền 5
+	khác 5
+	báo cáo 5
+	tại 5
+	trong 4
+	hội đồng 4
+	quản lý 4
+	nghĩa vụ 4
+	quy định 4
+Điều: 83
+	công ty 12
+	và 11
+	của 10
+	lợi ích 3
+	chủ sở hữu 3
+	nghĩa vụ 3
+	quyền 3
+	họ 2
+	sử dụng 2
+	thành viên 2
+	giao 2
+	các 2
+	này 2
+	khác 2
+	có 2
+	hoặc 2
+	thực hiện 2
+	thông báo 2
+	thông tin 1
+	tổ chức 1
+Điều: 84
+	và 11
+	công ty 9
+	của 7
+	thù lao 5
+	lợi ích 5
+	tiền lương 5
+	khác 5
+	kiểm soát viên 5
+	theo 3
+	người quản lý 3
+	chủ sở hữu 2
+	thành viên 2
+	kinh doanh 2
+	quy định 2
+	pháp luật 2
+	do 1
+	báo cáo 1
+	chi trả 1
+	tính 1
+	mục 1
+Điều: 85
+	công ty 6
+	hoặc 5
+	tổng giám đốc 4
+	giám đốc 4
+	chủ tịch 3
+	làm 3
+	thành viên 2
+	cá nhân 2
+	một 2
+	do 2
+	hữu hạn 2
+	trách nhiệm 2
+	sở hữu 2
+	chủ 2
+	cơ cấu 1
+	lao động 1
+	tổ chức 1
+	thuê 1
+	người 1
+	nghĩa vụ 1
+Điều: 86
+	công ty 17
+	hợp đồng 15
+	có 15
+	người 14
+	giao dịch 12
+	và 11
+	hoặc 11
+	của 11
+	liên quan 8
+	quy định 8
+	thành viên 7
+	những 6
+	chủ sở hữu 6
+	khoản 6
+	các 6
+	tại 6
+	này 5
+	ký kết 4
+	hội đồng 4
+	kiểm soát viên 4
+Điều: 87
+	công ty 8
+	vốn điều lệ 8
+	và 5
+	trong 5
+	của 5
+	thay đổi 4
+	chủ sở hữu 4
+	một 4
+	tăng 4
+	góp 3
+	sau 3
+	thành viên 3
+	việc 3
+	khác 3
+	theo 3
+	thêm 3
+	trách nhiệm 3
+	ngày 3
+	vốn 3
+	người 2
+Điều: 88
+	quy định 8
+	này 5
+	tại 4
+	các 4
+	của 4
+	và 3
+	nhà nước 3
+	chương iii 3
+	luật 3
+	khác 3
+	có 3
+	doanh nghiệp 3
+	mục 2
+	tổ chức 2
+	quản lý 2
+	theo 2
+	liên quan 2
+	tương ứng 2
+	chương 2
+	giữ 1
+Điều: 89
+	tổ chức 2
+	quản lý 2
+	công ty 1
+	cơ cấu 1
+	mô hình 1
+	khoản 1
+	nhà nước 1
+	hai 1
+	chủ sở hữu 1
+	cơ quan 1
+	một 1
+	theo 1
+	hình thức 1
+	trong 1
+	luật 1
+	này 1
+	của 1
+	dưới 1
+	quyết định 1
+	doanh nghiệp 1
+Điều: 90
+	thành viên 12
+	hội đồng 7
+	của 6
+	và 5
+	công ty 3
+	bổ nhiệm 3
+	quá 3
+	khác 3
+	không 3
+	chủ tịch 2
+	các 2
+	theo 2
+	nhiệm kỳ 2
+	quy định 2
+	làm việc 1
+	chế độ 1
+	liên quan 1
+	người 1
+	số lượng 1
+	bao gồm 1
+Điều: 91
+	và 7
+	công ty 6
+	của 5
+	thành viên 4
+	các 4
+	nghĩa vụ 4
+	quyết định 4
+	quyền 4
+	hội đồng 3
+	sản xuất 2
+	thành lập 2
+	tổ chức 2
+	kinh doanh 2
+	tại 2
+	nội bộ 2
+	theo 2
+	luật 2
+	có 2
+	kiểm toán 2
+	quy định 2
+Điều: 92
+	thành viên 8
+	hoặc 6
+	phó 5
+	của 5
+	tổng giám đốc 4
+	công ty 4
+	giám đốc 4
+	hội đồng 4
+	và 3
+	em 3
+	trong 3
+	ruột 3
+	không 3
+	doanh nghiệp 3
+	phải 3
+	là 3
+	nhà nước 2
+	anh 2
+	người 2
+	chị 2
+Điều: 93
+	không 10
+	thành viên 8
+	của 7
+	và 7
+	bị 6
+	hoặc 6
+	khác 5
+	trong 4
+	chủ sở hữu 4
+	hội đồng 4
+	cơ quan 4
+	có 4
+	công ty 3
+	miễn nhiệm 3
+	cách chức 3
+	quyết định 3
+	còn 2
+	chủ tịch 2
+	nguyên nhân 2
+	những 2
+Điều: 94
+	thành viên 11
+	hội đồng 10
+	và 9
+	của 9
+	công ty 6
+	chủ tịch 5
+	các 5
+	quy định 4
+	hoặc 4
+	tổ chức 3
+	thực hiện 3
+	kết quả 3
+	này 3
+	nghĩa vụ 2
+	hằng 2
+	tổng giám đốc 2
+	tính 2
+	giám đốc 2
+	thông tin 2
+	họp 2
+Điều: 95
+	và 5
+	thành viên 5
+	của 5
+	hội đồng 4
+	các 4
+	sổ 3
+	khác 3
+	công ty 2
+	họp 2
+	nghĩa vụ 2
+	quyền 2
+	thảo luận 1
+	trích lục 1
+	báo cáo 1
+	kiến nghị 1
+	kế toán 1
+	kiểm tra 1
+	tra cứu 1
+	biên bản 1
+	giao dịch 1
+Điều: 96
+	của 12
+	công ty 11
+	và 10
+	thành viên 7
+	có 6
+	các 5
+	khác 5
+	lợi ích 4
+	hội đồng 4
+	nghĩa vụ 4
+	hành vi 3
+	cho 3
+	hoặc 3
+	vi phạm 3
+	thực hiện 3
+	phục vụ 2
+	với 2
+	thông báo 2
+	nhà nước 2
+	chủ sở hữu 2
+Điều: 97
+	thành viên 55
+	hội đồng 36
+	họp 30
+	của 28
+	các 25
+	và 23
+	có 23
+	công ty 14
+	hoặc 13
+	cuộc 11
+	thông qua 10
+	phải 9
+	vấn đề 8
+	mời 8
+	nội dung 8
+	tán thành 7
+	theo 7
+	trường hợp 7
+	khi 7
+	biểu quyết 6
+Điều: 98
+	công ty 20
+	chủ tịch 15
+	của 13
+	và 9
+	các 7
+	quy định 7
+	tại 7
+	trường hợp 6
+	theo 5
+	thực hiện 5
+	chủ sở hữu 5
+	quản lý 5
+	quyết định 5
+	có 4
+	quyền 4
+	cơ quan 4
+	khác 4
+	nghĩa vụ 4
+	phải 4
+	này 3
+Điều: 99
+	công ty 21
+	hoặc 13
+	và 12
+	của 11
+	chủ tịch 7
+	các 7
+	hội đồng 6
+	giám đốc 6
+	tổng giám đốc 6
+	thành viên 6
+	phó 6
+	thực hiện 5
+	hằng 5
+	nghĩa vụ 4
+	phương án 3
+	quyền 3
+	bổ nhiệm 3
+	hợp đồng 3
+	thẩm quyền 3
+	kết quả 3
+Điều: 100
+	ruột 12
+	hoặc 10
+	của 9
+	mẹ 8
+	nuôi 8
+	công ty 6
+	em 6
+	không 6
+	anh 5
+	tổng giám đốc 5
+	giám đốc 5
+	thành viên 5
+	phó 5
+	chị 5
+	là 5
+	chồng 4
+	cha đẻ 4
+	cha 4
+	con nuôi 4
+	con đẻ 4
+Điều: 101
+	của 6
+	quy định 6
+	và 5
+	các 5
+	công ty 4
+	tổng giám đốc 4
+	giám đốc 4
+	không 4
+	doanh nghiệp 4
+	trường hợp 4
+	trong 3
+	khác 3
+	miễn nhiệm 3
+	người quản lý 3
+	có 3
+	hoặc 3
+	cách chức 3
+	kinh doanh 3
+	pháp luật 3
+	tại 3
+Điều: 102
+	và 17
+	các 11
+	của 9
+	công ty 8
+	giám sát 6
+	kiểm soát viên 5
+	thực hiện 5
+	hoặc 4
+	chủ sở hữu 4
+	cơ quan 4
+	quy chế 4
+	thành viên 4
+	giao dịch 4
+	kiểm soát 3
+	ban 3
+	hội đồng 3
+	kinh doanh 3
+	quyền 3
+	bổ nhiệm 3
+	báo cáo 3
+Điều: 103
+	của 9
+	công ty 6
+	thành viên 5
+	không 5
+	và 4
+	phải 4
+	là 4
+	người 3
+	doanh nghiệp 3
+	ruột 3
+	phó 3
+	khác 3
+	em 3
+	hoặc 3
+	kiểm soát viên 3
+	làm việc 2
+	anh 2
+	kế toán 2
+	tổng giám đốc 2
+	giám đốc 2
+Điều: 104
+	và 16
+	công ty 13
+	các 13
+	thành viên 13
+	của 12
+	hội đồng 8
+	hoặc 8
+	khác 6
+	quy định 6
+	về 5
+	thực trạng 5
+	quyền 5
+	giám đốc 5
+	tổng giám đốc 5
+	chủ sở hữu 4
+	quản lý 4
+	cơ quan 4
+	trái 4
+	báo cáo 4
+	có 4
+Điều: 105
+	kiểm soát 10
+	ban 8
+	và 7
+	của 6
+	thông qua 4
+	các 4
+	tháng 3
+	chủ sở hữu 3
+	thành viên 3
+	nhiệm vụ 3
+	cơ quan 3
+	khác 3
+	kế hoạch 3
+	công việc 3
+	hằng 3
+	phân công 3
+	làm việc 2
+	báo cáo 2
+	khi 2
+	họp 2
+Điều: 106
+	và 13
+	của 9
+	công ty 8
+	nghĩa vụ 8
+	các 6
+	vi phạm 6
+	lợi ích 5
+	quy định 5
+	này 4
+	kiểm soát viên 4
+	khác 4
+	hoặc 4
+	có 4
+	tại 4
+	thiệt hại 3
+	theo 3
+	quyền 3
+	trách nhiệm 3
+	thực hiện 3
+	trong 2
+Điều: 107
+	trường hợp 5
+	và 4
+	khác 4
+	của 4
+	quy định 4
+	kiểm soát viên 4
+	công ty 3
+	trong 3
+	cơ quan 3
+	theo 3
+	không 3
+	tại 3
+	bị 2
+	vi phạm 2
+	sau 2
+	chủ sở hữu 2
+	nhiệm vụ 2
+	các 2
+	miễn nhiệm 2
+	nghĩa vụ 2
+Điều: 108
+	và 18
+	của 17
+	thông tin 16
+	báo cáo 15
+	công ty 14
+	năm 11
+	về 9
+	các 9
+	công bố 8
+	người 7
+	có 7
+	theo 5
+	cơ quan 5
+	tài chính 5
+	liên quan 5
+	hằng 5
+	chủ sở hữu 4
+	khác 4
+	kiểm toán 4
+	quy định 4
+Điều: 109
+	hoặc 11
+	công ty 8
+	của 8
+	giấy phép 7
+	có 7
+	hoạt động 7
+	và 5
+	quyết định 5
+	doanh nghiệp 5
+	bị 4
+	thành lập 4
+	các 4
+	trong 3
+	kinh doanh 3
+	giấy 3
+	một 3
+	khác 3
+	thông tin 3
+	chứng nhận 3
+	tại 3
+Điều: 110
+	cổ phần 7
+	công ty 4
+	doanh nghiệp 4
+	cổ đông 4
+	là 4
+	và 3
+	khoản 3
+	của 3
+	có 3
+	số lượng 2
+	trong 2
+	các 2
+	khác 2
+	quyền 2
+	vốn 2
+	tổ chức 1
+	nghĩa vụ 1
+	kể 1
+	tư cách pháp nhân 1
+	chia 1
+Điều: 111
+	cổ phần 23
+	công ty 13
+	các 10
+	là 8
+	và 7
+	cổ đông 7
+	của 7
+	bán 6
+	mua 6
+	tại 6
+	chưa 5
+	loại 5
+	doanh nghiệp 5
+	chào bán 5
+	tổng số 4
+	trong 4
+	thanh toán 4
+	thời điểm 4
+	vốn điều lệ 4
+	vốn 4
+Điều: 112
+	cổ phần 18
+	thanh toán 15
+	mua 14
+	số 13
+	cổ đông 9
+	quy định 8
+	chưa 7
+	thời hạn 7
+	các 7
+	và 6
+	khoản 6
+	phải 6
+	công ty 5
+	này 5
+	quyền 5
+	khác 5
+	không 5
+	ngày 5
+	tại 5
+	trong 4
+Điều: 113
+	cổ phần 24
+	cổ đông 7
+	phổ thông 7
+	công ty 4
+	biểu quyết 4
+	có 4
+	người 4
+	của 4
+	và 3
+	sáng lập 3
+	chuyển đổi 3
+	loại 3
+	thành 3
+	các 3
+	do 3
+	sở hữu 3
+	quyền 3
+	sau 2
+	có thể 2
+	khác 2
+Điều: 114
+	cổ đông 35
+	của 25
+	và 24
+	hoặc 16
+	các 16
+	cổ phần 14
+	công ty 13
+	quyền 11
+	hội đồng quản trị 11
+	quy định 11
+	theo 10
+	khác 10
+	số 9
+	có 9
+	trong 8
+	ban 8
+	nhóm 8
+	kiểm soát 8
+	yêu cầu 8
+	họp 8
+Điều: 115
+	và 6
+	công ty 6
+	cổ phần 5
+	của 5
+	cổ đông 4
+	khác 3
+	nghĩa vụ 3
+	các 3
+	rút 3
+	khoản 2
+	góp 2
+	trong 2
+	người 2
+	mua 2
+	ra 2
+	hoặc 2
+	này 2
+	có 2
+	quy định 2
+	phổ thông 2
+Điều: 116
+	biểu quyết 10
+	cổ phần 8
+	cổ đông 5
+	số 3
+	các 3
+	của 3
+	quy định 3
+	phiếu 3
+	quyền 3
+	khoản 2
+	khác 2
+	với 2
+	này 2
+	có 2
+	phổ thông 2
+	sở hữu 2
+	tại 2
+	và 1
+	công ty 1
+	trừ 1
+Điều: 117
+	cổ tức 15
+	cổ phần 9
+	cổ đông 5
+	và 4
+	công ty 4
+	mức 4
+	quyền 4
+	của 4
+	khoản 3
+	các 3
+	với 3
+	cố định 3
+	sở hữu 3
+	tại 3
+	nhận 2
+	sau 2
+	hoặc 2
+	thưởng 2
+	này 2
+	vào 2
+Điều: 118
+	lại 7
+	hoàn 7
+	cổ phần 6
+	cổ đông 5
+	của 3
+	sở hữu 3
+	quyền 3
+	và 2
+	theo 2
+	có 2
+	người 2
+	các 2
+	tại 2
+	công ty 1
+	khoản 1
+	góp 1
+	hội đồng quản trị 1
+	yêu cầu 1
+	họp 1
+	trường hợp 1
+Điều: 119
+	cổ đông 15
+	cổ phần 13
+	sáng lập 12
+	của 9
+	công ty 7
+	có 7
+	không 6
+	doanh nghiệp 6
+	phải 6
+	từ 5
+	chuyển nhượng 5
+	các 5
+	phổ thông 5
+	cho 3
+	người 3
+	hoặc 3
+	khác 3
+	quyền 3
+	và 2
+	mình 2
+Điều: 120
+	cổ phiếu 16
+	của 13
+	công ty 11
+	bị 11
+	và 9
+	cổ phần 8
+	hoặc 7
+	cổ đông 6
+	theo 5
+	khác 5
+	có 5
+	hình thức 4
+	về 4
+	người 4
+	các 4
+	mất 4
+	số 4
+	nội dung 4
+	cấp 4
+	mới 3
+Điều: 121
+	cổ đông 14
+	cổ phần 8
+	của 7
+	công ty 6
+	hoặc 6
+	sổ 6
+	loại 5
+	quyền 4
+	trụ sở 3
+	chào bán 3
+	không 3
+	và 3
+	tên 3
+	chính 3
+	số 3
+	có 3
+	từng 3
+	phải 3
+	là 3
+	với 2
+Điều: 122
+	cổ phần 10
+	chào bán 9
+	các 4
+	công ty 3
+	trong 3
+	thực hiện 3
+	và 2
+	bán 2
+	ra 2
+	theo 2
+	chúng 2
+	của 2
+	tăng 2
+	vốn điều lệ 2
+	công 2
+	ngày 2
+	việc 1
+	thay đổi 1
+	số lượng 1
+	kể 1
+Điều: 123
+	cổ phần 16
+	chào bán 12
+	riêng lẻ 8
+	công ty 6
+	ngày 6
+	của 5
+	sau 4
+	thông báo 4
+	kể 3
+	cơ quan 3
+	các 3
+	kinh doanh 3
+	từ 3
+	có 3
+	phải 3
+	làm việc 2
+	việc 2
+	tên 2
+	bán 2
+	trong 2
+Điều: 124
+	cổ phần 25
+	cổ đông 21
+	công ty 14
+	của 14
+	mua 12
+	chào bán 9
+	quyền 8
+	cho 8
+	có 8
+	người 7
+	và 6
+	không 6
+	số 6
+	theo 5
+	trường hợp 5
+	hoặc 5
+	bán 5
+	phải 5
+	là 5
+	thông báo 4
+Điều: 125
+	cổ phần 8
+	trường hợp 5
+	chào bán 4
+	bán 3
+	công ty 3
+	giá 3
+	người 3
+	cho 3
+	cổ đông 3
+	hoặc 3
+	của 3
+	thời điểm 3
+	chiết khấu 3
+	và 2
+	khác 2
+	trong 2
+	những 2
+	trừ 2
+	không 2
+	quy định 2
+Điều: 126
+	cổ phần 14
+	của 12
+	chuyển nhượng 12
+	trường hợp 9
+	cổ đông 9
+	quy định 8
+	công ty 7
+	người 6
+	hoặc 6
+	theo 5
+	này 5
+	và 5
+	thì 5
+	thừa kế 5
+	có 5
+	nhận 4
+	là 4
+	tại 4
+	cổ phiếu 3
+	về 3
+Điều: 127
+	trái phiếu 12
+	phát hành 8
+	công ty 6
+	và 6
+	quy định 6
+	không 6
+	cổ phần 5
+	của 5
+	theo 4
+	khác 4
+	có 4
+	chuyển đổi 3
+	thanh toán 3
+	các 3
+	pháp luật 3
+	quyền 3
+	trường hợp 3
+	khoản 2
+	báo cáo 2
+	hội đồng quản trị 2
+Điều: 128
+	cổ phần 3
+	công ty 2
+	giá trị 2
+	mua 2
+	quyền 2
+	trái phiếu 2
+	và 1
+	sử dụng 1
+	việt nam 1
+	công nghệ 1
+	chuyển đổi 1
+	tài sản 1
+	bằng 1
+	kỹ thuật 1
+	một 1
+	các 1
+	có thể 1
+	khác 1
+	tự do 1
+	của 1
+Điều: 129
+	công ty 8
+	yêu cầu 8
+	cổ đông 7
+	giá 6
+	của 5
+	lại 5
+	cổ phần 4
+	mua 4
+	quy định 4
+	ngày 4
+	tại 4
+	tổ chức 3
+	trong 3
+	theo 3
+	về 3
+	phải 3
+	chuyên nghiệp 2
+	thẩm định 2
+	kể 2
+	lựa chọn 2
+Điều: 130
+	cổ phần 19
+	lại 15
+	mua 14
+	của 12
+	công ty 11
+	cổ đông 10
+	quyết định 7
+	giá 6
+	chào bán 6
+	hoặc 6
+	có 6
+	không 6
+	trong 5
+	thời hạn 5
+	và 5
+	khác 4
+	phải 4
+	ngày 4
+	theo 3
+	thông báo 3
+Điều: 131
+	cổ phần 11
+	mua 9
+	lại 9
+	thanh toán 8
+	công ty 7
+	và 5
+	quy định 4
+	các 4
+	của 4
+	ngày 4
+	phải 4
+	khi 3
+	sau 3
+	trong 3
+	số 3
+	theo 3
+	luật 3
+	này 3
+	hết 3
+	tiêu huỷ 3
+Điều: 132
+	cổ tức 21
+	công ty 14
+	của 14
+	và 13
+	cổ phần 13
+	trả 12
+	cổ đông 11
+	bằng 9
+	các 8
+	theo 6
+	chi trả 6
+	hoặc 5
+	phải 5
+	ngày 5
+	trong 4
+	từ 4
+	tên 4
+	khác 4
+	thực hiện 4
+	quy định 4
+Điều: 133
+	công ty 3
+	tài sản 3
+	tiền 3
+	cho 3
+	cổ đông 3
+	của 3
+	lại 3
+	khoản 2
+	cổ phần 2
+	cổ tức 2
+	số 2
+	hoàn trả 2
+	mua 2
+	hoặc 2
+	khác 2
+	thì 2
+	trái 2
+	luật 2
+	với 2
+	này 2
+Điều: 134
+	công ty 8
+	có 8
+	và 7
+	hội đồng quản trị 7
+	theo 6
+	pháp luật 6
+	trường hợp 6
+	người 5
+	hoặc 5
+	là 5
+	tổ chức 4
+	cổ phần 4
+	tổng giám đốc 4
+	giám đốc 4
+	cổ đông 4
+	của 4
+	thì 4
+	quản lý 3
+	chủ tịch 3
+	một 3
+Điều: 135
+	công ty 9
+	của 8
+	quyết định 7
+	và 6
+	cổ phần 5
+	cổ đông 5
+	loại 4
+	quyền 4
+	giá trị 3
+	hoặc 3
+	có 3
+	báo cáo 2
+	nhất 2
+	hội đồng quản trị 2
+	tổng số 2
+	quy định 2
+	thông qua 2
+	tài sản 2
+	bán 2
+	tài chính 2
+Điều: 136
+	họp 27
+	cổ đông 26
+	của 24
+	theo 16
+	hội đồng quản trị 16
+	và 15
+	quy định 15
+	triệu tập 11
+	công ty 9
+	này 9
+	trường hợp 9
+	các 9
+	kiểm soát 8
+	ban 8
+	phải 8
+	tại 7
+	khoản 6
+	không 6
+	thì 6
+	cuộc 6
+Điều: 137
+	cổ đông 23
+	có 8
+	họp 7
+	quyền 7
+	thông tin 6
+	danh sách 6
+	dự 6
+	không 5
+	của 5
+	công ty 4
+	cung cấp 4
+	số 4
+	hoặc 4
+	yêu cầu 4
+	sổ 3
+	theo 3
+	ngày 3
+	và 2
+	lập 2
+	tên 2
+Điều: 138
+	cổ đông 11
+	kiến nghị 9
+	họp 9
+	chương trình 6
+	quy định 6
+	và 5
+	nội dung 5
+	khoản 4
+	này 4
+	vào 4
+	của 4
+	không 4
+	phải 4
+	trường hợp 4
+	tại 4
+	công ty 3
+	người 3
+	vấn đề 3
+	cuộc 3
+	có 3
+Điều: 139
+	họp 15
+	cổ đông 8
+	công ty 6
+	mời 6
+	của 6
+	thông báo 6
+	gửi 5
+	tài liệu 5
+	phải 5
+	theo 4
+	và 4
+	trong 3
+	dự 3
+	các 3
+	trang 3
+	thông tin 3
+	có 3
+	quy định 3
+	ngày 3
+	này 2
+Điều: 140
+	họp 12
+	cổ đông 8
+	uỷ quyền 7
+	người 6
+	dự 6
+	biểu quyết 5
+	tham dự 5
+	tại 5
+	và 4
+	cho 4
+	cuộc 4
+	khác 4
+	thông qua 3
+	một 3
+	khoản 2
+	phải 2
+	gửi 2
+	trực tiếp 2
+	theo 2
+	hình thức 2
+Điều: 141
+	họp 15
+	cổ đông 8
+	thứ 7
+	quy định 7
+	lần 7
+	tiến hành 6
+	cuộc 5
+	không 5
+	công ty 4
+	hai 4
+	theo 4
+	này 4
+	có 4
+	ngày 4
+	của 4
+	triệu tập 4
+	tổng số 3
+	biểu quyết 3
+	dự 3
+	phiếu 3
+Điều: 142
+	họp 40
+	cuộc 21
+	người 17
+	cổ đông 17
+	có 16
+	và 13
+	không 12
+	biểu quyết 10
+	các 10
+	chủ toạ 10
+	dự 9
+	trong 8
+	hoặc 8
+	trường hợp 8
+	phiếu 7
+	bầu 7
+	làm 7
+	sau 7
+	khác 6
+	tiến hành 6
+Điều: 143
+	công ty 6
+	của 5
+	thông qua 4
+	bằng 4
+	cổ đông 4
+	hoặc 4
+	giá trị 3
+	các 3
+	hình thức 3
+	và 2
+	cổ phần 2
+	báo cáo 2
+	họp 2
+	tài sản 2
+	biểu quyết 2
+	tài chính 2
+	hơn 2
+	khác 2
+	loại 2
+	có 2
+Điều: 144
+	công ty 13
+	cổ đông 11
+	của 10
+	phiếu 10
+	hoặc 10
+	bầu 9
+	số 8
+	có 8
+	quy định 8
+	nghị quyết 8
+	tổng số 7
+	thông qua 6
+	biểu quyết 5
+	do 5
+	và 5
+	trường hợp 5
+	theo 4
+	tỷ lệ 4
+	từ 4
+	hội đồng quản trị 4
+Điều: 145
+	phiếu 35
+	của 25
+	lấy 22
+	cổ đông 22
+	và 19
+	gửi 18
+	kiểm 15
+	công ty 14
+	không 14
+	theo 13
+	các 12
+	có 11
+	biểu quyết 10
+	thông qua 10
+	hoặc 9
+	phải 9
+	nghị quyết 9
+	người 8
+	về 7
+	tên 7
+Điều: 146
+	và 17
+	họp 17
+	cổ đông 14
+	biên bản 11
+	tiếng 7
+	phiếu 7
+	có 7
+	biểu quyết 6
+	của 6
+	nội dung 6
+	cuộc 6
+	phải 6
+	trong 4
+	dự 4
+	việt 4
+	tổng số 4
+	bằng 4
+	các 4
+	thông qua 4
+	lập 3
+Điều: 147
+	cổ đông 7
+	của 6
+	nghị quyết 4
+	hoặc 4
+	và 3
+	luật 3
+	này 3
+	quy định 3
+	khoản 2
+	công ty 2
+	yêu cầu 2
+	trong 2
+	họp 2
+	huỷ bỏ 2
+	nội dung 2
+	biên bản 2
+	trường hợp 2
+	ngày 2
+	tại 2
+	theo 1
+Điều: 148
+	có 7
+	nghị quyết 7
+	cổ đông 6
+	của 6
+	hiệu lực 5
+	các 4
+	thông qua 3
+	và 2
+	theo 2
+	trọng tài 2
+	khi 2
+	toà án 2
+	từ 2
+	quy định 2
+	hoặc 2
+	quyết định 2
+	trường hợp 2
+	tại 2
+	cổ phần 1
+	ngay 1
+Điều: 149
+	và 22
+	của 21
+	công ty 20
+	quyết định 15
+	khác 11
+	quy định 10
+	hội đồng quản trị 9
+	hoặc 9
+	cổ đông 8
+	cổ phần 8
+	trong 7
+	quyền 7
+	thông qua 6
+	nghị quyết 6
+	theo 5
+	này 5
+	hợp đồng 5
+	có 5
+	khoản 4
+	thành viên 4
+Điều: 150
+	thành viên 12
+	hội đồng quản trị 10
+	công ty 6
+	của 6
+	nhiệm kỳ 5
+	quy định 5
+	và 4
+	số lượng 4
+	cụ thể 3
+	các 3
+	có 3
+	trường hợp 3
+	tổ chức 2
+	bầu 2
+	thì 2
+	không 2
+	phải 2
+	này 1
+	mới 1
+	việt nam 1
+Điều: 151
+	công ty 21
+	của 16
+	hội đồng quản trị 15
+	không 15
+	thành viên 13
+	là 13
+	có 10
+	phải 10
+	người 8
+	ruột 6
+	và 6
+	hoặc 6
+	quy định 6
+	mẹ 5
+	trong 4
+	theo 4
+	em 4
+	người quản lý 4
+	con 4
+	khác 4
+Điều: 152
+	hội đồng quản trị 22
+	và 15
+	công ty 12
+	chủ tịch 11
+	của 10
+	các 9
+	nghĩa vụ 8
+	quyền 7
+	theo 6
+	họp 6
+	quy định 6
+	hỗ trợ 6
+	thực hiện 6
+	trong 5
+	thành viên 5
+	khác 4
+	cổ đông 4
+	cuộc 4
+	có 4
+	nguyên tắc 3
+Điều: 153
+	họp 38
+	hội đồng quản trị 32
+	có 16
+	của 15
+	thành viên 14
+	cuộc 14
+	phải 12
+	triệu tập 11
+	và 11
+	hoặc 11
+	trường hợp 11
+	chủ tịch 10
+	phiếu 10
+	khác 10
+	trong 9
+	các 9
+	biểu quyết 9
+	dự 8
+	quy định 8
+	ngày 8
+Điều: 154
+	và 14
+	họp 14
+	biên bản 10
+	tiếng 7
+	nội dung 5
+	các 5
+	có 5
+	của 5
+	dự 5
+	ghi 5
+	hội đồng quản trị 4
+	tên 4
+	việt 4
+	thành viên 4
+	cuộc 4
+	phải 4
+	lập 3
+	người 3
+	họ 3
+	bằng 3
+Điều: 155
+	công ty 4
+	thông tin 4
+	yêu cầu 4
+	cung cấp 4
+	các 4
+	của 4
+	và 3
+	hội đồng quản trị 3
+	thành viên 3
+	tổng giám đốc 2
+	giám đốc 2
+	trong 2
+	phó 2
+	người quản lý 2
+	tài liệu 2
+	quyền 2
+	tình hình 1
+	kịp thời 1
+	chính xác 1
+	trình tự 1
+Điều: 156
+	hội đồng quản trị 10
+	thành viên 7
+	trường hợp 6
+	bị 5
+	tại 5
+	trong 4
+	cổ đông 4
+	của 4
+	quy định 4
+	giảm 3
+	họp 3
+	miễn nhiệm 3
+	theo 3
+	bãi nhiệm 3
+	này 3
+	không 3
+	và 2
+	công ty 2
+	sau 2
+	triệu tập 2
+Điều: 157
+	của 17
+	công ty 13
+	và 10
+	hoặc 10
+	giám đốc 9
+	tổng giám đốc 9
+	hội đồng quản trị 8
+	các 6
+	kinh doanh 5
+	trong 4
+	pháp luật 4
+	bổ nhiệm 4
+	người 4
+	quy định 4
+	phải 4
+	lao động 3
+	theo 3
+	với 3
+	thực hiện 3
+	chịu 3
+Điều: 158
+	và 11
+	hội đồng quản trị 10
+	của 10
+	thù lao 8
+	thành viên 8
+	tổng giám đốc 6
+	giám đốc 6
+	khác 6
+	hoặc 5
+	theo 5
+	công ty 4
+	tiền lương 4
+	cho 3
+	mức 3
+	có 3
+	trả 3
+	quy định 3
+	chi phí 3
+	do 2
+	báo cáo 2
+Điều: 159
+	có 17
+	của 17
+	và 16
+	công ty 15
+	liên quan 15
+	hoặc 11
+	người 10
+	lợi ích 8
+	thực hiện 8
+	tại 8
+	phải 7
+	quy định 7
+	danh sách 6
+	hội đồng quản trị 6
+	trong 5
+	kê khai 5
+	những 5
+	này 5
+	họ 5
+	phần 5
+Điều: 160
+	của 11
+	công ty 9
+	và 8
+	có 4
+	lợi ích 3
+	các 3
+	khác 3
+	nghĩa vụ 3
+	này 3
+	hoặc 3
+	liên quan 2
+	sử dụng 2
+	cổ đông 2
+	giao 2
+	họ 2
+	theo 2
+	người quản lý 2
+	luật 2
+	quy định 2
+	trách nhiệm 2
+Điều: 161
+	của 11
+	công ty 8
+	khởi kiện 7
+	cổ đông 5
+	hoặc 5
+	thực hiện 5
+	và 4
+	không 4
+	quy định 4
+	các 4
+	quyền 4
+	trường hợp 4
+	hội đồng quản trị 3
+	trong 3
+	sử dụng 3
+	thành viên 3
+	pháp luật 3
+	khác 3
+	theo 3
+	nghĩa vụ 3
+Điều: 162
+	hợp đồng 16
+	giao dịch 14
+	hoặc 13
+	có 11
+	cổ đông 10
+	công ty 9
+	hội đồng quản trị 9
+	của 8
+	các 8
+	chấp thuận 7
+	và 7
+	liên quan 7
+	quy định 7
+	này 6
+	người 6
+	trường hợp 5
+	khoản 5
+	phải 5
+	tại 5
+	theo 4
+Điều: 163
+	kiểm soát viên 7
+	kiểm soát 6
+	nhiệm kỳ 6
+	ban 6
+	và 5
+	bầu 4
+	công ty 3
+	có 3
+	trưởng 3
+	phải 3
+	mới 2
+	số 2
+	nghĩa vụ 2
+	không 2
+	quy định 2
+	hơn 2
+	của 2
+	trường hợp 2
+	quyền 2
+	nguyên tắc 1
+Điều: 164
+	và 7
+	công ty 6
+	của 5
+	hoặc 4
+	khác 4
+	có 4
+	không 4
+	phải 4
+	ruột 3
+	là 3
+	tiêu chuẩn 3
+	quy định 3
+	kiểm soát viên 3
+	mẹ 2
+	giữ 2
+	quản lý 2
+	theo 2
+	nuôi 2
+	các 2
+	em 1
+Điều: 165
+	của 24
+	và 20
+	cổ đông 12
+	công ty 10
+	hội đồng quản trị 9
+	hoặc 8
+	kiểm soát 7
+	các 7
+	báo cáo 7
+	có 7
+	kiểm tra 6
+	ban 6
+	quản lý 6
+	yêu cầu 6
+	tại 6
+	này 5
+	quy định 5
+	hoạt động 5
+	trong 4
+	luật 4
+Điều: 166
+	và 9
+	hội đồng quản trị 8
+	của 8
+	các 7
+	thành viên 6
+	theo 5
+	công ty 4
+	tài liệu 4
+	hoặc 4
+	kiểm soát viên 4
+	gửi 3
+	kiểm soát 3
+	khác 3
+	phương thức 3
+	thời điểm 3
+	cùng 3
+	như 3
+	phải 3
+	ban 3
+	quyền 3
+Điều: 167
+	của 9
+	và 7
+	chi phí 5
+	khác 5
+	tiền lương 4
+	cổ đông 4
+	kiểm soát viên 4
+	công ty 3
+	thù lao 3
+	mức 3
+	theo 3
+	quyết định 3
+	có 3
+	quy định 3
+	hoạt động 3
+	quyền lợi 3
+	năm 3
+	ban 3
+	hằng 3
+	kiểm soát 3
+Điều: 168
+	và 10
+	công ty 8
+	của 8
+	vi phạm 4
+	lợi ích 4
+	khác 4
+	các 4
+	nghĩa vụ 4
+	có 4
+	kiểm soát viên 4
+	phải 3
+	giao 3
+	hoặc 3
+	thực hiện 3
+	quyền 3
+	hành vi 2
+	người 2
+	mà 2
+	trong 2
+	thiệt hại 2
+Điều: 169
+	của 5
+	kiểm soát viên 5
+	và 4
+	trường hợp 4
+	trong 3
+	các 3
+	không 3
+	quy định 3
+	bị 2
+	vi phạm 2
+	công ty 2
+	sau 2
+	miễn nhiệm 2
+	theo 2
+	nghĩa vụ 2
+	bãi nhiệm 2
+	luật 2
+	này 2
+	a 2
+	c 2
+Điều: 170
+	báo cáo 11
+	công ty 8
+	của 7
+	và 6
+	phải 5
+	cổ đông 4
+	ngày 4
+	quy định 4
+	có 4
+	năm 4
+	cổ phần 3
+	tài chính 3
+	các 3
+	tài liệu 3
+	kiểm toán 3
+	tại 3
+	trước 3
+	nhất 2
+	hội đồng quản trị 2
+	trình 2
+Điều: 171
+	công ty 10
+	cổ phần 10
+	của 8
+	và 7
+	thông tin 7
+	có 6
+	theo 4
+	số 4
+	cổ đông 4
+	về 3
+	năm 3
+	công bố 3
+	tên 3
+	các 3
+	báo cáo 3
+	phải 3
+	quy định 3
+	công khai 3
+	là 3
+	hằng 3
+Điều: 172
+	công ty 9
+	hợp 7
+	danh 7
+	thành viên 6
+	của 4
+	là 4
+	góp 3
+	các 3
+	có 3
+	vốn 3
+	chung 2
+	trong 2
+	doanh nghiệp 2
+	trách nhiệm 2
+	chịu 2
+	phải 2
+	về 2
+	khoản 1
+	bất kỳ 1
+	loại 1
+Điều: 173
+	vốn 19
+	góp 19
+	thành viên 13
+	của 10
+	phần 9
+	và 9
+	công ty 8
+	giấy 8
+	chứng nhận 8
+	số 6
+	bị 5
+	cam kết 4
+	cấp 4
+	tên 3
+	danh 3
+	hạn 3
+	trường hợp 3
+	có 3
+	hợp 3
+	phải 3
+Điều: 174
+	công ty 6
+	tài sản 6
+	các 5
+	của 5
+	danh 4
+	hợp 4
+	thành viên 3
+	kinh doanh 2
+	do 2
+	từ 2
+	hoạt động 2
+	thực hiện 2
+	và 1
+	góp 1
+	tên 1
+	bao gồm 1
+	chuyển 1
+	danh nhân 1
+	quyền sở hữu 1
+	cho 1
+Điều: 175
+	hợp 8
+	danh 8
+	thành viên 7
+	của 6
+	hoặc 4
+	khác 4
+	không 4
+	công ty 3
+	quyền 3
+	sự 2
+	người 2
+	còn 2
+	kinh doanh 2
+	cá nhân 2
+	nhân danh 2
+	lại 2
+	các 2
+	phần 2
+	trừ 1
+	tổ chức 1
+Điều: 176
+	công ty 37
+	của 25
+	thành viên 14
+	và 14
+	kinh doanh 13
+	khác 9
+	tài sản 8
+	các 8
+	hoặc 8
+	danh 8
+	quy định 8
+	hợp 8
+	theo 7
+	có 7
+	cho 7
+	số 6
+	thiệt hại 5
+	nếu 5
+	phần 5
+	tiền 5
+Điều: 177
+	thành viên 17
+	công ty 15
+	quyết định 10
+	quy định 7
+	hợp 7
+	của 6
+	hội đồng 6
+	danh 6
+	và 5
+	khác 5
+	hơn 4
+	hoặc 4
+	có 4
+	tỷ lệ 3
+	tổng số 3
+	nếu 3
+	quyền 3
+	một 3
+	không 3
+	họp 3
+Điều: 178
+	họp 17
+	thành viên 16
+	của 8
+	hội đồng 7
+	các 7
+	triệu tập 6
+	yêu cầu 5
+	nội dung 5
+	và 4
+	tên 4
+	phải 4
+	chủ tịch 3
+	hoặc 3
+	mời 3
+	dự 3
+	gửi 2
+	chủ toạ 2
+	công ty 2
+	họ 2
+	cuộc 2
+Điều: 179
+	công ty 13
+	thành viên 13
+	các 11
+	của 10
+	kinh doanh 8
+	danh 8
+	hợp 8
+	và 7
+	hoặc 5
+	hoạt động 5
+	trong 4
+	hội đồng 4
+	công việc 4
+	với 3
+	khác 3
+	theo 3
+	tổ chức 3
+	thực hiện 3
+	một số 3
+	có 3
+Điều: 180
+	thành viên 15
+	công ty 11
+	của 10
+	vốn 9
+	chấm dứt 8
+	tư cách 6
+	bị 6
+	rút 6
+	các 6
+	không 6
+	hoặc 6
+	danh 6
+	hợp 6
+	khỏi 5
+	trường hợp 5
+	có 5
+	và 4
+	hành vi 4
+	người 4
+	sau 4
+Điều: 181
+	thành viên 11
+	công ty 4
+	tiếp nhận 3
+	góp 3
+	mới 3
+	khác 3
+	của 3
+	hợp 3
+	phải 3
+	danh 3
+	vốn 3
+	và 2
+	trừ 2
+	tài sản 2
+	hội đồng 2
+	chấp thuận 2
+	hoặc 2
+	các 2
+	thời hạn 2
+	trường hợp 2
+Điều: 182
+	công ty 20
+	của 18
+	và 15
+	vốn 10
+	góp 10
+	các 10
+	thành viên 10
+	khác 8
+	quyền 6
+	nghĩa vụ 6
+	về 4
+	kinh doanh 4
+	có 4
+	trong 3
+	theo 3
+	hội đồng 3
+	phần 3
+	người 3
+	nhân danh 3
+	quy định 3
+Điều: 183
+	doanh nghiệp 8
+	tư nhân 6
+	công ty 4
+	không 3
+	cổ phần 2
+	thành lập 2
+	góp 2
+	cá nhân 2
+	một 2
+	hoặc 2
+	là 2
+	của 2
+	trách nhiệm 2
+	hợp 2
+	chủ 2
+	danh 2
+	quyền 2
+	vốn 2
+	và 1
+	mình 1
+Điều: 184
+	vốn 12
+	doanh nghiệp 10
+	của 9
+	chủ 7
+	tài sản 6
+	và 5
+	giảm 4
+	tư nhân 4
+	kinh doanh 3
+	hoạt động 3
+	phải 3
+	còn 2
+	kế toán 2
+	tăng 2
+	trong 2
+	loại 2
+	bằng 2
+	khác 2
+	rõ 2
+	có 2
+Điều: 185
+	doanh nghiệp 10
+	tư nhân 4
+	của 4
+	chủ 4
+	người 3
+	khác 3
+	quản lý 3
+	kinh doanh 3
+	hoạt động 3
+	hoặc 3
+	thuê 2
+	các 2
+	theo 2
+	nghĩa vụ 2
+	là 2
+	có 2
+	liên quan 2
+	pháp luật 2
+	và 1
+	việc 1
+Điều: 186
+	thuê 7
+	cho 6
+	doanh nghiệp 6
+	hợp đồng 3
+	trong 3
+	của 3
+	có 3
+	và 2
+	chủ sở hữu 2
+	cơ quan 2
+	kinh doanh 2
+	tư nhân 2
+	trách nhiệm 2
+	thời hạn 2
+	phải 2
+	chủ 2
+	ngày 2
+	quyền 2
+	với 1
+	làm việc 1
+Điều: 187
+	doanh nghiệp 11
+	người 6
+	bán 5
+	của 5
+	mua 3
+	khác 3
+	tư nhân 3
+	phải 3
+	chủ 3
+	và 2
+	các 2
+	về 2
+	có 2
+	quy định 2
+	lao động 1
+	khoản 1
+	mình 1
+	thay đổi 1
+	phát sinh 1
+	khi 1
+Điều: 188
+	công ty 7
+	kinh tế 6
+	tập đoàn 5
+	tổng công ty 5
+	có 4
+	và 3
+	không 3
+	của 3
+	mẹ 2
+	thành viên 2
+	các 2
+	khác 2
+	theo 2
+	doanh nghiệp 2
+	quy định 2
+	phải 2
+	là 2
+	con 2
+	góp 1
+	mỗi 1
+Điều: 189
+	công ty 14
+	của 7
+	mẹ 5
+	một 4
+	hoặc 4
+	cùng 4
+	có 4
+	vốn 4
+	con 4
+	cổ phần 3
+	nhau 3
+	góp 3
+	không 3
+	các 3
+	sở hữu 3
+	quy định 2
+	mua 2
+	là 2
+	này 2
+	quyết định 2
+Điều: 190
+	công ty 26
+	con 15
+	mẹ 11
+	của 9
+	và 7
+	thực hiện 6
+	phải 5
+	thiệt hại 5
+	cho 5
+	hoặc 5
+	quy định 5
+	khoản 4
+	hoạt động 4
+	kinh doanh 4
+	này 4
+	có 4
+	trách nhiệm 4
+	theo 3
+	cùng 3
+	thành viên 3
+Điều: 191
+	công ty 31
+	báo cáo 26
+	của 20
+	mẹ 17
+	và 16
+	con 14
+	các 14
+	tài chính 9
+	lập 8
+	tổng hợp 7
+	quy định 7
+	tài liệu 6
+	phải 6
+	theo 5
+	pháp luật 5
+	hợp nhất 5
+	có 5
+	cần thiết 4
+	không 4
+	thông tin 4
+Điều: 192
+	công ty 44
+	chia 22
+	các 18
+	của 15
+	mới 15
+	bị 12
+	và 12
+	cổ phần 9
+	phần 8
+	thành viên 8
+	doanh nghiệp 8
+	trong 7
+	với 7
+	này 7
+	vốn 7
+	góp 7
+	hoặc 7
+	cổ đông 7
+	tài sản 6
+	cho 6
+Điều: 193
+	công ty 39
+	tách 26
+	và 13
+	của 12
+	bị 11
+	các 11
+	cổ phần 8
+	phần 7
+	thành viên 7
+	tài sản 6
+	với 6
+	mới 6
+	hoặc 6
+	theo 5
+	này 5
+	vốn 5
+	góp 5
+	một 5
+	phải 5
+	sau 5
+Điều: 194
+	hợp nhất 42
+	công ty 33
+	các 17
+	bị 14
+	của 13
+	và 8
+	doanh nghiệp 8
+	hợp đồng 7
+	có 7
+	trụ sở 5
+	theo 5
+	trên 5
+	chính 5
+	trường hợp 5
+	phải 5
+	sau 5
+	quy định 5
+	luật 4
+	về 4
+	cho 4
+Điều: 195
+	sáp nhập 43
+	công ty 36
+	nhận 16
+	của 15
+	các 14
+	bị 12
+	và 12
+	hợp đồng 8
+	có 8
+	doanh nghiệp 8
+	trên 6
+	trường hợp 6
+	trụ sở 5
+	theo 5
+	chính 5
+	sau 5
+	quy định 5
+	luật 4
+	về 4
+	cho 4
+Điều: 196
+	công ty 15
+	chuyển đổi 11
+	cổ phần 7
+	thành 7
+	ngày 6
+	các 5
+	khác 5
+	doanh nghiệp 5
+	góp 4
+	cơ quan 4
+	của 4
+	vốn 4
+	tổ chức 4
+	cá nhân 4
+	kể 3
+	trong 3
+	theo 3
+	về 3
+	thời hạn 3
+	nhà nước 3
+Điều: 197
+	công ty 11
+	của 7
+	cổ phần 7
+	theo 6
+	chuyển đổi 6
+	ngày 6
+	này 5
+	khoản 5
+	một 5
+	các 5
+	cổ đông 5
+	tại 5
+	nhận 4
+	trong 4
+	cơ quan 4
+	thời hạn 4
+	chuyển nhượng 4
+	và 4
+	hoặc 4
+	doanh nghiệp 4
+Điều: 198
+	công ty 13
+	chuyển đổi 11
+	trách nhiệm 7
+	thành 6
+	hữu hạn 6
+	các 6
+	ngày 6
+	cổ phần 4
+	khác 4
+	của 4
+	cơ quan 4
+	và 3
+	tổ chức 3
+	kể 3
+	khoản 3
+	cho 3
+	cá nhân 3
+	hoặc 3
+	kinh doanh 3
+	từ 3
+Điều: 199
+	doanh nghiệp 13
+	tư nhân 9
+	các 8
+	của 8
+	công ty 6
+	chủ 6
+	trách nhiệm 6
+	có 6
+	chuyển đổi 5
+	bằng 5
+	hữu hạn 5
+	khoản 5
+	này 4
+	và 4
+	văn bản 4
+	thành 4
+	thành viên 4
+	quy định 4
+	ngày 4
+	tại 4
+Điều: 200
+	kinh doanh 10
+	ngừng 6
+	doanh nghiệp 6
+	tạm 6
+	có 5
+	tiếp tục 4
+	và 3
+	cơ quan 3
+	lao động 2
+	người 2
+	nợ 2
+	khách hàng 2
+	trong 2
+	hoặc 2
+	trước 2
+	quy định 2
+	thời hạn 2
+	phải 2
+	thông báo 2
+	ngày 2
+Điều: 201
+	doanh nghiệp 10
+	công ty 6
+	của 6
+	và 4
+	trong 4
+	các 4
+	không 4
+	khoản 3
+	giải thể 3
+	thành viên 3
+	bị 2
+	nợ 2
+	tại 2
+	theo 2
+	này 2
+	có 2
+	quyết định 2
+	quy định 2
+	trách nhiệm 2
+	d 2
+Điều: 202
+	doanh nghiệp 25
+	giải thể 18
+	của 16
+	các 13
+	nợ 12
+	và 11
+	theo 10
+	quyết định 9
+	ngày 9
+	khoản 8
+	từ 7
+	thanh toán 7
+	phải 7
+	thời hạn 6
+	sau 6
+	có 6
+	lao động 5
+	kể 5
+	trong 5
+	về 5
+Điều: 203
+	doanh nghiệp 21
+	của 16
+	quyết định 13
+	giải thể 11
+	phải 10
+	theo 8
+	hoặc 8
+	có 8
+	ngày 8
+	trong 6
+	và 6
+	giấy 5
+	thu hồi 5
+	cơ quan 5
+	khoản 5
+	toà án 5
+	chứng nhận 5
+	nợ 5
+	tại 5
+	nhận 4
+Điều: 204
+	doanh nghiệp 10
+	giải thể 7
+	và 5
+	hồ sơ 5
+	về 4
+	người 4
+	trách nhiệm 4
+	thành viên 4
+	nợ 4
+	thanh toán 4
+	công ty 3
+	chưa 3
+	của 3
+	chịu 3
+	số 3
+	lao động 2
+	giấy 2
+	những 2
+	chính xác 2
+	nếu 2
+Điều: 205
+	có 6
+	doanh nghiệp 5
+	các 4
+	vi phạm 3
+	khoản 3
+	tài sản 3
+	nợ 3
+	thực hiện 3
+	giải thể 3
+	bị 2
+	khi 2
+	kể 2
+	cho 2
+	hợp đồng 2
+	bảo đảm 2
+	từ 2
+	quyết định 2
+	hoạt động 2
+	hoặc 2
+	trừ 1
+Điều: 206
+	chi nhánh 16
+	của 14
+	văn phòng 11
+	hoạt động 10
+	chấm dứt 7
+	và 6
+	doanh nghiệp 6
+	người 5
+	nợ 5
+	lao động 4
+	theo 4
+	có 4
+	quyết định 4
+	giấy 3
+	cơ quan 3
+	chứng nhận 3
+	hoặc 3
+	về 3
+	hồ sơ 3
+	nhà nước 2
+Điều: 207
+	phá sản 3
+	doanh nghiệp 2
+	theo 1
+	về 1
+	việc 1
+	của 1
+	thực hiện 1
+	pháp luật 1
+	quy định 1
+Điều: 208
+	doanh nghiệp 10
+	các 7
+	thông tin 5
+	quản lý nhà nước 5
+	cơ quan 5
+	về 5
+	kinh doanh 5
+	bộ 4
+	trong 4
+	và 3
+	trực thuộc 3
+	chính phủ 3
+	cho 3
+	uỷ ban nhân dân 3
+	nhiệm vụ 3
+	trách nhiệm 3
+	phạm vi 3
+	của 3
+	phân công 3
+	gửi 2
+Điều: 209
+	doanh nghiệp 13
+	của 10
+	quy định 9
+	theo 6
+	và 5
+	cơ quan 5
+	về 5
+	có 4
+	pháp luật 4
+	việc 3
+	yêu cầu 3
+	các 3
+	kinh doanh 3
+	luật 3
+	này 3
+	thông tin 2
+	nhà nước 2
+	báo cáo 2
+	hồ sơ 2
+	thực hiện 2
+Điều: 210
+	vi phạm 6
+	quy định 4
+	của 3
+	xử lý 2
+	bị 2
+	cá nhân 2
+	theo 2
+	xử phạt 2
+	luật 2
+	này 2
+	hành chính 2
+	thì 2
+	và 1
+	hành vi 1
+	tổ chức 1
+	phải 1
+	những 1
+	chính phủ 1
+	kỷ luật 1
+	thiệt hại 1
+Điều: 211
+	doanh nghiệp 9
+	giấy 3
+	cơ quan 3
+	chứng nhận 3
+	kinh doanh 3
+	theo 3
+	trong 3
+	của 3
+	thu hồi 3
+	gửi 2
+	bị 2
+	báo cáo 2
+	khoản 2
+	luật 2
+	này 2
+	không 2
+	quy định 2
+	c 2
+	trường hợp 2
+	và 1
+Điều: 212
+	luật 10
+	này 7
+	của 7
+	quy định 7
+	ngày 7
+	hiệu lực 5
+	tháng 5
+	có 5
+	năm 5
+	doanh nghiệp 5
+	thực hiện 5
+	và 4
+	theo 4
+	nhà nước 3
+	góp 3
+	công ty 3
+	vốn 3
+	thi hành 3
+	phải 3
+	khoản 3
+Điều: 213
+	chi tiết 2
+	quy định 2
+	trong 1
+	chính phủ 1
+	khoản 1
+	luật 1
+	giao 1
+	các 1

@@ -1,0 +1,689 @@
+%
+(
+)
++
+,
+-
+.
+/
+:
+;
+=
+>
+?
+a
+ai
+anh
+anh em
+b
+b.
+ba
+ban
+ban đầu
+bao giờ
+bao nhiêu
+bi
+biên bản
+biên nhận
+biết
+biểu quyết
+bks
+bà
+bàn giao
+bác
+bán
+báo cáo
+bây giờ
+bãi nhiệm
+bên
+bình thường
+bù nhìn
+bạn
+bảng
+bảo hiểm
+bất kể
+bất đồng
+bầu
+bằng
+bỉm
+bị
+bỏ
+bố
+bốn
+bổ sung
+bộ
+c
+cam kết
+chi
+chi phí
+chi trả
+chiếc
+chiếm
+chiếm dụng
+chiều hướng
+cho
+chung
+chuyên nghiệp
+chuyên trách
+chuyển
+chuyển nhượng
+chuyển đổi
+chuẩn
+chuẩn bị
+chào bán
+chú
+chúng tôi
+chưa
+chương trình
+chấp nhận
+chấp thuận
+chỉ
+chỉ đạo
+chị
+chịu
+chốt
+chồng
+chỗ
+chủ
+chủ quan
+chủ trương
+chủ tịch
+chức danh
+chứng
+chứng khoán
+chứng minh
+chứng từ
+chữ ký
+coi
+con dấu
+cp
+ct
+cty
+cung cấp
+cuối
+cuộc
+cá nhân
+các
+cách
+cách thức
+câu
+còn
+có
+có thể
+công khai
+công nợ
+công trình
+công ty
+công tác
+công ty
+cùng
+cũ
+cũng
+cơ cấu
+cơ quan
+cả
+cấp
+cần
+cố
+cố tình
+cồ
+cổ
+cổ phiếu
+cổ phần
+cổ phần hoá
+cổ tức
+cổ đông
+cụ thể
+của
+cửa hàng
+danh nghĩa
+danh sách
+diễn
+do
+doanh nghiệp
+doanh và
+dùm
+dùng
+dưới
+dẫn
+dừng
+dự
+dự kiến
+dự án
+e
+em
+gd
+ghi
+ghi nhận
+gia
+gia đình
+giai đoạn
+gian
+giao dịch
+giao hợp
+giám đốc
+giám đốc điều hành
+giùm
+giúp
+giúp việc
+giải quyết
+giải thích
+giải trình
+giải đáp
+giảm
+giả mạo
+giấy
+giấy phép
+giấy tờ
+giầy dép
+giớ
+giờ
+giữ
+giữa
+gpkd
+gánh vác
+gây
+gì
+góp
+gĐ
+gần
+gặp
+gọi
+gồm
+gửi
+hai
+hay
+hdqt
+hiểu
+hiện
+hiện giờ
+hiện hữu
+hiện nay
+hiện tại
+hiệu lực
+hoàn
+hoàn toàn
+hoàn tất
+hoạt động
+hoặc
+huy động
+huỷ bỏ
+hành vi
+hình phạt
+hình thức
+hùn
+hĐqt
+hơi
+hơn
+hướng
+hưởng
+hạn
+hạn chế
+hất
+hằng
+hẹn
+hết
+hề
+hệ thống
+họ
+họp
+hỏi
+hồ sơ
+hội đồng
+hội đồng quản trị
+hợp lý
+hợp pháp
+hợp đồng
+hứa
+k
+khai trừ
+khi
+khoản
+khoảng
+khuyết
+khác
+khách hàng
+khó dễ
+không
+khả năng
+khỏi
+khởi kiện
+kia
+kinh
+kinh doanh
+kiêm
+kiểm
+kiểm soát
+kiểm soát viên
+kiểm toán
+kiểm toán viên
+kiện
+ko
+kttc
+kô
+ký
+ký vốn
+kẻ
+kế
+kế hoạch
+kế toán
+kế toán viên
+kể
+kể cả
+kỳ
+lao động
+ldn
+liên quan
+loại
+loại bỏ
+loại hình
+luôn
+luật
+luật pháp
+luật sư
+là
+làm
+làm việc
+làm vậy
+làm ăn
+là trưởng
+lãnh đạo
+lên
+lúc
+lĩnh vực
+lương
+lại
+lấy
+lần
+lần đầu
+lập
+lập công ty
+lớn
+lợi nhuận
+lợi ích
+minh
+minh bạch
+miễn nhiệm
+mong
+mtv
+mua
+muốn
+mà
+mâu thuẫn
+mã số
+mình
+mạng
+mấy
+mặc dù
+mặt hàng
+mỗi
+một
+một số
+mới
+mời
+mở
+mục đích
+nay
+ngay
+nghi
+nghĩa vụ
+nghỉ
+nghỉ việc
+nghỉ ngang
+nghị quyết
+ngoài
+nguyện vọng
+ngày
+ngày nay
+ngân hàng
+người
+người quản lý
+ngược lại
+nhau
+nhiên
+nhiều
+nhiệm kỳ
+nhiệm vụ
+nhu
+nhà nước
+nhân viên
+như
+như thế
+như thế nào
+như vậy
+nhưng
+nhượng
+nhất
+nhận
+nhận đăng
+nhắc
+nhằm
+nhỏ
+nhờ
+những
+ntn
+nào
+này
+nâng
+nên
+nêu
+nói
+năm
+nơi
+nắm
+nếu
+nội dung
+nộp
+nợ
+nữa
+oto
+phá sản
+pháp luật
+pháp lý
+pháp nhân
+phát
+phát hiện
+phát hành
+phát sinh
+phát triển
+phân bổ
+phân chia
+phân công
+phép
+phê duyệt
+phí
+phòng
+phó
+phù hợp
+phương thức
+phương án
+phải
+phần
+phần lớn
+phẩn
+phổ thông
+phụ trách
+pvb
+qua
+quan điểm
+quen biết
+qui chế
+qui định
+quy
+quy định
+quyết nghị
+quyết định
+quyền
+quyền lợi
+quyền sở hữu
+quá trình
+quân đội
+quí
+quý
+quản lý
+quốc phòng
+quỹ
+ra
+riêng
+riêng lẻ
+ruột
+ruột thịt
+rõ
+rõ ràng
+rút
+rút tiền
+rất
+rằng
+rồi
+rủi ro
+sai
+sang
+sang tên
+sao
+sau
+sau này
+so
+stt
+sàn
+sách
+sáng lập
+sát không hề
+sản là
+sắp
+sẽ
+số
+số lượng
+sổ
+sở
+sữa
+sự
+t
+t.
+tg
+tgĐ
+tham gia
+thanh lý
+thanh toán
+thay thế
+thay đổi
+theo
+thi
+thi công
+thiếu
+thiệu
+thu chi
+thu hồi
+thuế
+thuộc
+thành
+thành lập
+thành viên
+tháng
+thêm
+thì
+thông báo
+thông qua
+thông tin
+thông báo
+thù lao
+thưa
+thường niên
+thất nghiệp
+thấy
+thẩm quyền
+thật
+thắc mắc
+thế
+thế nào
+thể thức
+thồn
+thời gian
+thời điểm
+thủ tục
+thứ
+thực hiện
+thực thi
+thực trạng
+thực tế
+tiêu chuẩn
+tiến hành
+tiền
+tiền lương
+tiền mặt
+tnhh
+toàn bộ
+toán 
+tr
+trao đổi
+triệu
+triệu tập
+trong
+trung tâm
+trách nhiệm
+trái phiếu
+trên
+trình
+trình tự
+trước
+trước hết
+trường hợp
+trưởng
+trả
+trải
+trở lại
+trừ
+trực thuộc
+trực tiếp
+tsan
+tuy nhiên
+tài
+tài chính
+tài khoản
+tài sản
+tên
+tìm
+tìm hiểu
+tình hình
+tính
+tính toán
+tôi
+tôi chốt
+tôi là
+tôi được
+tăng
+tư cách pháp nhân
+tư nhân
+tư vấn
+tương đương
+tương ứng
+tại
+tạm
+tạm ứng
+tất cả
+tỉ
+tỉ đăng
+tổ chức
+tổng
+tổng giám đốc
+tổng số
+tới
+từ
+từ chối
+từng
+tự
+tỷ
+tỷ lệ
+upcom
+uỷ nhiệm
+uỷ quyền
+vi phạm
+việc
+việc làm
+việt
+vnđ
+vv
+và
+vào
+vây
+vì
+vì vậy
+vô hạn
+văn bản
+văn phòng
+vướng mắc
+vấn đề
+vẫn
+vận tải
+vậy
+về
+vị trí
+vốn
+vốn điều lệ
+với
+vừa
+vừa rồi
+x
+xe
+xin
+xong
+xây dựng
+xử lý
+yêu cầu
+ 
+ cổ
+ danh
+ nhưng
+ nếu
+ số
+ thành
+ thời
+ trước
+ tuy
+ tôi
+ vậy
+Ý.
+áp dụng
+ít
+ô
+ô tô
+ông
+ý kiến
+Điếu
+Điều
+Điều kiện
+Đăng ký
+Đại hội đồng
+Đến
+đa số
+đang
+đi
+đinh
+điều
+điều chỉnh
+điều hành
+điều kiện
+điều lệ
+điểm
+điện
+đào tạo
+đây
+đã
+đã bán
+đòi
+đó
+đóng
+đóng góp
+đông
+đông sáng
+đúng
+đăng
+đăng ký
+đưa
+đường lối
+được
+đại diện
+đại hội
+đại hội đồng
+đấu giá
+đầu
+đầu tư
+đến
+đề bạt
+đề cử
+đều
+để
+định đoạt
+đối mặt
+đối với
+đồng
+đồng thời
+đồng ý
+đợt
+đủ
+đứmh
+đứng
+đứng tên
+ưu đãi
+ạ
+ổn
+ở
