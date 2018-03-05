@@ -3,7 +3,6 @@
 import sys  
 reload(sys)  
 sys.setdefaultencoding('utf8')
-import MySQLdb
 import json
 import pprint
 import mysql.connector
@@ -43,25 +42,6 @@ def extractKeyWord(cursor, id_question, mainText, typeTable):
 			print("Failed INSERT: {}".format(err))
 			pass
 
-def readDataJSON():
-	global originalQA
-	global modifiedQA
-	originalQA = []
-	modifiedQA = []
-
-	with open('lmgiaData.json') as json_data:
-		d = json.load(json_data)
-		data = d['item']
-		print len(data)
-		cnt = 0
-		ans = " "
-		ques = " "
-		for i in range(0, len(data)):
-			qa = data[i]
-			cnt += 1
-			print "Question Number: ", cnt 
-			ques = qa['question']
-			ans = qa['answer']
 			#print ques
 			#print ans
 			# originalQA.append((qa['question'], qa['answer']))

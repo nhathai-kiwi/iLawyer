@@ -133,6 +133,7 @@ def processInput():
 	# getQuestion(pos)
 	# print "Answer: "
 	f = open('answerQuestion.txt', "w")
-	answer = getAnswer(pos)
+	#answer = getAnswer(pos)
+	answer = "HungNM"
 	f.write(answer)
 processInput()

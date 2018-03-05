@@ -70,7 +70,7 @@ class MyTokenizer:
 
 		retWords = []
 		output_file_name = './output.txt'
-		model_file_name = './model.pkl'
+		model_file_name = './model.crf.pkl'
 		f = open(model_file_name, 'rb')
 		words_ = pickle.load(f) # Words with smoothed log probs.
 
@@ -229,6 +229,19 @@ class MyTokenizer:
 				break
 		#print type(ret)
 		return ret
+	def printOut(self):
+		words = self.separatingText()
+		# words = []
+		# dicts = {}
+		# cntWords = 0
+		# for i in word:
+		# 	#print i[0]
+		# 	if (i[0].isalpha() or i[0].isdigit()):
+		# 		words.append(i.lower())
+		# 		cntWords += 1
+		for i in words:
+			print i
+
 
 # x = MyTokenizer("Kính gửi: Luật Sư Luật Minh Gia. Thưa Luật sư,Công ty em là công ty cổ phần nhưng các cổ đông sáng lập đều là tổ chức cả (8 cổ đông sáng lập đều là công ty khác) vậy ngay")
 # x.getTopWords()
