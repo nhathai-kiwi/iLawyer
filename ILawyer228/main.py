@@ -121,7 +121,8 @@ def print_xlsx_performance(X, y):
 print_xlsx_performance(X, y)
 # DONE
 
-def cal_model_performances(model):
+
+def cal_model_performance(model):
     return 0
 
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # ilawyer library
-import ilawyer_basic as ib
+import iLawyer_basic as ib
 
 
 # generate dictionary from xlsx file

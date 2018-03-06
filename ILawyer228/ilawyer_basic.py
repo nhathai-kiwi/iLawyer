@@ -116,13 +116,13 @@ def gen_words_from_vncore_out_txt(vn_core_out_txt):
 
 
 # generate labels (numeric array) from xlsx file
-def gen_labels_from_xlsx(inp_xlsx, num_rows, num_):
+def gen_labels_from_xlsx(inp_xlsx, num_rows):
     labels = []
     # ADD YOUR CODE HERE
     book = openpyxl.load_workbook(inp_xlsx)
     sheet = book.active
     for row in range(2, num_rows + 1): # ignore 1st row which is preserved for column title
-        label = sheet.cell(row = row, column = 3).value # store all  in column 3
+        label = sheet.cell(row = row, column = 3).value # store all in column 3
         labels.append(label)
     return labels
 # DONE
